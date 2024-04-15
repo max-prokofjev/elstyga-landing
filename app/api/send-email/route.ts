@@ -20,7 +20,6 @@ export async function POST(req: Request) {
         return NextResponse.json({ error: 'Missing email or message fields' }, { status: 400 });
     }
 
-    console.log(process.cwd());
     const templatePath = path.join(process.cwd(), 'app', 'api', 'send-email', 'email-template.html');
     const emailTemplate = fs.readFileSync(templatePath, 'utf8');
     let populatedTemplate = emailTemplate
