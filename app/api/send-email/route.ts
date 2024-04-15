@@ -4,6 +4,7 @@ export const dynamic = 'force-dynamic';
 import nodemailer from 'nodemailer';
 import { NextResponse } from "next/server";
 import fs from 'fs';
+import path from 'path';
 
 require('dotenv').config();
 
@@ -19,7 +20,9 @@ export async function POST(req: Request) {
         return NextResponse.json({ error: 'Missing email or message fields' }, { status: 400 });
     }
 
-    const emailTemplate = fs.readFileSync('app/api/send-email/email-template.html', 'utf8');
+    console.log(process.cwd());
+    const templatePath = path.join(process.cwd(), 'app', 'api', 'send-email', 'email-template.html');
+    const emailTemplate = fs.readFileSync(templatePath, 'utf8');
     let populatedTemplate = emailTemplate
         .replace('{{ email }}', data.email)
         .replace('{{ message }}', data.message);
