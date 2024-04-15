@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Puslapio Užklausa</title>
+    <style>
+        body {
+            font-family: 'Helvetica Neue', Helvetica, sans-serif;
+            margin: 0;
+        }
+
+        .container {
+            max-width: 600px;
+            margin: 30px auto;
+            padding: 30px;
+            background-color: #FFF2E5;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+        }
+
+        h1 {
+            color: #003366;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+    <h1>Nauja užklausa</h1>
+    <p>https://elstyga.lt puslapyje gavome naują užklausą</p>
+    <div style="background-color: #fff; padding: 20px; border-radius: 5px;">
+        <p><strong>Nuo:</strong> {{ email }}</p>
+        <p>{{ message }}</p>
+    </div>
+</div>
+</body>
+</html>
