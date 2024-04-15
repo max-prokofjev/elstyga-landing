@@ -46,7 +46,7 @@ export default function Contacts() {
                 setIsSent(true);
             })
             .catch(e => {
-                console.log('Something went wrong');
+                console.log('Something went wrong', e);
                 setIsLoading(false);
             })
     };
