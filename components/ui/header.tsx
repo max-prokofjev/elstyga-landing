@@ -34,7 +34,13 @@ export default function Header() {
                     </nav>
 
                     {/*<MobileMenu/>*/}
-
+                    <div className="inline font-architects-daughter text-xl text-orange-600">
+                        <Link
+                            href="mailto:info@elstyga.lt"
+                            aria-label="mobile-phone">
+                            info@elstyga.lt
+                        </Link>
+                    </div>
                 </div>
             </div>
         </header>

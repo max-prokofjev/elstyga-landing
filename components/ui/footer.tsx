@@ -71,6 +71,14 @@ export default function Footer() {
                         </ul>
 
                         {/* Copyrights note */}
+                        <div className="text-blue-400 text-sm mr-4">
+                            <Link
+                                className="inline font-architects-daughter text-xl text-orange-600"
+                                href="tel:+37068712334"
+                                aria-label="mobile-phone">
+                                +37068712334
+                            </Link>
+                        </div>
                         <div className="text-blue-400 text-sm mr-4">&copy; Elstyga 2024 | All rights reserved.</div>
 
                     </div>
