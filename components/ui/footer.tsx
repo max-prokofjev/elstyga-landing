@@ -3,7 +3,7 @@ import Link from 'next/link'
 
 export default function Footer() {
     return (
-        <footer className="relative">
+        <footer className="relative" role="contentinfo">
             {/* Background decorations */}
             <div className="absolute inset-0 bg-gradient-to-b from-blue-900 to-blue-950" />
             <div className="absolute inset-0 bg-grid-white/[0.05] bg-[length:16px_16px]" />
@@ -54,13 +54,15 @@ export default function Footer() {
 
                         {/* Contact info and copyright */}
                         <div className="flex flex-col md:flex-row items-center justify-center md:justify-end space-y-4 md:space-y-0 md:space-x-8">
-                            <Link
-                                href="tel:+37068712334"
-                                className="text-lg font-semibold text-orange-500 hover:text-orange-400 transition-colors duration-300"
-                                aria-label="mobile-phone"
-                            >
-                                +370 687 12334
-                            </Link>
+                            <address className="not-italic">
+                                <Link
+                                    href="tel:+37068712334"
+                                    className="text-lg font-semibold text-orange-500 hover:text-orange-400 transition-colors duration-300"
+                                    aria-label="Skambinti telefonu"
+                                >
+                                    +370 687 12334
+                                </Link>
+                            </address>
                             <div className="text-sm text-blue-300">
                                 &copy; {new Date().getFullYear()} Elstyga | Visos teisės saugomos
                             </div>

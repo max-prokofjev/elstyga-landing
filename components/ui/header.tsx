@@ -3,7 +3,7 @@ import MobileMenu from './mobile-menu'
 
 export default function Header() {
     return (
-        <header className="absolute w-full z-30">
+        <header className="absolute w-full z-30" role="banner">
             <div className="max-w-6xl mx-auto px-4 sm:px-6">
                 {/* Add subtle gradient background with blur effect */}
                 <div className="flex items-center justify-between h-24 bg-gradient-to-r from-slate-900/95 via-blue-900/95 to-slate-900/95 backdrop-blur-sm rounded-b-2xl px-6 shadow-lg">
@@ -30,7 +30,7 @@ export default function Header() {
                     </div>
 
                     {/* Desktop navigation */}
-                    <nav className="hidden md:flex md:grow">
+                    <nav className="hidden md:flex md:grow" role="navigation" aria-label="Main navigation">
                         <ul className="flex grow justify-end flex-wrap items-center gap-8">
                             <li>
                                 <Link href="#services" className="text-blue-100 hover:text-orange-400 transition-colors duration-300">

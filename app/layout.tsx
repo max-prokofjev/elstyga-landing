@@ -18,8 +18,59 @@ const poppins = Poppins({
 })
 
 export const metadata = {
-  title: 'Elektros Paslaugos | Profesionalūs ir Patikimi Sprendimai',
-  description: 'Profesionalios elektros instaliacijos paslaugos namams ir verslui. Licencijuoti elektrikai, skubi pagalba 24/7.',
+  metadataBase: new URL('https://elstyga.lt'),
+  title: {
+    default: 'Elstyga | Profesionalios Elektros Paslaugos',
+    template: '%s | Elstyga'
+  },
+  description: 'Profesionalios elektros instaliacijos paslaugos namams ir verslui Vilniuje.',
+  keywords: [
+    'elektros darbai',
+    'elektros instaliacija',
+    'elektrikai vilniuje',
+    'elektros montavimas',
+    'elektros gedimų šalinimas',
+    'elektros įrenginių priežiūra'
+  ],
+  authors: [{ name: 'Elstyga' }],
+  creator: 'Elstyga',
+  publisher: 'Elstyga',
+  formatDetection: {
+    email: false,
+    address: false,
+    telephone: false,
+  },
+  openGraph: {
+    type: 'website',
+    locale: 'lt_LT',
+    url: 'https://elstyga.lt',
+    title: 'Elstyga | Profesionalios Elektros Paslaugos',
+    description: 'Profesionalios elektros instaliacijos paslaugos namams ir verslui Vilniuje.',
+    siteName: 'Elstyga',
+    images: [{
+      // url: '/images/og-image.jpg', // Make sure to add this image
+      width: 1200,
+      height: 630,
+      alt: 'Elstyga - Profesionalios Elektros Paslaugos'
+    }],
+  },
+  robots: {
+    index: true,
+    follow: true,
+    googleBot: {
+      index: true,
+      follow: true,
+      'max-video-preview': -1,
+      'max-image-preview': 'large',
+      'max-snippet': -1,
+    },
+  },
+  verification: {
+    google: 'your-google-verification-code', // Add your verification code
+  },
+  alternates: {
+    canonical: 'https://elstyga.lt',
+  },
 }
 
 export default function RootLayout({
