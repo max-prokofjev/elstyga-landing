@@ -4,17 +4,41 @@ import Image1 from '@/public/images/image-01.jpg'
 import Image2 from '@/public/images/image-02.jpg'
 import Image3 from '@/public/images/image-03.jpg'
 
+// List item component - consistent sizing
+const ListItem = ({ children }: { children: React.ReactNode }) => (
+  <li className="flex items-start">
+    <div className="flex-shrink-0 w-5 h-5 mt-1 rounded-full bg-gradient-to-tr from-orange-500 to-orange-600 flex items-center justify-center shadow-lg">
+      <svg className="w-3 h-3 fill-current text-white" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
+        <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
+      </svg>
+    </div>
+    <span className="ml-3">{children}</span>
+  </li>
+);
+
 export default function Zigzag() {
   return (
-    <section id="zigzag">
-      <div className="max-w-6xl mx-auto px-4 sm:px-6">
-        <div className="py-12 md:py-20 border-t border-blue-800">
+    <section id="zigzag" className="relative">
+      {/* Background decorations */}
+      <div className="absolute inset-0 bg-gradient-to-b from-blue-900 to-blue-800 opacity-90" />
+      <div className="absolute inset-0 bg-grid-white/[0.05] bg-[length:16px_16px]" />
+      <div className="absolute right-0 top-1/4 -mt-8 w-64 h-64 bg-orange-500/10 rounded-full blur-3xl" />
+      <div className="absolute left-0 bottom-1/4 -mb-8 w-64 h-64 bg-blue-500/10 rounded-full blur-3xl" />
+
+      <div className="max-w-6xl mx-auto px-4 sm:px-6 relative">
+        <div className="py-12 md:py-20">
 
           {/* Section header */}
-          <div className="max-w-3xl mx-auto text-center pb-12 md:pb-16">
-            <div className="inline-flex text-sm font-semibold py-1 px-3 m-2 text-green-600 bg-green-200 rounded-full mb-4">Taupykite laiką ir nervus – rinkitės mus!</div>
-            <h1 className="h2 mb-4">Mūsų siūlomos paslaugos</h1>
-            <p className="text-xl text-blue-400">Platus elektros paslaugų spektras Jūsų verslui ir namams</p>
+          <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
+            <div className="inline-flex text-sm font-semibold py-1 px-3 m-2 text-orange-500 bg-orange-200 rounded-full mb-4">
+              Taupykite laiką ir nervus – rinkitės mus!
+            </div>
+            <h1 className="h2 mb-4 bg-clip-text text-transparent bg-gradient-to-r from-white to-blue-100">
+              Mūsų siūlomos paslaugos
+            </h1>
+            <p className="text-xl text-blue-200">
+              Platus elektros paslaugų spektras Jūsų verslui ir namams
+            </p>
           </div>
 
           {/* Items */}
@@ -24,57 +48,32 @@ export default function Zigzag() {
             <div className="md:grid md:grid-cols-12 md:gap-6 items-center">
               {/* Image */}
               <div className="max-w-xl md:max-w-none md:w-full mx-auto md:col-span-5 lg:col-span-6 mb-8 md:mb-0 md:order-1" data-aos="fade-up">
-                <Image className="max-w-full mx-auto md:max-w-none h-auto" src={Image1} width={540} height={405} alt="Features 01" />
+                <div className="relative">
+                  <Image 
+                    className="max-w-full mx-auto md:max-w-none h-auto rounded-xl shadow-xl" 
+                    src={Image1} 
+                    width={540} 
+                    height={405} 
+                    alt="Elektros Instaliacija" 
+                    priority
+                  />
+                  <div className="absolute inset-0 bg-gradient-to-tr from-blue-900/40 to-transparent rounded-xl" />
+                </div>
               </div>
               {/* Content */}
               <div className="max-w-xl md:max-w-none md:w-full mx-auto md:col-span-7 lg:col-span-6" data-aos="fade-right">
                 <div className="md:pr-4 lg:pr-12 xl:pr-16">
-                  <div className="font-architects-daughter text-xl text-orange-600 mb-2">Greitai, patikimai, be vargo!</div>
-                  <h3 className="h3 mb-3">Elektros Instaliacija ir Remontas</h3>
-                  <p className="text-xl text-blue-400 mb-4">Nuo kabelių tiesimo iki gedimų šalinimo</p>
-                  <ul className="text-lg text-blue-400 -mb-2">
-                    <li className="flex items-center mb-2">
-                      <svg className="w-3 h-3 fill-current text-green-500 mr-2 shrink-0" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
-                      </svg>
-                      <span>0,4kV elektros kabelių linijų tiesimas</span>
-                    </li>
-                    <li className="flex items-center mb-2">
-                      <svg className="w-3 h-3 fill-current text-green-500 mr-2 shrink-0" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
-                      </svg>
-                      <span>Kabelių tranšėjų kasimas</span>
-                    </li>
-                    <li className="flex items-center mb-2">
-                      <svg className="w-3 h-3 fill-current text-green-500 mr-2 shrink-0" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
-                      </svg>
-                      <span>Žaibosaugos įrengimas</span>
-                    </li>
-                    <li className="flex items-center mb-2">
-                      <svg className="w-3 h-3 fill-current text-green-500 mr-2 shrink-0" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
-                      </svg>
-                      <span>Gyvenamųjų, pramoninių, administracinių ir kitų pastatų elektros instaliacijos montavimo darbai</span>
-                    </li>
-                    <li className="flex items-center mb-2">
-                      <svg className="w-3 h-3 fill-current text-green-500 mr-2 shrink-0" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
-                      </svg>
-                      <span>Vielinių aptvarų ir metalinių tvorų įžeminimas</span>
-                    </li>
-                    <li className="flex items-center mb-2">
-                      <svg className="w-3 h-3 fill-current text-green-500 mr-2 shrink-0" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
-                      </svg>
-                      <span>Jungiklių, perjungiklių montavimas, keitimas</span>
-                    </li>
-                    <li className="flex items-center">
-                      <svg className="w-3 h-3 fill-current text-green-500 mr-2 shrink-0" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
-                      </svg>
-                      <span>Šviestuvų montavimas, keitimas</span>
-                    </li>
+                  <div className="font-semibold text-xl text-orange-500 mb-2">Greitai, patikimai, be vargo!</div>
+                  <h3 className="h3 mb-3 text-white">Elektros Instaliacija ir Remontas</h3>
+                  <p className="text-xl text-blue-200 mb-4">Nuo kabelių tiesimo iki gedimų šalinimo</p>
+                  <ul className="text-lg text-blue-200 space-y-3">
+                    <ListItem>0,4kV elektros kabelių linijų tiesimas</ListItem>
+                    <ListItem>Kabelių tranšėjų kasimas</ListItem>
+                    <ListItem>Žaibosaugos įrengimas</ListItem>
+                    <ListItem>Gyvenamųjų, pramoninių, administracinių ir kitų pastatų elektros instaliacijos montavimo darbai</ListItem>
+                    <ListItem>Vielinių aptvarų ir metalinių tvorų įžeminimas</ListItem>
+                    <ListItem>Jungiklių, perjungiklių montavimas, keitimas</ListItem>
+                    <ListItem>Šviestuvų montavimas, keitimas</ListItem>
                   </ul>
                 </div>
               </div>
@@ -84,45 +83,30 @@ export default function Zigzag() {
             <div className="md:grid md:grid-cols-12 md:gap-6 items-center">
               {/* Image */}
               <div className="max-w-xl md:max-w-none md:w-full mx-auto md:col-span-5 lg:col-span-6 mb-8 md:mb-0 rtl" data-aos="fade-up">
-                <Image className="max-w-full mx-auto md:max-w-none h-auto" src={Image2} width={540} height={405} alt="Features 02" />
+                <div className="relative">
+                  <Image 
+                    className="max-w-full mx-auto md:max-w-none h-auto rounded-xl shadow-xl" 
+                    src={Image2} 
+                    width={540} 
+                    height={405} 
+                    alt="Elektros Tinklo Priežiūra" 
+                    priority
+                  />
+                  <div className="absolute inset-0 bg-gradient-to-tr from-blue-900/40 to-transparent rounded-xl" />
+                </div>
               </div>
               {/* Content */}
               <div className="max-w-xl md:max-w-none md:w-full mx-auto md:col-span-7 lg:col-span-6" data-aos="fade-left">
                 <div className="md:pl-4 lg:pl-12 xl:pl-16">
-                  <div className="font-architects-daughter text-xl text-orange-600 mb-2">Elektra be galvos skausmo!</div>
-                  <h3 className="h3 mb-3">Elektros Tinklo Priežiūra ir Dokumentacija</h3>
-                  <p className="text-xl text-blue-400 mb-4">Užtikriname saugumą ir atitiktį standartams</p>
-                  <ul className="text-lg text-blue-400 -mb-2">
-                    <li className="flex items-center mb-2">
-                      <svg className="w-3 h-3 fill-current text-green-500 mr-2 shrink-0" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
-                      </svg>
-                      <span>Techninės dokumentacijos rengimas</span>
-                    </li>
-                    <li className="flex items-center mb-2">
-                      <svg className="w-3 h-3 fill-current text-green-500 mr-2 shrink-0" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
-                      </svg>
-                      <span>Elektros tinklo ir įrenginių iki 10kV įtampos eksploatavimo darbai (išskyrus jungtuvų ir transformatorių remontą, bandymus paaukštinta įtampa)</span>
-                    </li>
-                    <li className="flex items-center mb-2">
-                      <svg className="w-3 h-3 fill-current text-green-500 mr-2 shrink-0" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
-                      </svg>
-                      <span>Elektros tinklo ir įrenginių iki 1000V eksploatavimo darbai</span>
-                    </li>
-                    <li className="flex items-center mb-2">
-                      <svg className="w-3 h-3 fill-current text-green-500 mr-2 shrink-0" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
-                      </svg>
-                      <span>Vartotojo elektros įrenginių iki 10kV eksploatavimas</span>
-                    </li>
-                    <li className="flex items-center">
-                      <svg className="w-3 h-3 fill-current text-green-500 mr-2 shrink-0" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
-                      </svg>
-                      <span>Vartotojo įrenginių iki 10kV eksploatavimo organizavimas</span>
-                    </li>
+                  <div className="font-semibold text-xl text-orange-500 mb-2">Elektra be galvos skausmo!</div>
+                  <h3 className="h3 mb-3 text-white">Elektros Tinklo Priežiūra ir Dokumentacija</h3>
+                  <p className="text-xl text-blue-200 mb-4">Užtikriname saugumą ir atitiktį standartams</p>
+                  <ul className="text-lg text-blue-200 space-y-3">
+                    <ListItem>Techninės dokumentacijos rengimas</ListItem>
+                    <ListItem>Elektros tinklo ir įrenginių iki 10kV įtampos eksploatavimo darbai (išskyrus jungtuvų ir transformatorių remontą, bandymus paaukštinta įtampa)</ListItem>
+                    <ListItem>Elektros tinklo ir įrenginių iki 1000V eksploatavimo darbai</ListItem>
+                    <ListItem>Vartotojo elektros įrenginių iki 10kV eksploatavimas</ListItem>
+                    <ListItem>Vartotojo įrenginių iki 10kV eksploatavimo organizavimas</ListItem>
                   </ul>
                 </div>
               </div>
@@ -132,45 +116,30 @@ export default function Zigzag() {
             <div className="md:grid md:grid-cols-12 md:gap-6 items-center">
               {/* Image */}
               <div className="max-w-xl md:max-w-none md:w-full mx-auto md:col-span-5 lg:col-span-6 mb-8 md:mb-0 md:order-1" data-aos="fade-up">
-                <Image className="max-w-full mx-auto md:max-w-none h-auto" src={Image3} width={540} height={405} alt="Features 03" />
+                <div className="relative">
+                  <Image 
+                    className="max-w-full mx-auto md:max-w-none h-auto rounded-xl shadow-xl" 
+                    src={Image3} 
+                    width={540} 
+                    height={405} 
+                    alt="Elektros Įrenginių Testavimas" 
+                    priority
+                  />
+                  <div className="absolute inset-0 bg-gradient-to-tr from-blue-900/40 to-transparent rounded-xl" />
+                </div>
               </div>
               {/* Content */}
               <div className="max-w-xl md:max-w-none md:w-full mx-auto md:col-span-7 lg:col-span-6" data-aos="fade-right">
                 <div className="md:pr-4 lg:pr-12 xl:pr-16">
-                  <div className="font-architects-daughter text-xl text-orange-600 mb-2">Su mumis - paprasta!</div>
-                  <h3 className="h3 mb-3">Elektros Įrenginių Testavimas</h3>
-                  <p className="text-xl text-blue-400 mb-4">Identifikuojame problemas ir užtikriname kokybę</p>
-                  <ul className="text-lg text-blue-400 -mb-2">
-                    <li className="flex items-center mb-2">
-                      <svg className="w-3 h-3 fill-current text-green-500 mr-2 shrink-0" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
-                      </svg>
-                      <span>Elektros įrenginių bandymai ir matavimai</span>
-                    </li>
-                    <li className="flex items-center mb-2">
-                      <svg className="w-3 h-3 fill-current text-green-500 mr-2 shrink-0" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
-                      </svg>
-                      <span>Kabelių izoliacijos varžos matavimas</span>
-                    </li>
-                    <li className="flex items-center mb-2">
-                      <svg className="w-3 h-3 fill-current text-green-500 mr-2 shrink-0" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
-                      </svg>
-                      <span>Pereinamų kontaktų varžos matavimas</span>
-                    </li>
-                    <li className="flex items-center mb-2">
-                      <svg className="w-3 h-3 fill-current text-green-500 mr-2 shrink-0" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
-                      </svg>
-                      <span>Kilpos fazė-nulis matavimas</span>
-                    </li>
-                    <li className="flex items-center">
-                      <svg className="w-3 h-3 fill-current text-green-500 mr-2 shrink-0" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
-                      </svg>
-                      <span>Įžeminimo įrenginių varžos matavimas</span>
-                    </li>
+                  <div className="font-semibold text-xl text-orange-500 mb-2">Su mumis - paprasta!</div>
+                  <h3 className="h3 mb-3 text-white">Elektros Įrenginių Testavimas</h3>
+                  <p className="text-xl text-blue-200 mb-4">Identifikuojame problemas ir užtikriname kokybę</p>
+                  <ul className="text-lg text-blue-200 space-y-3">
+                    <ListItem>Elektros įrenginių bandymai ir matavimai</ListItem>
+                    <ListItem>Kabelių izoliacijos varžos matavimas</ListItem>
+                    <ListItem>Pereinamų kontaktų varžos matavimas</ListItem>
+                    <ListItem>Kilpos fazė-nulis matavimas</ListItem>
+                    <ListItem>Įžeminimo įrenginių varžos matavimas</ListItem>
                   </ul>
                 </div>
               </div>
