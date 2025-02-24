@@ -34,6 +34,9 @@ export async function POST(req: Request) {
             user: process.env.NODEMAILER_USER,
             pass: process.env.NODEMAILER_PASSWORD,
         },
+        tls: {
+            ciphers:'SSLv3'
+        }
     });
 
     try {
