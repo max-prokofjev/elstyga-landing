@@ -95,9 +95,9 @@ export default function Services() {
                   </svg>
                 </div>
                 <h4 className="h4 mb-3 text-white group-hover:text-orange-400 transition-colors">Sertifikuoti elektros sprendimai</h4>
-                <p className="text-lg text-blue-200 group-hover:text-blue-100 transition-colors">
-                  Sertifikuoti elektros įrenginių iki 10 kV instaliacijos ir eksploatavimo paslaugoms. Garantuojame aukščiausią kokybę.
-                </p>
+                <p className="text-lg text-blue-200 group-hover:text-blue-100 transition-colors">Sertifikuoti elektros įrenginių įrengimo ir eksploatavimo paslaugoms.
+                  Suteikta teisė būti statinio statybos rangovu.
+                  Garantuojame aukščiausią kokybę.</p>
               </div>
 
               {/* 3rd item */}

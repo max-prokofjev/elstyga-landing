@@ -29,7 +29,7 @@ export default function Footer() {
                             </li>
                             <li>
                                 <Link 
-                                    href="mailto:info@elstyga.lt"
+                                    href="mailto:elstyga@gmail.com"
                                     className="flex justify-center items-center w-10 h-10 bg-gradient-to-r from-blue-800 to-blue-700 hover:from-orange-500 hover:to-orange-600 text-orange-500 hover:text-white rounded-full transition-all duration-300 shadow-lg hover:shadow-orange-500/25 group"
                                     aria-label="email"
                                 >

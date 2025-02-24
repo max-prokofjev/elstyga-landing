@@ -53,13 +53,13 @@ export default function Header() {
                     {/* Contact button */}
                     <div className="flex items-center ml-8">
                         <Link
-                            href="mailto:info@elstyga.lt"
+                            href="mailto:elstyga@gmail.com"
                             className="inline-flex items-center justify-center px-4 py-2 text-sm font-semibold text-white bg-gradient-to-r from-orange-500 to-orange-600 rounded-lg hover:from-orange-400 hover:to-orange-500 transition-all duration-300 shadow-lg hover:shadow-orange-500/25"
                             aria-label="contact-email">
                             <svg className="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"/>
                             </svg>
-                            info@elstyga.lt
+                            elstyga@gmail.com
                         </Link>
                     </div>
 

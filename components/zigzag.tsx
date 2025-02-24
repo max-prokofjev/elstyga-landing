@@ -67,13 +67,16 @@ export default function Zigzag() {
                   <h3 className="h3 mb-3 text-white">Elektros Instaliacija ir Remontas</h3>
                   <p className="text-xl text-blue-200 mb-4">Nuo kabelių tiesimo iki gedimų šalinimo</p>
                   <ul className="text-lg text-blue-200 space-y-3">
-                    <ListItem>0,4kV elektros kabelių linijų tiesimas</ListItem>
-                    <ListItem>Kabelių tranšėjų kasimas</ListItem>
-                    <ListItem>Žaibosaugos įrengimas</ListItem>
-                    <ListItem>Gyvenamųjų, pramoninių, administracinių ir kitų pastatų elektros instaliacijos montavimo darbai</ListItem>
-                    <ListItem>Vielinių aptvarų ir metalinių tvorų įžeminimas</ListItem>
-                    <ListItem>Jungiklių, perjungiklių montavimas, keitimas</ListItem>
-                    <ListItem>Šviestuvų montavimas, keitimas</ListItem>
+                    <ListItem>Suteikta teisė būti ESO rangovų ir vykdyti darbus ESO elektros tinkle</ListItem>
+                    <ListItem>ESO rangovo akto parengimas, pridavimas</ListItem>
+                    <ListItem>Elektros kabelių tiesimas</ListItem>
+                    <ListItem>Įžeminimo, žaibosaugos įrengimas</ListItem>
+                    <ListItem>Gyvenamųjų daugiabučių namų elektros instaliacijos atnaujinimas, modernizavimas</ListItem>
+                    <ListItem>Pramoninių, administracinių ir kitų pastatų elektros instaliacijos įrengimas</ListItem>
+                    <ListItem>Statybinės technikos nuoma</ListItem>
+                    <ListItem>Mini ekskavatoriaus nuoma su operatoriumi</ListItem>
+                    <ListItem>Tranšėjos elektros kabeliams, vandentiekiui kasimas</ListItem>
+                    <ListItem>Skylių gręžimas tvorai, pamatui iki 2m, grąžtų diametras 20, 30cm.</ListItem>
                   </ul>
                 </div>
               </div>
@@ -136,10 +139,8 @@ export default function Zigzag() {
                   <p className="text-xl text-blue-200 mb-4">Identifikuojame problemas ir užtikriname kokybę</p>
                   <ul className="text-lg text-blue-200 space-y-3">
                     <ListItem>Elektros įrenginių bandymai ir matavimai</ListItem>
-                    <ListItem>Kabelių izoliacijos varžos matavimas</ListItem>
-                    <ListItem>Pereinamų kontaktų varžos matavimas</ListItem>
-                    <ListItem>Kilpos fazė-nulis matavimas</ListItem>
-                    <ListItem>Įžeminimo įrenginių varžos matavimas</ListItem>
+                    <ListItem>Kabelių izoliacijos, pereinamų kontaktų varžos matavimas</ListItem>
+                    <ListItem>Įžeminimo įrenginių, žaibosaugos varžos matavimas</ListItem>
                   </ul>
                 </div>
               </div>
