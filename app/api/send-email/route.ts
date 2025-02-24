@@ -28,7 +28,7 @@ export async function POST(req: Request) {
 
     const transporter = nodemailer.createTransport({
         host: process.env.NODEMAILER_HOST,
-        port: parseInt(process.env.NODEMAILER_PORT),
+        port: parseInt(process.env.NODEMAILER_PORT ?? '587'),
         secure: true,
         auth: {
             user: process.env.NODEMAILER_USER,
