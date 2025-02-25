@@ -106,10 +106,8 @@ export default function Zigzag() {
                   <p className="text-xl text-blue-200 mb-4">Užtikriname saugumą ir atitiktį standartams</p>
                   <ul className="text-lg text-blue-200 space-y-3">
                     <ListItem>Techninės dokumentacijos rengimas</ListItem>
-                    <ListItem>Elektros tinklo ir įrenginių iki 10kV įtampos eksploatavimo darbai (išskyrus jungtuvų ir transformatorių remontą, bandymus paaukštinta įtampa)</ListItem>
-                    <ListItem>Elektros tinklo ir įrenginių iki 1000V eksploatavimo darbai</ListItem>
-                    <ListItem>Vartotojo elektros įrenginių iki 10kV eksploatavimas</ListItem>
-                    <ListItem>Vartotojo įrenginių iki 10kV eksploatavimo organizavimas</ListItem>
+                    <ListItem>Eksploatuoti vartotojo elektros įrenginius</ListItem>
+                    <ListItem>Būti atsakingam už vartotojo elektros ūkį</ListItem>
                   </ul>
                 </div>
               </div>
