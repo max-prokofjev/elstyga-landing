@@ -66,7 +66,7 @@ export const metadata = {
     },
   },
   verification: {
-    google: 'your-google-verification-code', // Add your verification code
+    google: 'IxtyL-_5vzKQ4EJgGZfyi9MO4ORSH5EcJWbUPfbPWio', // Add your verification code
   },
   alternates: {
     canonical: 'https://elstyga.lt',
