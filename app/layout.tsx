@@ -48,7 +48,7 @@ export const metadata = {
     description: 'Profesionalios elektros instaliacijos paslaugos namams ir verslui Vilniuje.',
     siteName: 'Elstyga',
     images: [{
-      // url: '/images/og-image.jpg', // Make sure to add this image
+      url: '/images/image-03.jpg', // Make sure to add this image
       width: 1200,
       height: 630,
       alt: 'Elstyga - Profesionalios Elektros Paslaugos'
