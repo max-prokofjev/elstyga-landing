@@ -1,18 +1,18 @@
 /* Typography */
 .h1 {
-    @apply text-4xl font-extrabold leading-tight tracking-tighter;
+    @apply text-4xl font-extrabold leading-tight tracking-tighter font-poppins;
 }
 
 .h2 {
-    @apply text-3xl font-extrabold leading-tight tracking-tighter;
+    @apply text-3xl font-extrabold leading-tight tracking-tighter font-poppins;
 }
 
 .h3 {
-    @apply text-3xl font-bold leading-tight;
+    @apply text-3xl font-bold leading-tight font-poppins;
 }
 
 .h4 {
-    @apply text-2xl font-bold leading-snug tracking-tight;
+    @apply text-2xl font-bold leading-snug tracking-tight font-poppins;
 }
 
 @screen md {
@@ -28,7 +28,7 @@
 /* Buttons */
 .btn,
 .btn-sm {
-    @apply font-medium inline-flex items-center justify-center border border-transparent rounded-sm leading-snug transition duration-150 ease-in-out;
+    @apply font-medium inline-flex items-center justify-center border border-transparent rounded-lg leading-snug transition duration-150 ease-in-out;
 }
 
 .btn {
@@ -54,7 +54,7 @@
 .form-multiselect,
 .form-select,
 .form-checkbox {
-    @apply rounded-sm;
+    @apply rounded-lg;
 }
 
 .form-input,
