@@ -31,7 +31,7 @@ export default function MobileMenu() {
   })
 
   return (
-    <div className="md:hidden">
+    <div className="md:hidden ml-2">
       {/* Hamburger button */}
       <button
         ref={trigger}
@@ -56,47 +56,58 @@ export default function MobileMenu() {
       <nav
         id="mobile-nav"
         ref={mobileNav}
-        className="absolute top-full z-20 left-0 w-full px-4 sm:px-6 overflow-hidden transition-all duration-300 ease-in-out"
+        className="fixed top-20 left-0 right-0 z-20 px-4 sm:px-6 overflow-hidden transition-all duration-300 ease-in-out"
         style={mobileNavOpen ? { maxHeight: mobileNav.current?.scrollHeight, opacity: 1 } : { maxHeight: 0, opacity: 0.8 }}
       >
-        <ul className="bg-white rounded-lg shadow-lg px-4 py-4 space-y-2">
-          <li>
-            <Link
-              href="#services"
-              className="block px-4 py-2 text-slate-600 hover:text-orange-500 hover:bg-orange-50 rounded-lg font-medium transition-colors duration-200"
-              onClick={() => setMobileNavOpen(false)}
-            >
-              Apie Mus
-            </Link>
-          </li>
-          <li>
-            <Link
-              href="#zigzag"
-              className="block px-4 py-2 text-slate-600 hover:text-orange-500 hover:bg-orange-50 rounded-lg font-medium transition-colors duration-200"
-              onClick={() => setMobileNavOpen(false)}
-            >
-              Paslaugos
-            </Link>
-          </li>
-          <li>
-            <Link
-              href="#contacts"
-              className="block px-4 py-2 text-slate-600 hover:text-orange-500 hover:bg-orange-50 rounded-lg font-medium transition-colors duration-200"
-              onClick={() => setMobileNavOpen(false)}
-            >
-              Kontaktai
-            </Link>
-          </li>
-          <li>
-            <Link
-              href="/blog"
-              className="block px-4 py-2 text-slate-600 hover:text-orange-500 hover:bg-orange-50 rounded-lg font-medium transition-colors duration-200"
-              onClick={() => setMobileNavOpen(false)}
-            >
-              Blogas
-            </Link>
-          </li>
-        </ul>
+        <div className="max-w-6xl mx-auto">
+          <ul className="bg-white rounded-lg shadow-lg px-4 py-4 space-y-2">
+            <li>
+              <Link
+                href="/#services"
+                className="block px-4 py-2 text-slate-600 hover:text-orange-500 hover:bg-orange-50 rounded-lg font-medium transition-colors duration-200"
+                onClick={() => setMobileNavOpen(false)}
+              >
+                Apie Mus
+              </Link>
+            </li>
+            <li>
+              <Link
+                href="/#zigzag"
+                className="block px-4 py-2 text-slate-600 hover:text-orange-500 hover:bg-orange-50 rounded-lg font-medium transition-colors duration-200"
+                onClick={() => setMobileNavOpen(false)}
+              >
+                Paslaugos
+              </Link>
+            </li>
+            <li>
+              <Link
+                href="/#contacts"
+                className="block px-4 py-2 text-slate-600 hover:text-orange-500 hover:bg-orange-50 rounded-lg font-medium transition-colors duration-200"
+                onClick={() => setMobileNavOpen(false)}
+              >
+                Kontaktai
+              </Link>
+            </li>
+            <li>
+              <Link
+                href="/blog"
+                className="block px-4 py-2 text-slate-600 hover:text-orange-500 hover:bg-orange-50 rounded-lg font-medium transition-colors duration-200"
+                onClick={() => setMobileNavOpen(false)}
+              >
+                Blogas
+              </Link>
+            </li>
+            <li className="pt-2 border-t border-slate-100">
+              <Link
+                href="mailto:elstyga@gmail.com"
+                className="block px-4 py-2 text-orange-500 hover:bg-orange-50 rounded-lg font-medium transition-colors duration-200"
+                onClick={() => setMobileNavOpen(false)}
+              >
+                elstyga@gmail.com
+              </Link>
+            </li>
+          </ul>
+        </div>
       </nav>
     </div>
   )
