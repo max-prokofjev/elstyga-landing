@@ -2,6 +2,7 @@
 title: "Elektros saugos patarimai 2025 metams"
 description: "Svarbiausi elektros saugos patarimai jūsų namams ir verslui. Kaip apsisaugoti nuo elektros nelaimių ir užtikrinti saugią aplinką."
 date: "2025-03-05"
+dateModified: "2025-03-10"
 tags: ["saugumas", "patarimai", "elektros sauga"]
 ---
 

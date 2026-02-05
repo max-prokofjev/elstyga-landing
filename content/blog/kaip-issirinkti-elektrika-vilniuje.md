@@ -2,6 +2,7 @@
 title: "Kaip išsirinkti patikimą elektriką Vilniuje?"
 description: "Patarimai, kaip rasti profesionalų ir patikimą elektriką Vilniuje. Į ką atkreipti dėmesį renkantis elektros paslaugų tiekėją."
 date: "2025-02-10"
+dateModified: "2025-02-15"
 tags: ["elektrikas", "Vilnius", "patarimai"]
 ---
 

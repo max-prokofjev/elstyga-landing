@@ -2,6 +2,7 @@
 title: "Elektros instaliacijos namuose: ką reikia žinoti?"
 description: "Viskas apie elektros instaliacijos darbus namuose - nuo planavimo iki saugos reikalavimų. Praktiniai patarimai namų savininkams."
 date: "2025-01-15"
+dateModified: "2025-01-20"
 tags: ["elektros instaliacija", "namų elektra", "saugumas"]
 ---
 

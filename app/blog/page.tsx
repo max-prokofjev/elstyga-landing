@@ -55,15 +55,19 @@ export default function BlogPage() {
                     {post.description}
                   </p>
 
-                  {/* Date + read more */}
+                  {/* Date + reading time + read more */}
                   <div className="flex items-center justify-between text-sm">
-                    <time className="text-slate-400" dateTime={post.date}>
-                      {new Date(post.date).toLocaleDateString('lt-LT', {
-                        year: 'numeric',
-                        month: 'long',
-                        day: 'numeric',
-                      })}
-                    </time>
+                    <div className="flex items-center gap-2 text-slate-400">
+                      <time dateTime={post.date}>
+                        {new Date(post.date).toLocaleDateString('lt-LT', {
+                          year: 'numeric',
+                          month: 'long',
+                          day: 'numeric',
+                        })}
+                      </time>
+                      <span aria-hidden="true">·</span>
+                      <span>{post.readingTime} min.</span>
+                    </div>
                     <span className="text-orange-500 font-medium group-hover:translate-x-1 transition-transform duration-200 inline-flex items-center">
                       Skaityti
                       <svg className="w-4 h-4 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
