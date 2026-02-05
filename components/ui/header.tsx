@@ -46,6 +46,11 @@ export default function Header() {
                                     Kontaktai
                                 </Link>
                             </li>
+                            <li>
+                                <Link href="/blog" className="text-slate-600 hover:text-orange-500 font-medium transition-colors duration-300">
+                                    Blogas
+                                </Link>
+                            </li>
                         </ul>
                     </nav>
 

@@ -87,6 +87,15 @@ export default function MobileMenu() {
               Kontaktai
             </Link>
           </li>
+          <li>
+            <Link
+              href="/blog"
+              className="block px-4 py-2 text-slate-600 hover:text-orange-500 hover:bg-orange-50 rounded-lg font-medium transition-colors duration-200"
+              onClick={() => setMobileNavOpen(false)}
+            >
+              Blogas
+            </Link>
+          </li>
         </ul>
       </nav>
     </div>
