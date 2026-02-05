@@ -80,7 +80,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="lt">
-      <body className={`${inter.variable} ${poppins.variable} font-inter antialiased bg-gradient-to-b from-slate-900 via-blue-900 to-slate-900 text-blue-100 tracking-tight`}>
+      <body className={`${inter.variable} ${poppins.variable} font-inter antialiased bg-white text-slate-800 tracking-tight`}>
         <div className="flex flex-col min-h-screen overflow-hidden">
           <Header />
           <main className="flex-grow">

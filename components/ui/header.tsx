@@ -5,8 +5,7 @@ export default function Header() {
     return (
         <header className="absolute w-full z-30" role="banner">
             <div className="max-w-6xl mx-auto px-4 sm:px-6">
-                {/* Add subtle gradient background with blur effect */}
-                <div className="flex items-center justify-between h-24 bg-gradient-to-r from-slate-900/95 via-blue-900/95 to-slate-900/95 backdrop-blur-sm rounded-b-2xl px-6 shadow-lg">
+                <div className="flex items-center justify-between h-24 bg-white/95 backdrop-blur-sm rounded-b-2xl px-6 shadow-md">
                     {/* Site branding */}
                     <div className="shrink-0 mr-4">
                         {/* Logo */}
@@ -33,17 +32,17 @@ export default function Header() {
                     <nav className="hidden md:flex md:grow" role="navigation" aria-label="Main navigation">
                         <ul className="flex grow justify-end flex-wrap items-center gap-8">
                             <li>
-                                <Link href="#services" className="text-blue-100 hover:text-orange-400 transition-colors duration-300">
+                                <Link href="#services" className="text-slate-600 hover:text-orange-500 font-medium transition-colors duration-300">
                                     Apie Mus
                                 </Link>
                             </li>
                             <li>
-                                <Link href="#zigzag" className="text-blue-100 hover:text-orange-400 transition-colors duration-300">
+                                <Link href="#zigzag" className="text-slate-600 hover:text-orange-500 font-medium transition-colors duration-300">
                                     Paslaugos
                                 </Link>
                             </li>
                             <li>
-                                <Link href="#contacts" className="text-blue-100 hover:text-orange-400 transition-colors duration-300">
+                                <Link href="#contacts" className="text-slate-600 hover:text-orange-500 font-medium transition-colors duration-300">
                                     Kontaktai
                                 </Link>
                             </li>

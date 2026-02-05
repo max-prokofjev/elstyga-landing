@@ -42,7 +42,7 @@ export default function MobileMenu() {
       >
         <span className="sr-only">Menu</span>
         <svg
-          className="w-6 h-6 fill-current text-blue-300 hover:text-blue-200 transition duration-150 ease-in-out"
+          className="w-6 h-6 fill-current text-slate-500 hover:text-slate-700 transition duration-150 ease-in-out"
           viewBox="0 0 24 24"
           xmlns="http://www.w3.org/2000/svg"
         >
@@ -59,7 +59,34 @@ export default function MobileMenu() {
         className="absolute top-full z-20 left-0 w-full px-4 sm:px-6 overflow-hidden transition-all duration-300 ease-in-out"
         style={mobileNavOpen ? { maxHeight: mobileNav.current?.scrollHeight, opacity: 1 } : { maxHeight: 0, opacity: 0.8 }}
       >
-        <ul className="bg-blue-800 px-4 py-2">
+        <ul className="bg-white rounded-lg shadow-lg px-4 py-4 space-y-2">
+          <li>
+            <Link
+              href="#services"
+              className="block px-4 py-2 text-slate-600 hover:text-orange-500 hover:bg-orange-50 rounded-lg font-medium transition-colors duration-200"
+              onClick={() => setMobileNavOpen(false)}
+            >
+              Apie Mus
+            </Link>
+          </li>
+          <li>
+            <Link
+              href="#zigzag"
+              className="block px-4 py-2 text-slate-600 hover:text-orange-500 hover:bg-orange-50 rounded-lg font-medium transition-colors duration-200"
+              onClick={() => setMobileNavOpen(false)}
+            >
+              Paslaugos
+            </Link>
+          </li>
+          <li>
+            <Link
+              href="#contacts"
+              className="block px-4 py-2 text-slate-600 hover:text-orange-500 hover:bg-orange-50 rounded-lg font-medium transition-colors duration-200"
+              onClick={() => setMobileNavOpen(false)}
+            >
+              Kontaktai
+            </Link>
+          </li>
         </ul>
       </nav>
     </div>

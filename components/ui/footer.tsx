@@ -3,13 +3,7 @@ import Link from 'next/link'
 
 export default function Footer() {
     return (
-        <footer className="relative" role="contentinfo">
-            {/* Background decorations */}
-            <div className="absolute inset-0 bg-gradient-to-b from-blue-900 to-blue-950" />
-            <div className="absolute inset-0 bg-grid-white/[0.05] bg-[length:16px_16px]" />
-            <div className="absolute right-0 bottom-0 -mb-8 w-64 h-64 bg-orange-500/10 rounded-full blur-3xl" />
-            <div className="absolute left-0 bottom-0 -mb-8 w-64 h-64 bg-blue-500/10 rounded-full blur-3xl" />
-
+        <footer className="relative bg-slate-800" role="contentinfo">
             <div className="relative py-12 md:py-16">
                 <div className="max-w-6xl mx-auto px-4 sm:px-6">
                     {/* Bottom area */}
@@ -17,9 +11,9 @@ export default function Footer() {
                         {/* Social links */}
                         <ul className="flex items-center justify-center mb-4 md:order-1 md:mb-0 space-x-4">
                             <li>
-                                <Link 
+                                <Link
                                     href="tel:+37068712334"
-                                    className="flex justify-center items-center w-10 h-10 bg-gradient-to-r from-blue-800 to-blue-700 hover:from-orange-500 hover:to-orange-600 text-orange-500 hover:text-white rounded-full transition-all duration-300 shadow-lg hover:shadow-orange-500/25 group"
+                                    className="flex justify-center items-center w-10 h-10 bg-slate-700 hover:bg-orange-500 text-slate-300 hover:text-white rounded-full transition-all duration-300 group"
                                     aria-label="mobile-phone"
                                 >
                                     <svg className="w-5 h-5 fill-current transition-transform duration-300 group-hover:scale-110" viewBox="0 0 24 24">
@@ -28,9 +22,9 @@ export default function Footer() {
                                 </Link>
                             </li>
                             <li>
-                                <Link 
+                                <Link
                                     href="mailto:elstyga@gmail.com"
-                                    className="flex justify-center items-center w-10 h-10 bg-gradient-to-r from-blue-800 to-blue-700 hover:from-orange-500 hover:to-orange-600 text-orange-500 hover:text-white rounded-full transition-all duration-300 shadow-lg hover:shadow-orange-500/25 group"
+                                    className="flex justify-center items-center w-10 h-10 bg-slate-700 hover:bg-orange-500 text-slate-300 hover:text-white rounded-full transition-all duration-300 group"
                                     aria-label="email"
                                 >
                                     <svg className="w-5 h-5 fill-current transition-transform duration-300 group-hover:scale-110" viewBox="0 0 24 24">
@@ -39,10 +33,10 @@ export default function Footer() {
                                 </Link>
                             </li>
                             <li>
-                                <Link 
-                                    target="_blank" 
+                                <Link
+                                    target="_blank"
                                     href="https://rekvizitai.vz.lt/imone/elstyga/"
-                                    className="flex justify-center items-center w-10 h-10 bg-gradient-to-r from-blue-800 to-blue-700 hover:from-orange-500 hover:to-orange-600 text-orange-500 hover:text-white rounded-full transition-all duration-300 shadow-lg hover:shadow-orange-500/25 group"
+                                    className="flex justify-center items-center w-10 h-10 bg-slate-700 hover:bg-orange-500 text-slate-300 hover:text-white rounded-full transition-all duration-300 group"
                                     aria-label="rekvizitai"
                                 >
                                     <svg className="w-5 h-5 fill-current transition-transform duration-300 group-hover:scale-110" viewBox="0 0 24 24">
@@ -57,13 +51,13 @@ export default function Footer() {
                             <address className="not-italic">
                                 <Link
                                     href="tel:+37068712334"
-                                    className="text-lg font-semibold text-orange-500 hover:text-orange-400 transition-colors duration-300"
+                                    className="text-lg font-semibold text-orange-400 hover:text-orange-300 transition-colors duration-300"
                                     aria-label="Skambinti telefonu"
                                 >
                                     +370 687 12334
                                 </Link>
                             </address>
-                            <div className="text-sm text-blue-300">
+                            <div className="text-sm text-slate-400">
                                 &copy; {new Date().getFullYear()} Elstyga | Visos teisės saugomos
                             </div>
                         </div>
