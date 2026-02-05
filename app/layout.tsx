@@ -79,9 +79,9 @@ export default function RootLayout({
   children: React.ReactNode
 }) {
   return (
-    <html lang="lt">
-      <body className={`${inter.variable} ${poppins.variable} font-inter antialiased bg-white text-slate-800 tracking-tight`}>
-        <div className="flex flex-col min-h-screen overflow-hidden">
+    <html lang="lt" className="overflow-x-hidden">
+      <body className={`${inter.variable} ${poppins.variable} font-inter antialiased bg-white text-slate-800 tracking-tight overflow-x-hidden`}>
+        <div className="flex flex-col min-h-screen overflow-x-hidden">
           <Header />
           <main className="flex-grow">
             {children}
