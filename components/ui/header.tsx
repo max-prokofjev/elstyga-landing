@@ -5,12 +5,12 @@ export default function Header() {
     return (
         <header className="absolute w-full z-30" role="banner">
             <div className="max-w-6xl mx-auto px-4 sm:px-6">
-                <div className="flex items-center justify-between h-24 bg-white/95 backdrop-blur-sm rounded-b-2xl px-6 shadow-md">
+                <div className="flex items-center justify-between h-20 md:h-24 bg-white/95 backdrop-blur-sm rounded-b-2xl px-3 sm:px-4 md:px-6 shadow-md">
                     {/* Site branding */}
-                    <div className="shrink-0 mr-4">
+                    <div className="shrink-0 mr-2 md:mr-4">
                         {/* Logo */}
                         <Link href="/" className="flex items-center group" aria-label="Elstyga">
-                            <svg className="w-10 h-10 text-orange-500 transition-transform duration-300 group-hover:scale-110" viewBox="0 0 32 32"
+                            <svg className="w-8 h-8 md:w-10 md:h-10 text-orange-500 transition-transform duration-300 group-hover:scale-110" viewBox="0 0 32 32"
                                  xmlns="http://www.w3.org/2000/svg">
                                 <g id="SVGRepo_bgCarrier" strokeWidth="0"/>
                                 <g id="SVGRepo_tracerCarrier" strokeLinecap="round" strokeLinejoin="round"/>
@@ -22,7 +22,7 @@ export default function Header() {
                                           strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
                                 </g>
                             </svg>
-                            <div className="ml-3 text-2xl font-semibold bg-gradient-to-r from-orange-500 to-orange-600 bg-clip-text text-transparent hover:from-orange-400 hover:to-orange-500 transition-all duration-300">
+                            <div className="ml-2 md:ml-3 text-xl md:text-2xl font-semibold bg-gradient-to-r from-orange-500 to-orange-600 bg-clip-text text-transparent hover:from-orange-400 hover:to-orange-500 transition-all duration-300">
                                 Elstyga
                             </div>
                         </Link>
@@ -32,17 +32,17 @@ export default function Header() {
                     <nav className="hidden md:flex md:grow" role="navigation" aria-label="Main navigation">
                         <ul className="flex grow justify-end flex-wrap items-center gap-8">
                             <li>
-                                <Link href="#services" className="text-slate-600 hover:text-orange-500 font-medium transition-colors duration-300">
+                                <Link href="/#services" className="text-slate-600 hover:text-orange-500 font-medium transition-colors duration-300">
                                     Apie Mus
                                 </Link>
                             </li>
                             <li>
-                                <Link href="#zigzag" className="text-slate-600 hover:text-orange-500 font-medium transition-colors duration-300">
+                                <Link href="/#zigzag" className="text-slate-600 hover:text-orange-500 font-medium transition-colors duration-300">
                                     Paslaugos
                                 </Link>
                             </li>
                             <li>
-                                <Link href="#contacts" className="text-slate-600 hover:text-orange-500 font-medium transition-colors duration-300">
+                                <Link href="/#contacts" className="text-slate-600 hover:text-orange-500 font-medium transition-colors duration-300">
                                     Kontaktai
                                 </Link>
                             </li>
@@ -54,8 +54,8 @@ export default function Header() {
                         </ul>
                     </nav>
 
-                    {/* Contact button */}
-                    <div className="flex items-center ml-8">
+                    {/* Contact button - desktop only */}
+                    <div className="hidden md:flex items-center ml-8">
                         <Link
                             href="mailto:elstyga@gmail.com"
                             className="inline-flex items-center justify-center px-4 py-2 text-sm font-semibold text-white bg-gradient-to-r from-orange-500 to-orange-600 rounded-lg hover:from-orange-400 hover:to-orange-500 transition-all duration-300 shadow-lg hover:shadow-orange-500/25"

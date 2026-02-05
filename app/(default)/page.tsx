@@ -4,6 +4,7 @@ import Hero from '@/components/hero'
 import Services from '@/components/services'
 import Contacts from '@/components/contacts'
 import Zigzag from '@/components/zigzag'
+import BlogPreview from '@/components/blog-preview'
 
 export const metadata = {
     title: 'Elstyga | Profesionalios Elektros Paslaugos Vilniuje',
@@ -43,6 +44,7 @@ export default function Home() {
             <Hero/>
             <Services/>
             <Zigzag/>
+            <BlogPreview/>
             <Contacts/>
         </>
     )
