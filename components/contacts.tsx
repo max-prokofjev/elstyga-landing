@@ -50,17 +50,11 @@ export default function Contacts() {
     };
 
     return (
-        <section id="contacts" className="relative overflow-hidden">
-            {/* Background decorations */}
-            <div className="absolute inset-0 bg-gradient-to-tr from-blue-900 via-blue-800 to-blue-900" />
-            <div className="absolute inset-0 bg-grid-white/[0.05] bg-[length:16px_16px]" />
-            <div className="absolute right-0 top-0 -mt-8 w-64 h-64 bg-orange-500/10 rounded-full blur-3xl" />
-            <div className="absolute left-0 bottom-0 -mb-8 w-64 h-64 bg-blue-500/10 rounded-full blur-3xl" />
-
+        <section id="contacts" className="relative overflow-hidden bg-gray-50">
             <div className="max-w-6xl mx-auto px-4 sm:px-6 relative">
                 <div className="pt-12 pb-12 md:pt-20 md:pb-20">
                     {/* Contact box */}
-                    <div className="relative bg-gradient-to-br from-orange-600 to-orange-700 rounded-2xl shadow-2xl">
+                    <div className="relative bg-gradient-to-br from-orange-500 to-orange-600 rounded-2xl shadow-2xl">
                         <div className="relative px-8 py-12 md:p-12">
                             {/* Background illustration */}
                             <div className="absolute right-0 top-0 -ml-40 pointer-events-none opacity-20" aria-hidden="true">
@@ -81,13 +75,13 @@ export default function Contacts() {
                                 {/* Success message */}
                                 {isSent && (
                                     <div className="w-full text-center animate-fade-in-up">
-                                        <div className="inline-flex items-center justify-center w-16 h-16 mb-4 rounded-full bg-white/10 backdrop-blur-sm">
+                                        <div className="inline-flex items-center justify-center w-16 h-16 mb-4 rounded-full bg-white/20 backdrop-blur-sm">
                                             <svg className="w-8 h-8 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 13l4 4L19 7" />
                                             </svg>
                                         </div>
                                         <h3 className="h3 text-white mb-2">Greitu metu su Jumis susisieksime!</h3>
-                                        <p className="text-orange-200">Dėkojame už Jūsų žinutę.</p>
+                                        <p className="text-orange-100">Dėkojame už Jūsų žinutę.</p>
                                     </div>
                                 )}
 
@@ -96,10 +90,10 @@ export default function Contacts() {
                                     <>
                                         <div className="mb-8 lg:mb-0 lg:mr-16 lg:w-1/2 text-center lg:text-left">
                                             <h3 className="h3 text-white mb-4">Susisiekite dabar!</h3>
-                                            <p className="text-orange-200 text-lg mb-6">
+                                            <p className="text-orange-100 text-lg mb-6">
                                                 Jūsų elektros rūpesčiams – nemokama konsultacija!
                                             </p>
-                                            <div className="flex flex-col space-y-4 text-orange-100">
+                                            <div className="flex flex-col space-y-4 text-white">
                                                 <div className="flex items-center">
                                                     <svg className="w-5 h-5 mr-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                                         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"/>
@@ -117,10 +111,10 @@ export default function Contacts() {
                                                     value={formData.email}
                                                     onChange={handleChange}
                                                     className={`
-                                                        w-full bg-white/10 border-2 border-orange-500/30 focus:border-orange-300 
-                                                        rounded-lg px-4 py-3 text-white placeholder-orange-200
+                                                        w-full bg-white/20 border-2 border-white/30 focus:border-white
+                                                        rounded-lg px-4 py-3 text-white placeholder-white/70
                                                         backdrop-blur-sm transition-colors duration-200
-                                                        ${isEmailInvalid ? 'border-red-500' : 'hover:border-orange-400'}
+                                                        ${isEmailInvalid ? 'border-red-300' : 'hover:border-white/50'}
                                                     `}
                                                     placeholder="Jūsų el. paštas..."
                                                 />
@@ -130,10 +124,10 @@ export default function Contacts() {
                                                     onChange={handleChange}
                                                     rows={4}
                                                     className={`
-                                                        w-full bg-white/10 border-2 border-orange-500/30 focus:border-orange-300 
-                                                        rounded-lg px-4 py-3 text-white placeholder-orange-200
+                                                        w-full bg-white/20 border-2 border-white/30 focus:border-white
+                                                        rounded-lg px-4 py-3 text-white placeholder-white/70
                                                         backdrop-blur-sm transition-colors duration-200
-                                                        ${isMessageInvalid ? 'border-red-500' : 'hover:border-orange-400'}
+                                                        ${isMessageInvalid ? 'border-red-300' : 'hover:border-white/50'}
                                                     `}
                                                     placeholder="Jūsų žinutė..."
                                                 />
@@ -143,9 +137,9 @@ export default function Contacts() {
                                                     <Loader />
                                                 ) : (
                                                     <button
-                                                        className="btn px-8 py-3 text-orange-600 bg-gradient-to-r from-white to-orange-50 
-                                                                   hover:to-white rounded-lg transform hover:scale-105 transition-all duration-200 
-                                                                   shadow-lg hover:shadow-white/25"
+                                                        className="btn px-8 py-3 text-orange-600 bg-white
+                                                                   hover:bg-orange-50 rounded-lg transform hover:scale-105 transition-all duration-200
+                                                                   shadow-lg font-semibold"
                                                         type="submit"
                                                     >
                                                         Susisiekti

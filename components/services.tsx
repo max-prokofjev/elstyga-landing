@@ -33,7 +33,6 @@ export default function Services() {
             "description": "Operatyvus elektros gedimų šalinimas"
           }
         }
-        // Add more services as needed
       ]
     }
   }
@@ -43,22 +42,17 @@ export default function Services() {
       <Script id="services-structured-data" type="application/ld+json">
         {JSON.stringify(servicesStructuredData)}
       </Script>
-      <section className="relative py-20 bg-gradient-to-b from-blue-900 to-blue-800" id="services">
-        {/* Background decoration */}
-        <div className="absolute inset-0 bg-grid-white/[0.05] bg-[length:16px_16px]" />
-        <div className="absolute right-0 top-0 -mt-8 w-32 h-32 bg-orange-500/10 rounded-full blur-3xl" />
-        <div className="absolute left-0 bottom-0 -mb-8 w-32 h-32 bg-blue-500/10 rounded-full blur-3xl" />
-
+      <section className="relative py-20 bg-gray-50" id="services">
         <div className="max-w-6xl mx-auto px-4 sm:px-6 relative">
           <div className="py-12 md:py-20">
 
             {/* Section header */}
             <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
-              <h2 className="h2 mb-6 bg-clip-text text-transparent bg-gradient-to-r from-orange-400 to-orange-600">
+              <h2 className="h2 mb-6 text-slate-800">
                 Ilgametė patirtis ir aukšta kvalifikacija
-                <span className="block text-white mt-2">jūsų elektros energijos rūpesčių sprendimas</span>
+                <span className="block text-orange-500 mt-2">jūsų elektros energijos rūpesčių sprendimas</span>
               </h2>
-              <p className="text-xl text-blue-200">
+              <p className="text-xl text-slate-500">
                 Užtikrinkite savo namų ar verslo elektros saugumą ir efektyvumą su mūsų profesionalų pagalba.
               </p>
             </div>
@@ -67,8 +61,8 @@ export default function Services() {
             <div className="max-w-sm mx-auto grid gap-8 md:grid-cols-2 lg:grid-cols-3 lg:gap-16 items-start md:max-w-2xl lg:max-w-none" data-aos-id-blocks>
 
               {/* 1st item */}
-              <div className="relative flex flex-col items-center p-6 bg-gradient-to-br from-blue-900/50 to-blue-800/50 rounded-2xl border border-blue-700/10 shadow-2xl group hover:scale-105 transition-transform duration-300" 
-                   data-aos="fade-up" 
+              <div className="relative flex flex-col items-center p-6 bg-white rounded-2xl border border-slate-200 shadow-lg group hover:shadow-xl hover:scale-105 transition-all duration-300"
+                   data-aos="fade-up"
                    data-aos-delay="100">
                 <div className="relative inline-flex items-center justify-center w-16 h-16 mb-6 rounded-xl bg-gradient-to-br from-orange-500 to-orange-600 shadow-lg shadow-orange-500/25 group-hover:shadow-orange-500/40 transition-shadow">
                   <svg className="w-16 h-16 text-white" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
@@ -78,15 +72,15 @@ export default function Services() {
                     </g>
                   </svg>
                 </div>
-                <h4 className="h4 mb-3 text-white group-hover:text-orange-400 transition-colors">Jūsų patikimas elektros partneris</h4>
-                <p className="text-lg text-blue-200 group-hover:text-blue-100 transition-colors">
+                <h4 className="h4 mb-3 text-slate-800 group-hover:text-orange-500 transition-colors">Jūsų patikimas elektros partneris</h4>
+                <p className="text-lg text-slate-500 group-hover:text-slate-600 transition-colors">
                   Elektros energetikos sektoriuje pasižymime patikimumu ir lankstumu – sėkmingai dirbame tiek su įmonėmis, tiek su privačiais užsakovais.
                 </p>
               </div>
 
               {/* 2nd item */}
-              <div className="relative flex flex-col items-center p-6 bg-gradient-to-br from-blue-900/50 to-blue-800/50 rounded-2xl border border-blue-700/10 shadow-2xl group hover:scale-105 transition-transform duration-300" 
-                   data-aos="fade-up" 
+              <div className="relative flex flex-col items-center p-6 bg-white rounded-2xl border border-slate-200 shadow-lg group hover:shadow-xl hover:scale-105 transition-all duration-300"
+                   data-aos="fade-up"
                    data-aos-delay="200">
                 <div className="relative inline-flex items-center justify-center w-16 h-16 mb-6 rounded-xl bg-gradient-to-br from-orange-500 to-orange-600 shadow-lg shadow-orange-500/25 group-hover:shadow-orange-500/40 transition-shadow">
                   <svg className="w-16 h-16 text-white" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
@@ -94,15 +88,15 @@ export default function Services() {
                     <path className="stroke-current" d="M26 28h12M26 32h12M26 36h5" strokeWidth="2" strokeLinecap="square" />
                   </svg>
                 </div>
-                <h4 className="h4 mb-3 text-white group-hover:text-orange-400 transition-colors">Sertifikuoti elektros sprendimai</h4>
-                <p className="text-lg text-blue-200 group-hover:text-blue-100 transition-colors">Sertifikuoti elektros įrenginių įrengimo ir eksploatavimo paslaugoms.
+                <h4 className="h4 mb-3 text-slate-800 group-hover:text-orange-500 transition-colors">Sertifikuoti elektros sprendimai</h4>
+                <p className="text-lg text-slate-500 group-hover:text-slate-600 transition-colors">Sertifikuoti elektros įrenginių įrengimo ir eksploatavimo paslaugoms.
                   Suteikta teisė būti statinio statybos rangovu.
                   Garantuojame aukščiausią kokybę.</p>
               </div>
 
               {/* 3rd item */}
-              <div className="relative flex flex-col items-center p-6 bg-gradient-to-br from-blue-900/50 to-blue-800/50 rounded-2xl border border-blue-700/10 shadow-2xl group hover:scale-105 transition-transform duration-300" 
-                   data-aos="fade-up" 
+              <div className="relative flex flex-col items-center p-6 bg-white rounded-2xl border border-slate-200 shadow-lg group hover:shadow-xl hover:scale-105 transition-all duration-300"
+                   data-aos="fade-up"
                    data-aos-delay="300">
                 <div className="relative inline-flex items-center justify-center w-16 h-16 mb-6 rounded-xl bg-gradient-to-br from-orange-500 to-orange-600 shadow-lg shadow-orange-500/25 group-hover:shadow-orange-500/40 transition-shadow">
                   <svg className="w-16 h-16 text-white" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
@@ -113,8 +107,8 @@ export default function Services() {
                     </g>
                   </svg>
                 </div>
-                <h4 className="h4 mb-3 text-white group-hover:text-orange-400 transition-colors">Profesionali elektros instaliacija</h4>
-                <p className="text-lg text-blue-200 group-hover:text-blue-100 transition-colors">
+                <h4 className="h4 mb-3 text-slate-800 group-hover:text-orange-500 transition-colors">Profesionali elektros instaliacija</h4>
+                <p className="text-lg text-slate-500 group-hover:text-slate-600 transition-colors">
                   Jūsų projektas, mūsų profesionalumas. Aukščiausios kokybės elektros darbai, atliekami pagal visus saugos standartus.
                 </p>
               </div>
