@@ -97,15 +97,6 @@ export default function MobileMenu() {
                 Blogas
               </Link>
             </li>
-            <li className="pt-2 border-t border-slate-100">
-              <Link
-                href="mailto:elstyga@gmail.com"
-                className="block px-4 py-2 text-orange-500 hover:bg-orange-50 rounded-lg font-medium transition-colors duration-200"
-                onClick={() => setMobileNavOpen(false)}
-              >
-                elstyga@gmail.com
-              </Link>
-            </li>
           </ul>
         </div>
       </nav>
