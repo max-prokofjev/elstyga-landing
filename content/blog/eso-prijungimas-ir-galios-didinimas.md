@@ -1,6 +1,6 @@
 ---
 title: "ESO prijungimas ir galios didinimas: žingsnis po žingsnio"
-description: "Kaip prisijungti prie ESO elektros tinklo arba padidinti esamą galią. Dokumentai, terminai, kainos ir praktiniai patarimai Vilniuje."
+description: "Kaip prisijungti prie ESO elektros tinklo arba padidinti esamą galią. Dokumentai, terminai ir praktiniai patarimai Vilniuje."
 date: "2025-06-15"
 dateModified: "2025-06-20"
 tags: ["ESO", "galios didinimas", "prijungimas"]
@@ -114,27 +114,6 @@ Gali prireikti:
 - Skydelio modernizavimo (nauji automatai didesnei galiai)
 - Įvadinio kabelio keitimo
 - Perėjimo nuo vienfazio prie trifazio tinklo
-
-## Kainos
-
-### ESO prijungimo mokesčiai (2025 m.)
-
-| Paslauga | Kaina |
-|---|---|
-| Naujas prijungimas (iki 16 kW) | ~200-500 EUR |
-| Naujas prijungimas (iki 32 kW) | ~500-1500 EUR |
-| Galios didinimas | nuo 100-300 EUR |
-| Vienfazio keitimas į trifazį | nuo 200-400 EUR |
-
-### Elektros instaliacijos darbų kainos
-
-| Paslauga | Kaina |
-|---|---|
-| Įvadinio skydelio montavimas | 300-800 EUR |
-| Kabelio klojimas (iki 30 m) | 200-600 EUR |
-| Įžeminimo kontūras | 200-400 EUR |
-| Instaliacijos aktas | 100-200 EUR |
-| **Iš viso (tipinis namas)** | **800-2000 EUR** |
 
 ## Dažniausios klaidos
 

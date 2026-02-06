@@ -102,15 +102,6 @@ Išmanus apšvietimas leidžia:
 - Automatizuoti pagal laiką ar buvimą
 - Integruoti su kitomis išmanaus namo sistemomis
 
-## Kiek kainuoja apšvietimo atnaujinimas?
-
-Orientacinės kainos Vilniuje:
-
-- **Vieno kambario LED atnaujinimas** — nuo 150-300 EUR
-- **Viso buto apšvietimas (3 kambariai)** — nuo 500-1500 EUR
-- **Biuro apšvietimas (100 m²)** — nuo 2000-5000 EUR
-- **Išmanaus valdymo sistema** — nuo 500 EUR papildomai
-
 ## Elstyga apšvietimo paslaugos
 
 Mūsų komanda padės:

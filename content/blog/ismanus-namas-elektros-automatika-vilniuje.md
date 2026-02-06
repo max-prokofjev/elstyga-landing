@@ -53,28 +53,28 @@ Sumažinkite sąskaitas ir padidinkite komfortą:
 - **Privalumai**: patikimas, nepriklausomas nuo vieno gamintojo, veikia be interneto
 - **Trūkumai**: didesni pradiniai kaštai, reikia profesionalaus programavimo
 - **Tinka**: naujiems namams, renovacijoms, biurams
-- **Kaina**: nuo 3000-5000 EUR bazinei sistemai
+- **Kaina**: susisiekite dėl individualios sąmatos
 
 ### Loxone — „all-in-one" sprendimas
 
 - **Privalumai**: intuityvi programa, daug galimybių, gera dokumentacija
 - **Trūkumai**: uždaresnė ekosistema
 - **Tinka**: namams, butams, mažoms komercinėms erdvėms
-- **Kaina**: nuo 2000-4000 EUR
+- **Kaina**: susisiekite dėl individualios sąmatos
 
 ### Zigbee / Z-Wave belaidės sistemos
 
 - **Privalumai**: nebrangu, lengva diegti, nereikia naujų laidų
 - **Trūkumai**: mažiau patikima nei laidinės sistemos
 - **Tinka**: esamiems namams be renovacijos
-- **Kaina**: nuo 300-1000 EUR
+- **Kaina**: susisiekite dėl individualios sąmatos
 
 ### Apple HomeKit / Google Home / Amazon Alexa
 
 - **Privalumai**: paprasta naudoti, balsinis valdymas
 - **Trūkumai**: ribota integracija, priklausomybė nuo interneto
 - **Tinka**: paprastoms automatizacijoms
-- **Kaina**: nuo 100-500 EUR
+- **Kaina**: susisiekite dėl individualios sąmatos
 
 ## Kaip pradėti?
 
@@ -102,15 +102,6 @@ Net jei diegsite tik dalį automatikos, rekomenduojame:
 - Pravesti papildomus kabelius iki jungiklių vietų
 - Palikti vietos skydelyje automatikos moduliams
 - Nutiesti tinklo kabelius (CAT6) prie svarbių taškų
-
-## Kiek kainuoja namų automatika Vilniuje?
-
-| Sprendimas | Kaina |
-|---|---|
-| Bazinė belaidė sistema (apšvietimas) | 300-800 EUR |
-| Vidutinė sistema (apšvietimas + šildymas) | 1500-3000 EUR |
-| Pilna KNX sistema (naujas namas) | 5000-15000 EUR |
-| Premium automatika su AV integracija | 15000+ EUR |
 
 ## Elstyga — namų automatikos sprendimai
 
