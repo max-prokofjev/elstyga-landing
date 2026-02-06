@@ -1,6 +1,6 @@
 ---
 title: "Elektromobilio krovimo stotelė namuose: viskas, ką reikia žinoti"
-description: "Kaip įsirengti elektromobilio krovimo stotelę namuose Vilniuje. Galios parinkimas, leidimų procesas, kainos ir montavimo ypatumai."
+description: "Kaip įsirengti elektromobilio krovimo stotelę namuose Vilniuje. Galios parinkimas, leidimų procesas ir montavimo ypatumai."
 date: "2025-05-01"
 dateModified: "2025-05-05"
 tags: ["elektromobilis", "krovimo stotelė", "montavimas"]
@@ -73,7 +73,7 @@ Daugumai 7,4 kW stotelių pakanka esamo vienfazio prijungimo. Tačiau:
 
 - 11 kW stotelei reikia trifazio prijungimo
 - 22 kW stotelei reikia trifazio ir papildomos galios
-- ESO galios didinimas kainuoja nuo 200 EUR ir užtrunka 2-4 savaites
+- ESO galios didinimas gali užtrukti 2-4 savaites
 
 ### 3. Elektros instaliacijos paruošimas
 
@@ -105,19 +105,6 @@ Reikia:
 - Gali reikėti techninės ekspertizės
 - Elektros linija turi eiti nuo individualaus skaitiklio
 - Negalima naudoti bendro namo tinklo
-
-## Kiek kainuoja viskas?
-
-Orientacinės kainos Vilniuje 2025 metais:
-
-| Paslauga | Kaina |
-|---|---|
-| Krovimo stotelė (7,4 kW) | 500-1000 EUR |
-| Krovimo stotelė (11 kW) | 800-1500 EUR |
-| Montavimo darbai | 300-800 EUR |
-| Kabelis ir medžiagos | 100-400 EUR |
-| Galios didinimas ESO | nuo 200 EUR |
-| **Iš viso** | **900-3700 EUR** |
 
 ## Elstyga — elektromobilių krovimo stotelių montavimas
 

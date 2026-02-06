@@ -1,6 +1,6 @@
 ---
 title: "Elektros skydelio keitimas: kada ir kodėl tai būtina?"
-description: "Viskas apie elektros skydelio keitimą ir modernizavimą. Požymiai, kad laikas keisti skydelį, procesas ir kainos Vilniuje."
+description: "Viskas apie elektros skydelio keitimą ir modernizavimą. Požymiai, kad laikas keisti skydelį, procesas ir praktiniai patarimai."
 date: "2025-05-15"
 dateModified: "2025-05-18"
 tags: ["elektros skydelis", "modernizavimas", "saugumas"]
@@ -96,18 +96,6 @@ Kokybė čia ypač svarbi:
 - RCD veikimo testai
 - Izoliacijos patikrinimas
 - Užpildomas elektros instaliacijos aktas
-
-## Kiek kainuoja skydelio keitimas Vilniuje?
-
-| Paslauga | Kaina |
-|---|---|
-| Skydelio apžiūra ir konsultacija | 0-50 EUR |
-| Skydelio korpusas (24-36 modulių) | 50-150 EUR |
-| Automatai ir RCD komplektas | 200-500 EUR |
-| Viršįtampių apsauga (SPD) | 80-150 EUR |
-| Montavimo darbai | 200-500 EUR |
-| Testavimas ir dokumentacija | 50-100 EUR |
-| **Iš viso** | **580-1450 EUR** |
 
 ## Kodėl verta investuoti?
 

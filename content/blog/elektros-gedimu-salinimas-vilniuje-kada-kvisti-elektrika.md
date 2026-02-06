@@ -65,16 +65,6 @@ Prieš kviečiant elektriką, patikrinkite:
 - Po vandens nuotėkio šalia elektros instaliacijos
 - Kai reikia pakeisti automatinį jungiklį ar RCD
 
-## Kiek kainuoja elektros gedimų šalinimas Vilniuje?
-
-Kainos priklauso nuo gedimo sudėtingumo:
-
-- **Diagnostika** — nuo 30-50 EUR
-- **Paprastas remontas** (rozetės, jungiklio keitimas) — nuo 20-40 EUR
-- **Automato ar RCD keitimas** — nuo 40-80 EUR
-- **Laidų remontas** — nuo 50 EUR, priklausomai nuo apimties
-- **Skubus iškvietimas** (vakarais, savaitgaliais) — papildomas mokestis
-
 ## Kaip išvengti elektros gedimų?
 
 Prevencija visada pigesnė nei remontas:
