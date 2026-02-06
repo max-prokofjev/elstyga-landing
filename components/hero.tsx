@@ -63,8 +63,6 @@ export default function Hero() {
                         loop
                         controls={false}
                         muted={true}
-                        width="100%"
-                        height={1920}
                     >
                         <source src="/videos/video.mp4" type="video/mp4"/>
                         Your browser does not support the video tag.
