@@ -4,6 +4,7 @@ description: "Elektros gedimų šalinimas Vilniuje: gedimo priežastys, diagnost
 date: "2025-04-02"
 dateModified: "2025-06-20"
 tags: ["elektros gedimai", "Vilnius", "elektros diagnostika", "skubus elektrikas", "gedimų šalinimas"]
+image: "/images/blog/elektros-gedimu-salinimas-vilniuje-kada-kvisti-elektrika.jpg"
 ---
 
 # Elektros gedimų šalinimas Vilniuje: diagnostika, priežastys ir remontas

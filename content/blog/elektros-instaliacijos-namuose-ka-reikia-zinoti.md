@@ -4,6 +4,7 @@ description: "Elektros instaliacija namuose – nuo laidų keitimo iki elektros 
 date: "2025-01-15"
 dateModified: "2025-06-20"
 tags: ["elektros instaliacija", "namų elektra", "saugumas", "laidų keitimas"]
+image: "/images/blog/elektros-instaliacijos-namuose-ka-reikia-zinoti.jpg"
 ---
 
 # Elektros instaliacija namuose: ką reikia žinoti?

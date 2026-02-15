@@ -4,6 +4,7 @@ description: "Kas privalo paskirti atsakingą už elektros ūkį? Techninė doku
 date: "2025-07-15"
 dateModified: "2025-07-20"
 tags: ["elektros ūkio priežiūra", "atsakingas už elektros ūkį", "techninė dokumentacija", "elektros sauga"]
+image: "/images/blog/elektros-tinklo-prieziura-ir-dokumentacija.jpg"
 ---
 
 # Elektros ūkio priežiūra: atsakingas asmuo, dokumentacija, reikalavimai

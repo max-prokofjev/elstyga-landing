@@ -4,6 +4,7 @@ description: "Elektromobilio krovimo stotelė namuose — wallbox parinkimas, mo
 date: "2025-05-01"
 dateModified: "2025-06-20"
 tags: ["elektromobilis", "krovimo stotelė", "montavimas", "wallbox", "APVA subsidija", "EV krovimas"]
+image: "/images/blog/elektromobilio-krovimo-stotele-namuose.jpg"
 ---
 
 # Elektromobilio krovimo stotelė namuose: montavimas, kainos ir subsidijos

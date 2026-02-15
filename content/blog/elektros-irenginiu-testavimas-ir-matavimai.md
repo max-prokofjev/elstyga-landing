@@ -4,6 +4,7 @@ description: "Izoliacijos varžos, įžeminimo kontūro, pereinamųjų kontaktų
 date: "2025-08-01"
 dateModified: "2025-08-05"
 tags: ["elektros matavimai", "varžų matavimai", "izoliacijos varža", "elektros bandymai"]
+image: "/images/blog/elektros-irenginiu-testavimas-ir-matavimai.jpg"
 ---
 
 # Elektros varžų matavimai ir bandymai: rūšys, normos, periodiškumas

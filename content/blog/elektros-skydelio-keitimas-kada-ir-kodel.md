@@ -4,6 +4,7 @@ description: "Elektros skydelio keitimas ir modernizavimas — požymiai, MCB ir
 date: "2025-05-15"
 dateModified: "2025-06-20"
 tags: ["elektros skydelis", "skydelio modernizavimas", "automatinis jungiklis", "RCD", "RCBO", "saugumas"]
+image: "/images/blog/elektros-skydelio-keitimas-kada-ir-kodel.jpg"
 ---
 
 # Elektros skydelio keitimas: kada ir kodėl tai būtina?

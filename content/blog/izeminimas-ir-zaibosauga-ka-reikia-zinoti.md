@@ -4,6 +4,7 @@ description: "Įžeminimo kontūro įrengimas ir žaibosaugos sistemos montavima
 date: "2025-07-01"
 dateModified: "2025-07-05"
 tags: ["įžeminimas", "žaibosauga", "įžeminimo kontūras", "elektros sauga"]
+image: "/images/blog/izeminimas-ir-zaibosauga-ka-reikia-zinoti.jpg"
 ---
 
 # Įžeminimo kontūras ir žaibosauga: įrengimas, reikalavimai, kainos

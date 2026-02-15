@@ -1,5 +1,6 @@
 import { notFound } from 'next/navigation'
 import Link from 'next/link'
+import Image from 'next/image'
 import { getPostBySlug, getAllPostSlugs, getRelatedPosts } from '@/lib/blog'
 import type { Metadata } from 'next'
 
@@ -31,6 +32,9 @@ export async function generateMetadata({ params }: BlogPostPageProps): Promise<M
       ...(post.dateModified && { modifiedTime: post.dateModified }),
       url: `https://elstyga.lt/blog/${slug}`,
       tags: post.tags,
+      ...(post.image && {
+        images: [{ url: `https://elstyga.lt${post.image}`, width: 1200, height: 800 }],
+      }),
     },
   }
 }
@@ -47,6 +51,7 @@ export default async function BlogPostPage({ params }: BlogPostPageProps) {
     '@type': 'Article',
     headline: post.title,
     description: post.description,
+    ...(post.image && { image: `https://elstyga.lt${post.image}` }),
     datePublished: post.date,
     ...(post.dateModified && { dateModified: post.dateModified }),
     url: `https://elstyga.lt/blog/${slug}`,
@@ -140,6 +145,18 @@ export default async function BlogPostPage({ params }: BlogPostPageProps) {
             <span aria-hidden="true">·</span>
             <span>{post.readingTime} min. skaitymo</span>
           </div>
+
+          {/* Featured image */}
+          {post.image && (
+            <Image
+              src={post.image}
+              alt={post.title}
+              width={1200}
+              height={800}
+              className="w-full rounded-2xl mb-10"
+              priority
+            />
+          )}
 
           {/* Table of Contents */}
           {post.toc.length > 1 && (

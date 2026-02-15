@@ -4,6 +4,7 @@ description: "ESO elektros prijungimas ir galios didinimas žingsnis po žingsni
 date: "2025-06-15"
 dateModified: "2025-06-20"
 tags: ["ESO", "galios didinimas", "prijungimas", "elektros prijungimas", "mano.eso.lt"]
+image: "/images/blog/eso-prijungimas-ir-galios-didinimas.jpg"
 ---
 
 # ESO prijungimas ir galios didinimas: pilnas gidas 2025

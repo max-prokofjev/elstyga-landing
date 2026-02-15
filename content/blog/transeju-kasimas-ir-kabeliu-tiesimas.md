@@ -4,6 +4,7 @@ description: "Tranšėjų kasimas ir kabelių tiesimas Vilniuje — gyliai pagal
 date: "2025-06-01"
 dateModified: "2025-06-20"
 tags: ["kabelių tiesimas", "tranšėjos", "žemės darbai", "tranšėjų kasimas", "požeminis kabelis", "mini ekskavatorius"]
+image: "/images/blog/transeju-kasimas-ir-kabeliu-tiesimas.jpg"
 ---
 
 # Tranšėjų kasimas ir kabelių tiesimas: reikalavimai, gyliai ir darbų eiga

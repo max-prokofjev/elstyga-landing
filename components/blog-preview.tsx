@@ -1,4 +1,5 @@
 import Link from 'next/link'
+import Image from 'next/image'
 import { getAllPosts } from '@/lib/blog'
 
 export default function BlogPreview() {
@@ -24,7 +25,17 @@ export default function BlogPreview() {
               key={post.slug}
               className="group bg-white rounded-2xl border border-slate-200 shadow-md hover:shadow-xl transition-all duration-300 overflow-hidden"
             >
-              <Link href={`/blog/${post.slug}`} className="block p-6">
+              <Link href={`/blog/${post.slug}`} className="block">
+                {post.image && (
+                  <Image
+                    src={post.image}
+                    alt={post.title}
+                    width={1200}
+                    height={800}
+                    className="w-full h-48 object-cover"
+                  />
+                )}
+                <div className="p-6">
                 {/* Tags */}
                 <div className="flex flex-wrap gap-2 mb-3">
                   {post.tags.slice(0, 2).map((tag) => (
@@ -56,6 +67,7 @@ export default function BlogPreview() {
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9 5l7 7-7 7" />
                     </svg>
                   </span>
+                </div>
                 </div>
               </Link>
             </article>

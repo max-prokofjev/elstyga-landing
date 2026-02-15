@@ -4,6 +4,7 @@ description: "Elektros saugos patarimai namams ir verslui. Srovės nuotėkio rel
 date: "2025-03-05"
 dateModified: "2025-06-20"
 tags: ["saugumas", "patarimai", "elektros sauga", "gaisro prevencija", "srovės nuotėkio relė"]
+image: "/images/blog/elektros-saugos-patarimai-2025.jpg"
 ---
 
 # Elektros sauga namuose ir darbe: patarimai 2025 m.

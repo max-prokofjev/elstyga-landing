@@ -4,6 +4,7 @@ description: "LED apšvietimo sprendimai namams ir biurams – liuksų lentelės
 date: "2025-04-15"
 dateModified: "2025-06-20"
 tags: ["apšvietimas", "LED", "energijos taupymas", "LED šviestuvai", "apšvietimo planavimas", "išmanus valdymas"]
+image: "/images/blog/apsvietimo-sprendimai-namams-ir-biurams.jpg"
 ---
 
 # LED apšvietimo sprendimai namams ir biurams: ką rinktis 2025 metais?

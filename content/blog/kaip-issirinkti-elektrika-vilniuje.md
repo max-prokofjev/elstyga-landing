@@ -4,6 +4,7 @@ description: "Kaip išsirinkti elektriką Vilniuje? Atestavimo kategorijos, VEI 
 date: "2025-02-10"
 dateModified: "2025-06-20"
 tags: ["elektrikas", "Vilnius", "patarimai", "atestuotas elektrikas", "elektriko paslaugos", "ESO rangovas"]
+image: "/images/blog/kaip-issirinkti-elektrika-vilniuje.jpg"
 ---
 
 # Kaip išsirinkti elektriką Vilniuje: 5 svarbiausi kriterijai
