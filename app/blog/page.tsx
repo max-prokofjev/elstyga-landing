@@ -38,7 +38,7 @@ export default function BlogPage() {
                     {post.tags.slice(0, 2).map((tag) => (
                       <span
                         key={tag}
-                        className="text-xs font-semibold text-orange-600 bg-orange-100 rounded-full px-2.5 py-0.5"
+                        className="text-xs font-semibold text-blue-600 bg-blue-100 rounded-full px-2.5 py-0.5"
                       >
                         {tag}
                       </span>
@@ -46,7 +46,7 @@ export default function BlogPage() {
                   </div>
 
                   {/* Title */}
-                  <h2 className="h4 text-slate-800 group-hover:text-orange-500 transition-colors duration-200 mb-2">
+                  <h2 className="h4 text-slate-800 group-hover:text-blue-500 transition-colors duration-200 mb-2">
                     {post.title}
                   </h2>
 
@@ -68,7 +68,7 @@ export default function BlogPage() {
                       <span aria-hidden="true">·</span>
                       <span>{post.readingTime} min.</span>
                     </div>
-                    <span className="text-orange-500 font-medium group-hover:translate-x-1 transition-transform duration-200 inline-flex items-center">
+                    <span className="text-blue-500 font-medium group-hover:translate-x-1 transition-transform duration-200 inline-flex items-center">
                       Skaityti
                       <svg className="w-4 h-4 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9 5l7 7-7 7" />

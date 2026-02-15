@@ -50,7 +50,7 @@ export default function Services() {
             <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
               <h2 className="h2 mb-6 text-slate-800">
                 Ilgametė patirtis ir aukšta kvalifikacija
-                <span className="block text-orange-500 mt-2">jūsų elektros energijos rūpesčių sprendimas</span>
+                <span className="block text-blue-500 mt-2">jūsų elektros energijos rūpesčių sprendimas</span>
               </h2>
               <p className="text-xl text-slate-500">
                 Užtikrinkite savo namų ar verslo elektros saugumą ir efektyvumą su mūsų profesionalų pagalba.
@@ -64,7 +64,7 @@ export default function Services() {
               <div className="relative flex flex-col items-center p-6 bg-white rounded-2xl border border-slate-200 shadow-lg group hover:shadow-xl hover:scale-105 transition-all duration-300"
                    data-aos="fade-up"
                    data-aos-delay="100">
-                <div className="relative inline-flex items-center justify-center w-16 h-16 mb-6 rounded-xl bg-gradient-to-br from-orange-500 to-orange-600 shadow-lg shadow-orange-500/25 group-hover:shadow-orange-500/40 transition-shadow">
+                <div className="relative inline-flex items-center justify-center w-16 h-16 mb-6 rounded-xl bg-gradient-to-br from-blue-500 to-blue-600 shadow-lg shadow-blue-500/25 group-hover:shadow-blue-500/40 transition-shadow">
                   <svg className="w-16 h-16 text-white" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
                     <g strokeLinecap="square" strokeWidth="2" fill="none" fillRule="evenodd">
                       <path className="stroke-current" d="M29 42h10.229a2 2 0 001.912-1.412l2.769-9A2 2 0 0042 29h-7v-4c0-2.373-1.251-3.494-2.764-3.86a1.006 1.006 0 00-1.236.979V26l-5 6" />
@@ -72,7 +72,7 @@ export default function Services() {
                     </g>
                   </svg>
                 </div>
-                <h4 className="h4 mb-3 text-slate-800 group-hover:text-orange-500 transition-colors">Jūsų patikimas elektros partneris</h4>
+                <h4 className="h4 mb-3 text-slate-800 group-hover:text-blue-500 transition-colors">Jūsų patikimas elektros partneris</h4>
                 <p className="text-lg text-slate-500 group-hover:text-slate-600 transition-colors">
                   Elektros energetikos sektoriuje pasižymime patikimumu ir lankstumu – sėkmingai dirbame tiek su įmonėmis, tiek su privačiais užsakovais.
                 </p>
@@ -82,13 +82,13 @@ export default function Services() {
               <div className="relative flex flex-col items-center p-6 bg-white rounded-2xl border border-slate-200 shadow-lg group hover:shadow-xl hover:scale-105 transition-all duration-300"
                    data-aos="fade-up"
                    data-aos-delay="200">
-                <div className="relative inline-flex items-center justify-center w-16 h-16 mb-6 rounded-xl bg-gradient-to-br from-orange-500 to-orange-600 shadow-lg shadow-orange-500/25 group-hover:shadow-orange-500/40 transition-shadow">
+                <div className="relative inline-flex items-center justify-center w-16 h-16 mb-6 rounded-xl bg-gradient-to-br from-blue-500 to-blue-600 shadow-lg shadow-blue-500/25 group-hover:shadow-blue-500/40 transition-shadow">
                   <svg className="w-16 h-16 text-white" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
                     <path className="stroke-current" strokeWidth="2" strokeLinecap="square" d="M21 23h22v18H21z" fill="none" fillRule="evenodd" />
                     <path className="stroke-current" d="M26 28h12M26 32h12M26 36h5" strokeWidth="2" strokeLinecap="square" />
                   </svg>
                 </div>
-                <h4 className="h4 mb-3 text-slate-800 group-hover:text-orange-500 transition-colors">Sertifikuoti elektros sprendimai</h4>
+                <h4 className="h4 mb-3 text-slate-800 group-hover:text-blue-500 transition-colors">Sertifikuoti elektros sprendimai</h4>
                 <p className="text-lg text-slate-500 group-hover:text-slate-600 transition-colors">Sertifikuoti elektros įrenginių įrengimo ir eksploatavimo paslaugoms.
                   Suteikta teisė būti statinio statybos rangovu.
                   Garantuojame aukščiausią kokybę.</p>
@@ -98,7 +98,7 @@ export default function Services() {
               <div className="relative flex flex-col items-center p-6 bg-white rounded-2xl border border-slate-200 shadow-lg group hover:shadow-xl hover:scale-105 transition-all duration-300"
                    data-aos="fade-up"
                    data-aos-delay="300">
-                <div className="relative inline-flex items-center justify-center w-16 h-16 mb-6 rounded-xl bg-gradient-to-br from-orange-500 to-orange-600 shadow-lg shadow-orange-500/25 group-hover:shadow-orange-500/40 transition-shadow">
+                <div className="relative inline-flex items-center justify-center w-16 h-16 mb-6 rounded-xl bg-gradient-to-br from-blue-500 to-blue-600 shadow-lg shadow-blue-500/25 group-hover:shadow-blue-500/40 transition-shadow">
                   <svg className="w-16 h-16 text-white" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
                     <g transform="translate(21 22)" strokeLinecap="square" strokeWidth="2" fill="none" fillRule="evenodd">
                       <path className="stroke-current" d="M17 2V0M19.121 2.879l1.415-1.415M20 5h2M19.121 7.121l1.415 1.415M17 8v2M14.879 7.121l-1.415 1.415M14 5h-2M14.879 2.879l-1.415-1.415" />
@@ -107,7 +107,7 @@ export default function Services() {
                     </g>
                   </svg>
                 </div>
-                <h4 className="h4 mb-3 text-slate-800 group-hover:text-orange-500 transition-colors">Profesionali elektros instaliacija</h4>
+                <h4 className="h4 mb-3 text-slate-800 group-hover:text-blue-500 transition-colors">Profesionali elektros instaliacija</h4>
                 <p className="text-lg text-slate-500 group-hover:text-slate-600 transition-colors">
                   Jūsų projektas, mūsų profesionalumas. Aukščiausios kokybės elektros darbai, atliekami pagal visus saugos standartus.
                 </p>

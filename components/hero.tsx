@@ -78,7 +78,7 @@ export default function Hero() {
                             <div className="max-w-3xl mx-auto text-center">
                                 {/* Animated lightning icon */}
                                 <div className="mb-6 animate-bounce">
-                                    <svg className="w-12 h-12 mx-auto text-orange-500" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                    <svg className="w-12 h-12 mx-auto text-blue-500" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M13 10V3L4 14h7v7l9-11h-7z"></path>
                                     </svg>
                                 </div>
@@ -86,7 +86,7 @@ export default function Hero() {
                                 <h1 className="text-5xl md:text-6xl font-bold mb-6 text-white"
                                     data-aos="fade-up">
                                     Elektros montavimo darbai
-                                    <span className="block text-3xl md:text-4xl mt-2 text-orange-400 font-normal">
+                                    <span className="block text-3xl md:text-4xl mt-2 text-blue-400 font-normal">
                                         greitai, efektyviai, be rūpesčių
                                     </span>
                                 </h1>
@@ -104,7 +104,7 @@ export default function Hero() {
                                 <div className="flex flex-col sm:flex-row justify-center gap-4 sm:gap-6 mb-16 md:mb-24"
                                      data-aos="fade-up"
                                      data-aos-delay="400">
-                                    <a className="btn px-8 py-4 text-lg font-semibold text-white bg-gradient-to-r from-orange-500 to-orange-600 rounded-xl hover:from-orange-400 hover:to-orange-500 transform hover:scale-105 transition-all duration-300 shadow-lg hover:shadow-orange-500/25"
+                                    <a className="btn px-8 py-4 text-lg font-semibold text-white bg-gradient-to-r from-blue-500 to-blue-600 rounded-xl hover:from-blue-400 hover:to-blue-500 transform hover:scale-105 transition-all duration-300 shadow-lg hover:shadow-blue-500/25"
                                        href="#contacts">
                                         Susisiekti
                                     </a>

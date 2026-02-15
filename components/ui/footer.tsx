@@ -13,7 +13,7 @@ export default function Footer() {
                             <li>
                                 <Link
                                     href="tel:+37068712334"
-                                    className="flex justify-center items-center w-10 h-10 bg-slate-700 hover:bg-orange-500 text-slate-300 hover:text-white rounded-full transition-all duration-300 group"
+                                    className="flex justify-center items-center w-10 h-10 bg-slate-700 hover:bg-blue-500 text-slate-300 hover:text-white rounded-full transition-all duration-300 group"
                                     aria-label="mobile-phone"
                                 >
                                     <svg className="w-5 h-5 fill-current transition-transform duration-300 group-hover:scale-110" viewBox="0 0 24 24">
@@ -24,7 +24,7 @@ export default function Footer() {
                             <li>
                                 <Link
                                     href="mailto:elstyga@gmail.com"
-                                    className="flex justify-center items-center w-10 h-10 bg-slate-700 hover:bg-orange-500 text-slate-300 hover:text-white rounded-full transition-all duration-300 group"
+                                    className="flex justify-center items-center w-10 h-10 bg-slate-700 hover:bg-blue-500 text-slate-300 hover:text-white rounded-full transition-all duration-300 group"
                                     aria-label="email"
                                 >
                                     <svg className="w-5 h-5 fill-current transition-transform duration-300 group-hover:scale-110" viewBox="0 0 24 24">
@@ -36,7 +36,7 @@ export default function Footer() {
                                 <Link
                                     target="_blank"
                                     href="https://rekvizitai.vz.lt/imone/elstyga/"
-                                    className="flex justify-center items-center w-10 h-10 bg-slate-700 hover:bg-orange-500 text-slate-300 hover:text-white rounded-full transition-all duration-300 group"
+                                    className="flex justify-center items-center w-10 h-10 bg-slate-700 hover:bg-blue-500 text-slate-300 hover:text-white rounded-full transition-all duration-300 group"
                                     aria-label="rekvizitai"
                                 >
                                     <svg className="w-5 h-5 fill-current transition-transform duration-300 group-hover:scale-110" viewBox="0 0 24 24">
@@ -51,7 +51,7 @@ export default function Footer() {
                             <address className="not-italic">
                                 <Link
                                     href="tel:+37068712334"
-                                    className="text-lg font-semibold text-orange-400 hover:text-orange-300 transition-colors duration-300"
+                                    className="text-lg font-semibold text-blue-400 hover:text-blue-300 transition-colors duration-300"
                                     aria-label="Skambinti telefonu"
                                 >
                                     +370 687 12334

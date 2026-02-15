@@ -102,11 +102,11 @@ export default async function BlogPostPage({ params }: BlogPostPageProps) {
           <nav aria-label="Breadcrumb" className="mb-8">
             <ol className="flex items-center gap-2 text-sm text-slate-400">
               <li>
-                <Link href="/" className="hover:text-orange-500 transition-colors">Pradžia</Link>
+                <Link href="/" className="hover:text-blue-500 transition-colors">Pradžia</Link>
               </li>
               <li aria-hidden="true">/</li>
               <li>
-                <Link href="/blog" className="hover:text-orange-500 transition-colors">Blogas</Link>
+                <Link href="/blog" className="hover:text-blue-500 transition-colors">Blogas</Link>
               </li>
               <li aria-hidden="true">/</li>
               <li className="text-slate-600 truncate max-w-[200px]">{post.title}</li>
@@ -118,7 +118,7 @@ export default async function BlogPostPage({ params }: BlogPostPageProps) {
             {post.tags.map((tag) => (
               <span
                 key={tag}
-                className="text-xs font-semibold text-orange-600 bg-orange-100 rounded-full px-2.5 py-0.5"
+                className="text-xs font-semibold text-blue-600 bg-blue-100 rounded-full px-2.5 py-0.5"
               >
                 {tag}
               </span>
@@ -152,7 +152,7 @@ export default async function BlogPostPage({ params }: BlogPostPageProps) {
                   <li key={item.id} className={item.level === 3 ? 'ml-4' : ''}>
                     <a
                       href={`#${item.id}`}
-                      className="text-sm text-slate-500 hover:text-orange-500 transition-colors"
+                      className="text-sm text-slate-500 hover:text-blue-500 transition-colors"
                     >
                       {item.text}
                     </a>
@@ -169,22 +169,26 @@ export default async function BlogPostPage({ params }: BlogPostPageProps) {
               prose-h2:text-2xl prose-h2:mt-10 prose-h2:mb-4
               prose-h3:text-xl prose-h3:mt-8 prose-h3:mb-3
               prose-p:text-slate-600 prose-p:leading-relaxed
-              prose-a:text-orange-500 prose-a:no-underline hover:prose-a:underline
+              prose-a:text-blue-500 prose-a:no-underline hover:prose-a:underline
               prose-strong:text-slate-700
               prose-li:text-slate-600
-              prose-ul:my-4 prose-ol:my-4"
+              prose-ul:my-4 prose-ol:my-4
+              prose-table:w-full prose-table:border-collapse prose-table:my-6
+              prose-th:bg-slate-100 prose-th:text-left prose-th:text-slate-700 prose-th:font-semibold prose-th:px-4 prose-th:py-2.5 prose-th:border prose-th:border-slate-200
+              prose-td:px-4 prose-td:py-2 prose-td:border prose-td:border-slate-200 prose-td:text-slate-600
+              prose-tr:even:bg-slate-50"
             dangerouslySetInnerHTML={{ __html: post.content }}
           />
 
           {/* CTA */}
-          <div className="mt-16 p-8 bg-orange-50 rounded-2xl border border-orange-100 text-center">
+          <div className="mt-16 p-8 bg-blue-50 rounded-2xl border border-blue-100 text-center">
             <h3 className="h4 text-slate-800 mb-2">Reikia elektros paslaugų?</h3>
             <p className="text-slate-500 mb-6">
               Susisiekite su mumis dėl nemokamos konsultacijos
             </p>
             <Link
               href="/#contacts"
-              className="btn px-8 py-3 text-white bg-gradient-to-r from-orange-500 to-orange-600 rounded-lg hover:from-orange-400 hover:to-orange-500 transition-all duration-300 shadow-lg hover:shadow-orange-500/25 font-semibold"
+              className="btn px-8 py-3 text-white bg-gradient-to-r from-blue-500 to-blue-600 rounded-lg hover:from-blue-400 hover:to-blue-500 transition-all duration-300 shadow-lg hover:shadow-blue-500/25 font-semibold"
             >
               Susisiekti
             </Link>
@@ -205,19 +209,19 @@ export default async function BlogPostPage({ params }: BlogPostPageProps) {
                       {related.tags.slice(0, 2).map((tag) => (
                         <span
                           key={tag}
-                          className="text-xs font-semibold text-orange-600 bg-orange-100 rounded-full px-2.5 py-0.5"
+                          className="text-xs font-semibold text-blue-600 bg-blue-100 rounded-full px-2.5 py-0.5"
                         >
                           {tag}
                         </span>
                       ))}
                     </div>
-                    <h3 className="font-poppins font-semibold text-slate-800 group-hover:text-orange-500 transition-colors duration-200 mb-2">
+                    <h3 className="font-poppins font-semibold text-slate-800 group-hover:text-blue-500 transition-colors duration-200 mb-2">
                       {related.title}
                     </h3>
                     <p className="text-sm text-slate-500 line-clamp-2">{related.description}</p>
                     <div className="flex items-center justify-between mt-4 text-sm">
                       <span className="text-slate-400">{related.readingTime} min. skaitymo</span>
-                      <span className="text-orange-500 font-medium group-hover:translate-x-1 transition-transform duration-200 inline-flex items-center">
+                      <span className="text-blue-500 font-medium group-hover:translate-x-1 transition-transform duration-200 inline-flex items-center">
                         Skaityti
                         <svg className="w-4 h-4 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                           <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9 5l7 7-7 7" />

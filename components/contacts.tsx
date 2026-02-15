@@ -54,7 +54,7 @@ export default function Contacts() {
             <div className="max-w-6xl mx-auto px-4 sm:px-6 relative">
                 <div className="pt-12 pb-12 md:pt-20 md:pb-20">
                     {/* Contact box */}
-                    <div className="relative bg-gradient-to-br from-orange-500 to-orange-600 rounded-2xl shadow-2xl">
+                    <div className="relative bg-gradient-to-br from-blue-500 to-blue-600 rounded-2xl shadow-2xl">
                         <div className="relative px-8 py-12 md:p-12">
                             {/* Background illustration */}
                             <div className="absolute right-0 top-0 -ml-40 pointer-events-none opacity-20" aria-hidden="true">
@@ -81,7 +81,7 @@ export default function Contacts() {
                                             </svg>
                                         </div>
                                         <h3 className="h3 text-white mb-2">Greitu metu su Jumis susisieksime!</h3>
-                                        <p className="text-orange-100">Dėkojame už Jūsų žinutę.</p>
+                                        <p className="text-blue-100">Dėkojame už Jūsų žinutę.</p>
                                     </div>
                                 )}
 
@@ -90,7 +90,7 @@ export default function Contacts() {
                                     <>
                                         <div className="mb-8 lg:mb-0 lg:mr-16 lg:w-1/2 text-center lg:text-left">
                                             <h3 className="h3 text-white mb-4">Susisiekite dabar!</h3>
-                                            <p className="text-orange-100 text-lg mb-6">
+                                            <p className="text-blue-100 text-lg mb-6">
                                                 Jūsų elektros rūpesčiams – nemokama konsultacija!
                                             </p>
                                             <div className="flex flex-col space-y-4 text-white">
@@ -137,8 +137,8 @@ export default function Contacts() {
                                                     <Loader />
                                                 ) : (
                                                     <button
-                                                        className="btn px-8 py-3 text-orange-600 bg-white
-                                                                   hover:bg-orange-50 rounded-lg transform hover:scale-105 transition-all duration-200
+                                                        className="btn px-8 py-3 text-blue-600 bg-white
+                                                                   hover:bg-blue-50 rounded-lg transform hover:scale-105 transition-all duration-200
                                                                    shadow-lg font-semibold"
                                                         type="submit"
                                                     >

@@ -46,7 +46,7 @@
 .form-select,
 .form-checkbox,
 .form-radio {
-    @apply bg-white border border-slate-300 focus:border-orange-500;
+    @apply bg-white border border-slate-300 focus:border-blue-500;
 }
 
 .form-input,
@@ -75,5 +75,5 @@
 
 .form-checkbox,
 .form-radio {
-    @apply text-orange-600;
+    @apply text-blue-600;
 }

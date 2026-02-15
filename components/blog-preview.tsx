@@ -30,7 +30,7 @@ export default function BlogPreview() {
                   {post.tags.slice(0, 2).map((tag) => (
                     <span
                       key={tag}
-                      className="text-xs font-semibold text-orange-600 bg-orange-100 rounded-full px-2.5 py-0.5"
+                      className="text-xs font-semibold text-blue-600 bg-blue-100 rounded-full px-2.5 py-0.5"
                     >
                       {tag}
                     </span>
@@ -38,7 +38,7 @@ export default function BlogPreview() {
                 </div>
 
                 {/* Title */}
-                <h3 className="h4 text-slate-800 group-hover:text-orange-500 transition-colors duration-200 mb-2">
+                <h3 className="h4 text-slate-800 group-hover:text-blue-500 transition-colors duration-200 mb-2">
                   {post.title}
                 </h3>
 
@@ -50,7 +50,7 @@ export default function BlogPreview() {
                 {/* Footer */}
                 <div className="flex items-center justify-between text-sm">
                   <span className="text-slate-400">{post.readingTime} min. skaitymo</span>
-                  <span className="text-orange-500 font-medium group-hover:translate-x-1 transition-transform duration-200 inline-flex items-center">
+                  <span className="text-blue-500 font-medium group-hover:translate-x-1 transition-transform duration-200 inline-flex items-center">
                     Skaityti
                     <svg className="w-4 h-4 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9 5l7 7-7 7" />
@@ -66,7 +66,7 @@ export default function BlogPreview() {
         <div className="text-center mt-10">
           <Link
             href="/blog"
-            className="inline-flex items-center text-orange-500 hover:text-orange-600 font-semibold transition-colors duration-200"
+            className="inline-flex items-center text-blue-500 hover:text-blue-600 font-semibold transition-colors duration-200"
           >
             Visi straipsniai
             <svg className="w-5 h-5 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
