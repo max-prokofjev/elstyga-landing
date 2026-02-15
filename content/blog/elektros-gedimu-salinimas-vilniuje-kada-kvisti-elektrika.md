@@ -1,6 +1,6 @@
 ---
 title: "Elektros gedimų šalinimas Vilniuje — diagnostika ir remontas"
-description: "Elektros gedimų šalinimas Vilniuje: gedimo priežastys, diagnostika termovizoriumi, skubus elektrikas 24/7. Sužinokite, kada kviesti specialistą."
+description: "Elektros gedimų šalinimas Vilniuje: gedimo priežastys, diagnostika termovizoriumi, skubus elektrikas. Sužinokite, kada kviesti specialistą."
 date: "2025-04-02"
 dateModified: "2025-06-20"
 tags: ["elektros gedimai", "Vilnius", "elektros diagnostika", "skubus elektrikas", "gedimų šalinimas"]
@@ -125,13 +125,9 @@ Prevencija visada pigesnė nei gedimų šalinimas:
 
 ## DUK — dažniausiai užduodami klausimai
 
-### Kiek kainuoja elektros gedimo šalinimas Vilniuje?
+### Ar galite atvykti skubiai?
 
-Kaina priklauso nuo gedimo sudėtingumo. Paprasta diagnostika ir smulkus remontas prasideda nuo 40–60 EUR. Sudėtingesni darbai, pavyzdžiui, laidų keitimas ar skydelio remontas, gali kainuoti daugiau. Tikslią kainą elektrikas nurodo po pirminės diagnostikos.
-
-### Ar galite atvykti skubiai — vakare ar savaitgalį?
-
-Taip. Elstyga teikia **skubaus elektriko** paslaugas Vilniuje 24/7 — darbo dienomis, vakarais ir savaitgaliais. Skubiais atvejais atvykstame per 1–2 valandas.
+Taip. Elstyga teikia **skubaus elektriko** paslaugas Vilniuje. Skubiais atvejais atvykstame kuo greičiau — susisiekite su mumis ir sutarsime patogų laiką.
 
 ### Kodėl nuolat iššoka automatas, nors prietaisų nedaug?
 
@@ -149,9 +145,9 @@ Pirmiausia patikrinkite, ar problema ne ESO tinkle — pasiteiraukite kaimynų a
 
 Mūsų elektrikų komanda Vilniuje specializuojasi **elektros gedimų diagnostikoje ir šalinime**:
 
-- **Skubus atvykimas** — per 1–2 valandas, 24/7
+- **Skubus atvykimas** — operatyviai reaguojame į skubius iškvietimus
 - **Profesionali diagnostika** — naudojame termovizorių, izoliacijos varžos matuoklį ir kitus prietaisus
 - **Gedimų šalinimas su garantija** — atliekame darbus pagal LST IEC 60364 reikalavimus
 - **Prevencijos rekomendacijos** — padedame išvengti pakartotinių gedimų
 
-Susisiekite su mumis bet kuriuo paros metu — padėsime greitai ir profesionaliai išspręsti elektros problemas!
+Susisiekite su mumis — padėsime greitai ir profesionaliai išspręsti elektros problemas!

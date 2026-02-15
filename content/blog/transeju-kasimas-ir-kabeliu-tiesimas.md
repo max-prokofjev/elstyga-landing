@@ -1,6 +1,6 @@
 ---
 title: "Tranšėjų kasimas ir kabelių tiesimas: reikalavimai, gyliai ir darbų eiga"
-description: "Tranšėjų kasimas ir kabelių tiesimas Vilniuje — gyliai pagal įtampą, kabelių tipai, leidimai, HDD gręžimas ir mini ekskavatorius. Elstyga paslaugos ir kainos."
+description: "Tranšėjų kasimas ir kabelių tiesimas Vilniuje — gyliai pagal įtampą, kabelių tipai, leidimai, HDD gręžimas ir mini ekskavatorius. Elstyga paslaugos."
 date: "2025-06-01"
 dateModified: "2025-06-20"
 tags: ["kabelių tiesimas", "tranšėjos", "žemės darbai", "tranšėjų kasimas", "požeminis kabelis", "mini ekskavatorius"]

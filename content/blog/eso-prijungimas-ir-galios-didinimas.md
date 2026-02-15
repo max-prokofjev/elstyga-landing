@@ -102,7 +102,7 @@ Visi darbai turi atitikti **Elektros energijos tiekimo ir naudojimo taisykles** 
 - ESO sumontuoja **elektros skaitiklį**
 - Prijungimas aktyvinamas per **5-10 darbo dienų**
 
-### ESO prijungimo terminai ir orientacinės kainos
+### ESO prijungimo terminai
 
 | Etapas | Terminas | Pastabos |
 |---|---|---|
@@ -112,7 +112,7 @@ Visi darbai turi atitikti **Elektros energijos tiekimo ir naudojimo taisykles** 
 | Skaitiklio montavimas | 5-10 darbo dienų | Po patikrinimo |
 | **Bendras procesas** | **2-4 mėnesiai** | Priklausomai nuo kategorijos |
 
-**Prijungimo mokestis** priklauso nuo kategorijos, atstumo ir galios. Tikslią kainą ESO apskaičiuoja pagal **VERT** (Valstybinė energetikos reguliavimo taryba) patvirtintus įkainius. Orientacinė kaina **I kategorijos** prijungimui — nuo kelių šimtų iki kelių tūkstančių eurų.
+**Prijungimo mokestį** ESO apskaičiuoja pagal **VERT** (Valstybinė energetikos reguliavimo taryba) patvirtintus įkainius. Tikslią kainą sužinosite pateikę paraišką per **mano.eso.lt**.
 
 ## Galios didinimo procesas
 
@@ -189,7 +189,7 @@ Visi elektros instaliacijos darbai turi būti atlikti **atestuotų specialistų*
 
 ### Kiek kainuoja ESO prijungimas?
 
-**Prijungimo mokestis** priklauso nuo kategorijos, atstumo iki tinklo ir užsakomos galios. I kategorijos prijungimas gali kainuoti nuo kelių šimtų eurų. Tikslią kainą sužinosite pateikę paraišką per **mano.eso.lt** — ESO apskaičiuos pagal VERT patvirtintus įkainius.
+**Prijungimo mokestį** ESO apskaičiuoja pagal VERT patvirtintus įkainius — kaina priklauso nuo kategorijos, atstumo iki tinklo ir užsakomos galios. Tikslią sumą sužinosite pateikę paraišką per **mano.eso.lt**.
 
 ### Kiek laiko užtrunka prijungimas prie ESO tinklo?
 

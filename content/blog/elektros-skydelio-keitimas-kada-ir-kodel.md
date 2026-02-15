@@ -1,6 +1,6 @@
 ---
-title: "Elektros skydelio keitimas: požymiai, procesas ir kaina (2025)"
-description: "Elektros skydelio keitimas ir modernizavimas — požymiai, MCB ir RCBO parinkimas, DIN modulių skaičius, montavimo eiga ir kaina. Patarimai iš praktikos."
+title: "Elektros skydelio keitimas: požymiai ir procesas"
+description: "Elektros skydelio keitimas ir modernizavimas — požymiai, MCB ir RCBO parinkimas, DIN modulių skaičius ir montavimo eiga. Patarimai iš praktikos."
 date: "2025-05-15"
 dateModified: "2025-06-20"
 tags: ["elektros skydelis", "skydelio modernizavimas", "automatinis jungiklis", "RCD", "RCBO", "saugumas"]
@@ -148,22 +148,6 @@ Užbaigus montavimą, atliekami privalomi [matavimai ir testai](/blog/elektros-i
 - **RCD suveikimo laikas** — turi suveikti per ≤300 ms (30 mA RCD — per ≤40 ms)
 - **Fazių tvarka** — tikrinama trifazio tinklo atveju
 - Užpildomas [elektros instaliacijos aktas](/blog/elektros-tinklo-prieziura-ir-dokumentacija) su visais matavimų rezultatais
-
-## Kiek kainuoja skydelio keitimas?
-
-Kaina priklauso nuo skydelio dydžio, komponentų kokybės ir darbų apimties. Orientacinės kainos Vilniuje:
-
-| Komponentas | Kainų intervalas |
-|---|---|
-| Skydelio korpusas (24–54 mod.) | 50–200 EUR |
-| Automatiniai jungikliai (MCB) | 5–15 EUR / vnt. |
-| RCD (srovės nuotėkio relė) | 40–80 EUR / vnt. |
-| RCBO (kombinuotas) | 50–120 EUR / vnt. |
-| SPD (viršįtampių apsauga) | 60–150 EUR |
-| Montavimo darbai | 300–800 EUR |
-| **Viso (tipinis butas)** | **500–1 200 EUR** |
-
-Tikslią kainą galima nustatyti tik po apžiūros, nes kiekviena instaliacija unikali.
 
 ## Kodėl verta investuoti?
 

@@ -1,6 +1,6 @@
 ---
 title: "Kaip išsirinkti elektriką Vilniuje: patikimo specialisto paieškos gidas"
-description: "Kaip išsirinkti elektriką Vilniuje? Atestavimo kategorijos, VEI registracija, kainų lentelė ir 5 svarbiausi kriterijai renkantis elektriką."
+description: "Kaip išsirinkti elektriką Vilniuje? Atestavimo kategorijos, VEI registracija ir svarbiausi kriterijai renkantis patikimą elektriką."
 date: "2025-02-10"
 dateModified: "2025-06-20"
 tags: ["elektrikas", "Vilnius", "patarimai", "atestuotas elektrikas", "elektriko paslaugos", "ESO rangovas"]
@@ -9,7 +9,7 @@ image: "/images/blog/kaip-issirinkti-elektrika-vilniuje.jpg"
 
 # Kaip išsirinkti elektriką Vilniuje: 5 svarbiausi kriterijai
 
-Ieškote **elektriko Vilniuje**? Rasti **atestuotą elektriką**, kuris atliktų darbus kokybiškai, saugiai ir su garantija, nėra taip paprasta, kaip gali pasirodyti. Vilniuje veikia šimtai **elektros paslaugų** teikėjų — nuo pavienių meistrų iki specializuotų įmonių. Šiame straipsnyje rasite konkrečius kriterijus, **atestavimo kategorijų** paaiškinimą, orientacines kainas ir patarimus, padėsiančius priimti teisingą sprendimą.
+Ieškote **elektriko Vilniuje**? Rasti **atestuotą elektriką**, kuris atliktų darbus kokybiškai, saugiai ir su garantija, nėra taip paprasta, kaip gali pasirodyti. Vilniuje veikia šimtai **elektros paslaugų** teikėjų — nuo pavienių meistrų iki specializuotų įmonių. Šiame straipsnyje rasite konkrečius kriterijus, **atestavimo kategorijų** paaiškinimą ir patarimus, padėsiančius priimti teisingą sprendimą.
 
 ## 1. Atestavimas ir VEI registracija
 
@@ -76,32 +76,16 @@ Būkite atsargūs ir ieškokite kito specialisto, jei pastebite bent vieną iš 
 | **Nenori išrašyti sąskaitos** | Gali dirbti nelegaliai, negalėsite įrodyti darbų atlikimo | Sąskaita būtina dėl garantijos |
 | **Skubina priimti sprendimą** | Spaudimas dažnai slepia kokybės problemas | Skirkite laiko palyginti pasiūlymus |
 
-## 5. Elektros darbų kainos Vilniuje
+## 5. Kaip vertinti pasiūlymą ir kainą?
 
-**Elektriko kaina** Vilniuje priklauso nuo darbo tipo, sudėtingumo, medžiagų ir skubumo. Žemiau pateikiame orientacinę kainų lentelę, kuri padės įvertinti, ar gautas pasiūlymas yra rinkos ribose.
-
-### Orientacinės kainos pagal paslaugos tipą
-
-| Paslauga | Orientacinė kaina | Pastabos |
-|---|---|---|
-| Rozetės / jungiklio montavimas | 15–40 EUR / vnt. | Priklauso nuo paviršinio ar įleidžiamo tipo |
-| [Elektros skydelio keitimas](/blog/elektros-skydelio-keitimas-kada-ir-kodel) | 200–600 EUR | Priklauso nuo automatų skaičiaus |
-| Buto [elektros instaliacija](/blog/elektros-instaliacijos-namuose-ka-reikia-zinoti) (pilna) | 1 500–5 000 EUR | Priklausomai nuo ploto ir taškų skaičiaus |
-| Namo elektros instaliacija | 3 000–15 000 EUR | Priklauso nuo namo dydžio ir sudėtingumo |
-| [ESO prijungimas](/blog/eso-prijungimas-ir-galios-didinimas) (rangovo darbai) | 500–2 000 EUR | Be ESO mokesčių |
-| [Gedimų diagnostika ir šalinimas](/blog/elektros-gedimu-salinimas-vilniuje-kada-kvisti-elektrika) | 40–100 EUR / val. | Nuo gedimo sudėtingumo |
-| [Elektromobilio krovimo stotelė](/blog/elektromobilio-krovimo-stotele-namuose) | 300–1 500 EUR | Be stotelės kainos |
-| [Žaibosauga ir įžeminimas](/blog/izeminimas-ir-zaibosauga-ka-reikia-zinoti) | 500–2 000 EUR | Priklauso nuo pastato tipo |
-| Elektrikas valandiniai darbai | 25–60 EUR / val. | Be medžiagų |
-
-**Svarbu:** kainos yra orientacinės ir gali skirtis priklausomai nuo konkretaus projekto. Visada prašykite **detalios sąmatos** su medžiagų ir darbų specifikacija prieš pradedant darbus.
+Kaina priklauso nuo daugelio veiksnių, todėl visada prašykite **detalios sąmatos** su medžiagų ir darbų specifikacija prieš pradedant darbus. Tai leis palyginti pasiūlymus ir įvertinti, ar kaina atitinka darbų apimtį.
 
 ### Kas lemia galutinę kainą?
 
 - **Darbo sudėtingumas** — standartinis montavimas vs. sudėtinga rekonstrukcija
 - **Medžiagų kokybė** — ekonominės vs. premium klasės elektros įranga
 - **Projekto apimtis** — viena rozetė vs. viso namo instaliacija
-- **Skubumas** — darbai savaitgalį ar vakare kainuoja 20–50 % brangiau
+- **Skubumas** — skubūs darbai gali kainuoti brangiau
 - **Papildomos paslaugos** — [dokumentacija](/blog/elektros-tinklo-prieziura-ir-dokumentacija), [matavimai](/blog/elektros-irenginiu-testavimas-ir-matavimai), projektas
 
 ## Kaip atrodo gero elektriko darbo procesas?
@@ -141,7 +125,7 @@ Paprašykite specialisto parodyti **VEI (Valstybinės energetikos inspekcijos)**
 
 ### Kiek kainuoja elektriko paslaugos Vilniuje?
 
-**Elektriko kaina** Vilniuje svyruoja priklausomai nuo darbo tipo. Paprastas rozetės montavimas kainuoja 15–40 EUR, o pilna buto [elektros instaliacija](/blog/elektros-instaliacijos-namuose-ka-reikia-zinoti) — nuo 1 500 iki 5 000 EUR. Valandiniai darbai kainuoja 25–60 EUR/val. Visada prašykite detalios sąmatos su medžiagomis ir darbų specifikacija.
+Kaina priklauso nuo darbo tipo, sudėtingumo, medžiagų ir projekto apimties. Visada prašykite **detalios sąmatos** su medžiagomis ir darbų specifikacija — tai leis objektyviai palyginti pasiūlymus ir priimti teisingą sprendimą.
 
 ### Ar elektrikas turi suteikti garantiją?
 

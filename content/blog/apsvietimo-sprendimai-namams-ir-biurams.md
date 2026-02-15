@@ -195,7 +195,7 @@ Profesionalus elektrikas padės užtikrinti, kad apšvietimo sistema atitiktų v
 
 ### Kiek kainuoja namų apšvietimo atnaujinimas LED technologija?
 
-Vidutinio buto (3--4 kambariai) apšvietimo atnaujinimas **LED šviestuvais** kainuoja nuo **500 iki 2 000 EUR**, priklausomai nuo šviestuvų kokybės ir jų skaičiaus. Investicija paprastai atsiperka per **1--2 metus** dėl mažesnių elektros sąskaitų. Jei reikia atnaujinti ir [elektros instaliaciją](/blog/elektros-instaliacijos-namuose-ka-reikia-zinoti), bendra suma gali būti didesnė.
+Kaina priklauso nuo šviestuvų kokybės, jų skaičiaus ir ar reikia atnaujinti [elektros instaliaciją](/blog/elektros-instaliacijos-namuose-ka-reikia-zinoti). Investicija į LED paprastai atsiperka per **1--2 metus** dėl mažesnių elektros sąskaitų. Susisiekite su mumis dėl konsultacijos — padėsime įvertinti jūsų situaciją.
 
 ### Kokią spalvos temperatūrą rinktis miegamajam ir biurui?
 

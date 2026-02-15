@@ -114,4 +114,14 @@ export const serviceIcons: Record<string, JSX.Element> = {
       <path d="M2 12h3l2-3 2 6 2-6 2 6 2-6 2 6 2-3h3" />
     </svg>
   ),
+  'winch': (
+    <svg className="w-5 h-5 text-white" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+      <circle cx="12" cy="12" r="6" />
+      <circle cx="12" cy="12" r="2" />
+      <path d="M18 12h4" />
+      <path d="M2 12h4" />
+      <path d="M12 2v4" />
+      <path d="M12 18v4" />
+    </svg>
+  ),
 }

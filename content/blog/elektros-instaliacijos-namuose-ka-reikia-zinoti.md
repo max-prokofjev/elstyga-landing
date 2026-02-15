@@ -1,6 +1,6 @@
 ---
 title: "Elektros instaliacija namuose: planavimas ir atnaujinimas"
-description: "Elektros instaliacija namuose – nuo laidų keitimo iki elektros skydelio. Kainos, standartai (LST HD 60364) ir praktiniai patarimai 2025 m."
+description: "Elektros instaliacija namuose – nuo laidų keitimo iki elektros skydelio. Standartai (LST HD 60364) ir praktiniai patarimai 2025 m."
 date: "2025-01-15"
 dateModified: "2025-06-20"
 tags: ["elektros instaliacija", "namų elektra", "saugumas", "laidų keitimas"]
@@ -110,23 +110,6 @@ Kiekviena instaliacija turi būti:
 - Atlikta sertifikuoto specialisto, turinčio galiojantį kvalifikacijos pažymėjimą
 - [Patikrinta ir patvirtinta](/blog/elektros-irenginiu-testavimas-ir-matavimai) atitinkama dokumentacija — izoliacijos varžos matavimai, RCD testai
 - [Dokumentuota](/blog/elektros-tinklo-prieziura-ir-dokumentacija) — parengtas elektros instaliacijos aktas ir schema
-
-## Elektros instaliacijos kaina
-
-Elektros instaliacijos kaina priklauso nuo daugelio veiksnių: namo dydžio, medžiagų kokybės, darbų apimties ir regiono. Pateikiame orientacines kainas 2025 metams:
-
-| Darbas | Orientacinė kaina |
-|---|---|
-| **Viena elektros taško instaliacija** | 40–80 EUR |
-| **Pilna instaliacija bute (2 kambariai)** | 2 000–4 000 EUR |
-| **Pilna instaliacija bute (3 kambariai)** | 3 500–6 000 EUR |
-| **Pilna instaliacija name (100 m²)** | 8 000–15 000 EUR |
-| **Pilna instaliacija name (150-200 m²)** | 15 000–25 000 EUR |
-| **[Elektros skydelio keitimas](/blog/elektros-skydelio-keitimas-kada-ir-kodel)** | 500–1 500 EUR |
-| **Laidų keitimas (per kaminą)** | Nuo 20 EUR/m |
-| **[Tranšėjos kasimas kabeliams](/blog/transeju-kasimas-ir-kabeliu-tiesimas)** | Nuo 15 EUR/m |
-
-Kainos nurodytos be medžiagų. Tikslią kainą galima nustatyti tik po apžiūros ir **elektros projekto** parengimo.
 
 ## Instaliacija bute vs. instaliacija name
 

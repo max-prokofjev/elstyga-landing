@@ -38,6 +38,7 @@ export const serviceCategories: ServiceCategory[] = [
       { id: 'excavator', title: 'Mini ekskavatoriaus nuoma', description: 'Nuoma su operatoriumi', iconKey: 'excavator' },
       { id: 'trench', title: 'Tranšėjų kasimas', description: 'Kabeliams, vandentiekiui', iconKey: 'trench' },
       { id: 'drill', title: 'Skylių gręžimas', description: 'Tvorai, pamatui iki 2m', iconKey: 'drill' },
+      { id: 'winch', title: 'Kabelių klojimo/tempimo gervės', description: 'Kabelių tempimas ir klojimas', iconKey: 'winch' },
     ],
   },
   {

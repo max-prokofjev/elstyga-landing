@@ -1,5 +1,5 @@
 ---
-title: "Įžeminimo kontūras ir žaibosauga: įrengimas, reikalavimai, kainos"
+title: "Įžeminimo kontūras ir žaibosauga: įrengimas ir reikalavimai"
 description: "Įžeminimo kontūro įrengimas ir žaibosaugos sistemos montavimas Vilniuje. Varžos reikalavimai, elektrodų tipai, STR standartai ir dažniausiai užduodami klausimai."
 date: "2025-07-01"
 dateModified: "2025-07-05"
@@ -7,7 +7,7 @@ tags: ["įžeminimas", "žaibosauga", "įžeminimo kontūras", "elektros sauga"]
 image: "/images/blog/izeminimas-ir-zaibosauga-ka-reikia-zinoti.jpg"
 ---
 
-# Įžeminimo kontūras ir žaibosauga: įrengimas, reikalavimai, kainos
+# Įžeminimo kontūras ir žaibosauga: įrengimas ir reikalavimai
 
 Įžeminimas ir žaibosauga — tai du svarbiausi elektros saugos elementai, apsaugantys žmones, pastato konstrukcijas ir elektros prietaisus nuo elektros smūgio, gaisro ir žaibo pažeidimų. Statistikos duomenys rodo, kad didelė dalis elektros traumų įvyksta būtent dėl netinkamo arba visiškai neveikiančio įžeminimo. Šiame straipsnyje rasite viską, ką reikia žinoti prieš įrengiant ar tikrinant savo namo įžeminimo kontūrą ir žaibosaugos sistemą.
 

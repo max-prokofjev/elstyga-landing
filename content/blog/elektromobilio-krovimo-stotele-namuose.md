@@ -1,17 +1,17 @@
 ---
-title: "Elektromobilio krovimo stotelė namuose: montavimas, kainos ir subsidijos 2025"
-description: "Elektromobilio krovimo stotelė namuose — wallbox parinkimas, montavimo kaina nuo 400 EUR, APVA subsidija iki 1 000 EUR, ESO galios didinimas Vilniuje."
+title: "Elektromobilio krovimo stotelė namuose: montavimas ir subsidijos 2025"
+description: "Elektromobilio krovimo stotelė namuose — wallbox parinkimas, montavimo procesas, APVA subsidija, ESO galios didinimas Vilniuje."
 date: "2025-05-01"
 dateModified: "2025-06-20"
 tags: ["elektromobilis", "krovimo stotelė", "montavimas", "wallbox", "APVA subsidija", "EV krovimas"]
 image: "/images/blog/elektromobilio-krovimo-stotele-namuose.jpg"
 ---
 
-# Elektromobilio krovimo stotelė namuose: montavimas, kainos ir subsidijos
+# Elektromobilio krovimo stotelė namuose: montavimas ir subsidijos
 
 Elektromobilių skaičius Lietuvoje sparčiai auga — 2025 metais Regitra duomenimis šalyje registruota daugiau nei **30 000 elektromobilių**, o kasmet jų daugėja 40-50 %. Namų **krovimo stotelė** (dar vadinama **wallbox**) yra patogiausias ir pigiausias būdas krauti automobilį kasdien, o APVA **subsidija iki 1 000 EUR** daro investiciją dar patrauklesnę.
 
-Šiame straipsnyje rasite viską apie **EV krovimą namuose**: stotelių palyginimą, **krovimo galią**, montavimo procesą, kainas ir valstybės paramą.
+Šiame straipsnyje rasite viską apie **EV krovimą namuose**: stotelių palyginimą, **krovimo galią**, montavimo procesą ir valstybės paramą.
 
 ## Kodėl verta turėti namų krovimo stotelę?
 
@@ -136,18 +136,6 @@ Jei kabelį reikia tiesti po žeme (pvz., nuo namo iki garažo), gali prireikti 
 - [Įrenginių testavimas ir matavimai](/blog/elektros-irenginiu-testavimas-ir-matavimai) — izoliacijos varžos, grandinės tęstinumo patikra
 - Programėlės nustatymas, WiFi prijungimas, krovimo planavimo konfigūracija
 
-## Montavimo kaina: ko tikėtis?
-
-| Darbas | Orientacinė kaina |
-|---|---|
-| Stotelės montavimas (ant sienos, iki 5 m kabelio) | 200-400 EUR |
-| Papildomas kabelio tiesimas (už kiekvieną metrą) | 10-20 EUR/m |
-| Elektros skydelio parengimas (naujas automatas + RCD) | 100-200 EUR |
-| ESO galios didinimas (trifazio įvedimas) | 200-500 EUR (ESO mokestis) |
-| **Viso (tipinis montavimas)** | **400-800 EUR** (be stotelės) |
-
-**Bendra investicija** (stotelė + montavimas): nuo **900 iki 1 500 EUR** — tačiau dalį kainos padengia **APVA subsidija**.
-
 ## APVA subsidija elektromobilio krovimo stotelei
 
 Aplinkos projektų valdymo agentūra (APVA) pagal programą **„Sumanus"** teikia subsidiją privačių **krovimo stotelių** įrengimui:
@@ -203,7 +191,7 @@ Taip, tačiau tai **nerekomenduojama nuolatiniam naudojimui**. Standartinė roze
 
 ### Kiek kainuoja elektromobilio krovimo stotelės montavimas?
 
-Tipinis montavimas kainuoja **400-800 EUR** (be stotelės). Bendra investicija su stotele — nuo **900 iki 1 500 EUR**. APVA subsidija gali padengti iki **1 000 EUR** arba 50 % išlaidų, todėl reali kaina gali būti nuo **400 EUR**.
+Montavimo kaina priklauso nuo stotelės tipo, kabelio ilgio, skydelio būklės ir ar reikia [ESO galios didinimo](/blog/eso-prijungimas-ir-galios-didinimas). Susisiekite su mumis dėl nemokamos konsultacijos — įvertinsime jūsų situaciją ir pateiksime tikslų pasiūlymą. APVA subsidija gali padengti dalį išlaidų.
 
 ### Ar reikia keisti elektros skydelį krovimo stotelei?
 

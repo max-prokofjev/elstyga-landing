@@ -125,7 +125,7 @@ Jei jūsų trifazio prijungimo galia viršija 30 kW — taip, privaloma. Jei gal
 
 ### Kiek kainuoja elektros ūkio priežiūros sutartis?
 
-Kaina priklauso nuo objekto dydžio, elektros įrenginių kiekio ir aptarnavimo dažnumo. Mažam biurui ar parduotuvei eksploatacijos sutartis dažnai kainuoja mažiau nei vieno etatinio darbuotojo dalis.
+Kaina priklauso nuo objekto dydžio, elektros įrenginių kiekio ir aptarnavimo dažnumo. Susisiekite su mumis dėl nemokamos konsultacijos — įvertinsime jūsų objektą ir pateiksime individualų pasiūlymą.
 
 ### Ar privačiam namui reikia techninės dokumentacijos?
 
