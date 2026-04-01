@@ -104,11 +104,11 @@ export default function Hero() {
                                 <div className="flex flex-col sm:flex-row justify-center gap-4 sm:gap-6 mb-16 md:mb-24"
                                      data-aos="fade-up"
                                      data-aos-delay="400">
-                                    <a className="btn px-8 py-4 text-lg font-semibold text-white bg-gradient-to-r from-blue-500 to-blue-600 rounded-xl hover:from-blue-400 hover:to-blue-500 transform hover:scale-105 transition-all duration-300 shadow-lg hover:shadow-blue-500/25"
+                                    <a className="btn px-8 py-4 text-lg font-semibold text-white bg-blue-600 rounded-xl hover:bg-blue-500 hover:-translate-y-0.5 transition-all duration-300 shadow-lg hover:shadow-blue-500/25"
                                        href="#contacts">
                                         Susisiekti
                                     </a>
-                                    <a className="btn px-8 py-4 text-lg font-semibold text-white bg-white/20 backdrop-blur-sm border border-white/30 rounded-xl hover:bg-white/30 transform hover:scale-105 transition-all duration-300 inline-flex items-center"
+                                    <a className="btn px-8 py-4 text-lg font-semibold text-white bg-white/20 backdrop-blur-sm border border-white/30 rounded-xl hover:bg-white/30 hover:-translate-y-0.5 transition-all duration-300 inline-flex items-center"
                                        href="#zigzag">
                                         Sužinoti daugiau
                                         <svg className="w-5 h-5 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">

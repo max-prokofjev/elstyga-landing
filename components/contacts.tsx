@@ -138,7 +138,7 @@ export default function Contacts() {
                                                 ) : (
                                                     <button
                                                         className="btn px-8 py-3 text-blue-600 bg-white
-                                                                   hover:bg-blue-50 rounded-lg transform hover:scale-105 transition-all duration-200
+                                                                   hover:bg-blue-50 rounded-lg hover:-translate-y-0.5 transition-all duration-200
                                                                    shadow-lg font-semibold"
                                                         type="submit"
                                                     >
