@@ -17,7 +17,7 @@ const jsonLd = {
     name: 'Elstyga',
     description: 'Profesionalios elektros instaliacijos paslaugos namams ir verslui Vilniuje.',
     url: 'https://elstyga.lt',
-    telephone: '+37060000000',
+    telephone: '+37068712334',
     address: {
         '@type': 'PostalAddress',
         addressLocality: 'Vilnius',

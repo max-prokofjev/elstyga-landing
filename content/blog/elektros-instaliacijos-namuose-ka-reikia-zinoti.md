@@ -1,174 +1,167 @@
 ---
 title: "Elektros instaliacija namuose: planavimas ir atnaujinimas"
-description: "Elektros instaliacija namuose – nuo laidų keitimo iki elektros skydelio. Standartai (LST HD 60364) ir praktiniai patarimai 2025 m."
+description: "Elektros instaliacija namuose – nuo laidų keitimo iki elektros skydelio. Standartai (LST HD 60364) ir praktiniai patarimai."
 date: "2025-01-15"
-dateModified: "2025-06-20"
+dateModified: "2026-03-31"
 tags: ["elektros instaliacija", "namų elektra", "saugumas", "laidų keitimas"]
 image: "/images/blog/elektros-instaliacijos-namuose-ka-reikia-zinoti.jpg"
 ---
 
-# Elektros instaliacija namuose: ką reikia žinoti?
+# Elektros instaliacija namuose: ką reikia žinoti prieš pradedant
 
-Elektros instaliacija namuose yra vienas svarbiausių infrastruktūros elementų, nuo kurio priklauso kasdienio gyvenimo patogumas ir šeimos saugumas. Ar statote naują namą, ar planuojate senų laidų keitimą — šiame straipsnyje rasite viską, ką reikia žinoti apie **elektros grandinių** projektavimą, saugos reikalavimus ir darbo eigą.
+Elektros instaliacija — vienas tų dalykų, kurie namuose turi veikti nematomi ir nejaučiami. Bet kai instaliacija pasenusi arba nepralaiko šiuolaikinių poreikių, problemos jaučiamos kasdien: iššokantys automatai, trūkstamos rozetės, ilgintuvų grandinės per visą kambarį.
 
-## Kada reikia atnaujinti elektros instaliaciją?
+Ar statote naują namą, ar planuojate senų laidų keitimą — čia rasite viską, ką reikia žinoti apie planavimą, medžiagas, standartus ir darbo eigą.
 
-Daugelis namų Lietuvoje turi elektros instaliaciją, montuotą dar sovietiniais laikais. Tokia sistema dažnai nebeatitinka šiuolaikinių poreikių ir kelia rimtų saugos grėsmių. Atpažinkite šiuos pavojaus požymius:
+## Kada laikas atnaujinti instaliaciją
 
-- **Dažnai iššoka automatiniai jungikliai** — tai rodo, kad elektros grandinė perkrauta ir nebeatlaiko dabartinės apkrovos
-- **Mirksintys šviestuvai** — gali rodyti blogus kontaktus arba pažeistą laidų izoliaciją
-- **Senesni nei 25 metų laidai** — ypač pavojingi aliumininiai laidai, kurie buvo populiarūs iki 1990-ųjų
-- **Nėra [įžeminimo](/blog/izeminimas-ir-zaibosauga-ka-reikia-zinoti)** — rimta saugos problema, ypač drėgnose patalpose
+Daug namų Lietuvoje vis dar turi instaliaciją iš sovietinių laikų. Ji projektuota kitam laikotarpiui — kai name buvo televizorius, šaldytuvas ir keli šviestuvai. Šiandien, su indukcinėmis kaitlentėmis, šilumos siurbliais ir [elektromobilių krovimo stotelėmis](/blog/elektromobilio-krovimo-stotele-namuose), senoji sistema tiesiog nepralaiko.
+
+Atpažinkite pavojaus ženklus:
+
+- **Dažnai iššoka automatiniai jungikliai** — grandinė perkrauta
+- **Mirksintys šviestuvai** — blogi kontaktai arba pažeista izoliacija
+- **Laidai senesni nei 25 metų** — ypač aliumininiai, naudoti iki 1990-ųjų
+- **Nėra [įžeminimo](/blog/izeminimas-ir-zaibosauga-ka-reikia-zinoti)** — rimta saugos problema
 - **Per mažai rozetės** — nuolatinis ilgintuvų naudojimas didina gaisro riziką
-- **Nėra RCD apsaugos** — srovės nuotėkio relė yra privaloma pagal dabartines normas
-- **Senas [elektros skydelis](/blog/elektros-skydelio-keitimas-kada-ir-kodel)** su kištukiniais saugikliais vietoj automatinių jungiklių
+- **Nėra RCD apsaugos** — srovės nuotėkio relė privaloma pagal dabartines normas
+- **Senas [skydelis](/blog/elektros-skydelio-keitimas-kada-ir-kodel) su korkiniais saugikliais** vietoj automatinių jungiklių
 
-Jei atpažįstate bent du iš šių požymių — rekomenduojame nedelsiant kreiptis į [kvalifikuotą elektriką](/blog/kaip-issirinkti-elektrika-vilniuje).
+Jei atpažįstate bent du požymius — rekomenduojame nedelsiant kreiptis į [kvalifikuotą elektriką](/blog/kaip-issirinkti-elektrika-vilniuje).
 
-## Elektros instaliacijos planavimas
-
-Geras **elektros projektas** yra sėkmingos instaliacijos pagrindas. Prieš pradedant darbus, svarbu atlikti kelis esminius žingsnius.
+## Instaliacijos planavimas
 
 ### 1. Galios poreikių įvertinimas
 
-Šiuolaikiniuose namuose elektros poreikiai gali būti 2-3 kartus didesni nei prieš 20 metų. Planuodami instaliaciją, atsižvelkite į:
+Šiuolaikiniuose namuose elektros poreikiai gali būti 2–3 kartus didesni nei prieš 20 metų. Planuodami, atsižvelkite į:
 
 - **Šildymo ir vėsinimo sistemas** — šilumos siurbliai, kondicionieriai
-- **Virtuvės prietaisus** — indukcinė kaitlentė gali reikalauti iki 7 kW galios
-- **[Elektromobilio krovimo stotelę](/blog/elektromobilio-krovimo-stotele-namuose)** — paprastai 7,4 kW (vienfazė) arba 11-22 kW (trifazė)
+- **Virtuvės prietaisus** — indukcinė kaitlentė gali reikalauti iki 7 kW
+- **[Elektromobilio krovimo stotelę](/blog/elektromobilio-krovimo-stotele-namuose)** — 7,4 kW (vienfazė) arba 11–22 kW (trifazė)
 - **Namų automatikos sistemas** — išmanusis apšvietimas, šildymo valdymas
-- **[Apšvietimo sprendimus](/blog/apsvietimo-sprendimai-namams-ir-biurams)** — LED šviestuvai, lauko apšvietimas
+- **[Apšvietimą](/blog/apsvietimo-sprendimai-namams-ir-biurams)** — LED šviestuvai, lauko apšvietimas
 
-Atsižvelgiant į visus poreikius, dažnai reikia spręsti klausimą dėl [galios didinimo ar ESO prijungimo](/blog/eso-prijungimas-ir-galios-didinimas).
+Dažnai paaiškėja, kad reikia spręsti [galios didinimo ar ESO prijungimo](/blog/eso-prijungimas-ir-galios-didinimas) klausimą.
 
 ### 2. Vienfazis ar trifazis tinklas?
 
-Pasirinkimas tarp **vienfazio** ir **trifazio** tinklo yra vienas svarbiausių sprendimų planuojant elektros instaliaciją name.
-
-| Parametras | Vienfazis tinklas (230 V) | Trifazis tinklas (400 V) |
+| Parametras | Vienfazis (230 V) | Trifazis (400 V) |
 |---|---|---|
 | **Maksimali galia** | Iki 10 kW | Iki 40 kW ir daugiau |
 | **Tinka** | Butui, mažam namui | Dideliam namui, dirbtuvėms |
-| **Elektromobilio krovimas** | Iki 7,4 kW (lėtas) | Iki 22 kW (greitas) |
+| **EV krovimas** | Iki 7,4 kW (lėtas) | Iki 22 kW (greitas) |
 | **Indukcinė kaitlentė** | Galios ribojimai | Pilna galia |
 | **Šilumos siurblys** | Tik mažos galios | Bet kokia galia |
-| **Kabelio skerspjūvis** | Didesnis (daugiau srovės) | Mažesnis (mažiau srovės fazėje) |
-| **Kaina** | Pigesnė instaliacija | Brangesnė, bet lankstesnė |
 
-Daugumai individualių namų rekomenduojamas **trifazis tinklas**, nes jis suteikia didesnį lankstumą ir leidžia tolygiai paskirstyti apkrovą tarp fazių.
+Daugumai individualių namų rekomenduojamas **trifazis tinklas** — jis suteikia lankstumą ir leidžia tolygiai paskirstyti apkrovą.
 
-### 3. Laidų trasų ir kabelių planavimas
+### 3. Kabelių tipai ir skerspjūviai
 
-Profesionalus elektrikas padės suplanuoti optimalias laidų trasas. **Laidų keitimas** apima ne tik senų laidų pakeitimą naujais, bet ir tinkamų kabelių tipų parinkimą.
+Lietuvoje dažniausiai naudojami:
 
-Lietuvoje dažniausiai naudojami šie kabelių tipai:
+| Kabelio tipas | Paskirtis | Skerspjūvis |
+|---|---|---|
+| **NYM-J** | Vidinė instaliacija sienose | 1,5–6 mm² |
+| **VVG** | Vidinė ir lauko instaliacija | 1,5–16 mm² |
+| **CYKY** | Paslėpta instaliacija | 1,5–10 mm² |
 
-| Kabelio tipas | Laidininkas | Paskirtis | Skerspjūvis |
-|---|---|---|---|
-| **NYM-J** | Varis | Vidinė instaliacija sienose | 1,5–6 mm² |
-| **VVG** | Varis | Vidinė ir lauko instaliacija | 1,5–16 mm² |
-| **CYKY** | Varis | Paslėpta instaliacija | 1,5–10 mm² |
-
-Kabelio **skerspjūvio** parinkimas priklauso nuo elektros grandinės apkrovos:
+Skerspjūvio parinkimas pagal apkrovą:
 
 - **1,5 mm²** — apšvietimo grandinės (iki 10 A)
 - **2,5 mm²** — rozetės grandinės (iki 16 A)
-- **4 mm²** — galingi prietaisai (indaplovė, skalbimo mašina)
-- **6 mm²** — elektrinė orkaitė, kaitlentė
-- **10-16 mm²** — įvadinis kabelis, elektromobilio krovimas
+- **4 mm²** — galingi prietaisai (indaplovė, skalbyklė)
+- **6 mm²** — orkaitė, kaitlentė
+- **10–16 mm²** — įvadinis kabelis, elektromobilio krovimas
 
-### 4. Kambario instaliacija: rekomenduojamas rozetės ir jungiklių skaičius
+### 4. Kiek rozetės reikia kiekviename kambaryje
 
-Planuojant instaliaciją bute ar name, svarbu numatyti pakankamą rozetės skaičių kiekvienoje patalpoje:
+Viena dažniausių klaidų — per mažai numatytų rozetės taškų. Tada atsiranda ilgintuvai, kurie kelia gaisro riziką. Rekomenduojamas minimumas:
 
-- **Svetainė** — 8-12 rozetės, 2-3 jungikliai, TV/interneto lizdai
-- **Virtuvė** — 6-10 rozetės (atskiros linijos galingiems prietaisams)
-- **Miegamasis** — 6-8 rozetės, 2 jungikliai
-- **Vonios kambarys** — 2-3 rozetės (IP44 apsaugos klasė), atskiras RCD
-- **Koridorius** — 2-4 rozetės, 2 jungikliai (dvipusis jungimas)
-- **Garažas/rūsys** — 4-6 rozetės, atskira grandinė
+- **Svetainė** — 8–12 rozetės, 2–3 jungikliai, TV/interneto lizdai
+- **Virtuvė** — 6–10 rozetės (atskiros linijos galingiems prietaisams)
+- **Miegamasis** — 6–8 rozetės, 2 jungikliai
+- **Vonios kambarys** — 2–3 rozetės (IP44), atskiras RCD
+- **Koridorius** — 2–4 rozetės, dvipusis jungimas
+- **Garažas/rūsys** — 4–6 rozetės, atskira grandinė
 
 ## Saugos standartai ir reikalavimai
 
-Elektros instaliacija namuose Lietuvoje turi atitikti griežtus saugos standartus, numatytus šiuose teisės aktuose:
+Elektros instaliacija Lietuvoje turi atitikti:
 
-- **LST HD 60364** serija — pagrindinės žemos įtampos elektros instaliacijos taisyklės
-- **STR 2.09.04:2008** — pastato šildymo, vėsinimo ir elektros inžinerinės sistemos
-- **IEC 60364** — tarptautinis elektros instaliacijos standartas
+- **LST HD 60364** — pagrindinės žemos įtampos elektros instaliacijos taisyklės
+- **STR 2.09.04:2008** — pastato inžinerinių sistemų reikalavimai
+- **IEC 60364** — tarptautinis standartas
 
 ### Apsaugos įrenginių hierarchija
 
-Šiuolaikinėje elektros instaliacijoje naudojama daugiapakopė apsaugos sistema:
+Šiuolaikinėje instaliacijoje naudojama daugiapakopė apsauga:
 
 1. **MCB (automatinis jungiklis)** — apsauga nuo perkrovų ir trumpųjų jungimų
-2. **RCD (srovės nuotėkio relė)** — apsauga nuo elektros smūgio (privaloma pagal LST HD 60364)
-3. **RCBO** — kombinuotas aparatas, jungiantis MCB ir RCD funkcijas vienoje
+2. **RCD (srovės nuotėkio relė)** — apsauga nuo elektros smūgio, privaloma pagal LST HD 60364
+3. **RCBO** — MCB + RCD viename — kompaktiška ir patogi
 4. **SPD (viršįtampių apsauga)** — apsauga nuo [žaibo ir tinklo viršįtampių](/blog/izeminimas-ir-zaibosauga-ka-reikia-zinoti)
 
 Kiekviena instaliacija turi būti:
-
-- Atlikta sertifikuoto specialisto, turinčio galiojantį kvalifikacijos pažymėjimą
-- [Patikrinta ir patvirtinta](/blog/elektros-irenginiu-testavimas-ir-matavimai) atitinkama dokumentacija — izoliacijos varžos matavimai, RCD testai
-- [Dokumentuota](/blog/elektros-tinklo-prieziura-ir-dokumentacija) — parengtas elektros instaliacijos aktas ir schema
+- Atlikta sertifikuoto specialisto
+- [Patikrinta ir patvirtinta](/blog/elektros-irenginiu-testavimas-ir-matavimai) matavimais
+- [Dokumentuota](/blog/elektros-tinklo-prieziura-ir-dokumentacija) — aktas ir schema
 
 ## Instaliacija bute vs. instaliacija name
 
-Elektros instaliacijos darbai bute ir individualiame name turi esminių skirtumų:
-
-**Instaliacija bute:**
+**Bute:**
 - Paprastai vienfazis tinklas
 - Ribota galimybė keisti laidų trasas
-- Būtina derinti su daugiabučio namo bendrija
-- Paprastesnė [dokumentacija](/blog/elektros-tinklo-prieziura-ir-dokumentacija)
+- Būtina derinti su daugiabučio bendrija
+- Paprastesnė dokumentacija
 
-**Instaliacija name:**
+**Name:**
 - Dažniausiai trifazis tinklas
-- Laisvė planuoti laidų trasas
+- Laisvė planuoti trasas
 - Reikia spręsti [lauko instaliacijos](/blog/transeju-kasimas-ir-kabeliu-tiesimas) klausimus
 - Papildomi reikalavimai: [žaibosauga](/blog/izeminimas-ir-zaibosauga-ka-reikia-zinoti), lauko apšvietimas, vartų automatika
 
-## Kodėl verta rinktis profesionalus?
+## Kodėl tai ne „pasidaryk pats" projektas
 
-Elektros darbai nėra ta sritis, kur verta taupyti ar bandyti atlikti patiems. Netinkamai atlikta instaliacija gali sukelti:
+Netinkamai atlikta instaliacija gali sukelti:
 
-- **Gaisro pavojų** — netinkamas kabelio skerspjūvis ar blogas kontaktas gali sukelti perkaitimą
-- **Elektros smūgio riziką** — [saugos normos](/blog/elektros-saugos-patarimai-2025) egzistuoja ne be reikalo
-- **Prietaisų gedimus** — neapsaugota instaliacija leidžia viršįtampiams pasiekti jūsų elektroniką
-- **Papildomas išlaidas ateityje** — perprojektuoti blogai atliktą instaliaciją kainuoja dvigubai
-- **Teisinę atsakomybę** — nesertifikuota instaliacija gali lemti draudimo atsisakymą kompensuoti nuostolius
+- **Gaisrą** — netinkamas kabelio skerspjūvis ar blogas kontaktas
+- **Elektros smūgio riziką** — [saugos normos](/blog/elektros-saugos-patarimai-2026) egzistuoja ne be reikalo
+- **Prietaisų gedimus** — neapsaugota instaliacija leidžia viršįtampiams pasiekti elektroniką
+- **Dvigubas išlaidas** — perprojektuoti blogą instaliaciją kainuoja dvigubai
+- **Teisinę atsakomybę** — nesertifikuota instaliacija gali lemti draudimo atsisakymą
 
-Profesionalus elektrikas ne tik atliks darbus kokybiškai, bet ir padės išvengti [dažniausių elektros gedimų](/blog/elektros-gedimu-salinimas-vilniuje-kada-kvisti-elektrika).
+Profesionalus elektrikas ne tik atliks darbus kokybiškai, bet ir padės išvengti [dažniausių gedimų](/blog/elektros-gedimu-salinimas-vilniuje-kada-kvisti-elektrika).
 
-## Dažnai užduodami klausimai (DUK)
+## Dažniausiai užduodami klausimai
 
-### Kiek laiko trunka pilna elektros instaliacija name?
+### Kiek laiko trunka pilna instaliacija?
 
-Pilna elektros instaliacija individualiame name (100-200 m²) paprastai trunka **2-4 savaites**, priklausomai nuo namo dydžio, darbų sudėtingumo ir laidų trasų ilgio. Buto instaliacija — **3-7 darbo dienos**. Į šį laikotarpį neįeina [ESO prijungimo](/blog/eso-prijungimas-ir-galios-didinimas) procedūros, kurios gali užtrukti papildomai.
+Individualiame name (100–200 m²) — **2–4 savaitės**. Bute — **3–7 darbo dienos**. Į tai neįeina [ESO prijungimo](/blog/eso-prijungimas-ir-galios-didinimas) procedūros, kurios gali užtrukti papildomai.
 
-### Ar galima atnaujinti elektros instaliaciją dalimis?
+### Ar galima atnaujinti instaliaciją dalimis?
 
-Taip, instaliaciją galima atnaujinti etapais — pavyzdžiui, pradėti nuo [elektros skydelio keitimo](/blog/elektros-skydelio-keitimas-kada-ir-kodel), tada pereiti prie virtuvės ir vonios kambario laidų keitimo. Tačiau reikia turėti bendrą planą, kad atskiri etapai sudarytų vientisą sistemą. Dalinis atnaujinimas leidžia paskirstyti kaštus per ilgesnį laikotarpį.
+Taip — galima pradėti nuo [skydelio keitimo](/blog/elektros-skydelio-keitimas-kada-ir-kodel), tada pereiti prie virtuvės ir vonios laidų. Bet reikia turėti bendrą planą, kad etapai sudarytų vientisą sistemą. Dalinis atnaujinimas leidžia paskirstyti kaštus.
 
-### Kokius dokumentus gaunu po elektros instaliacijos darbų?
+### Kokius dokumentus gaunu po darbų?
 
-Po baigtų darbų privalote gauti: elektros instaliacijos aktą, izoliacijos varžų [matavimo protokolus](/blog/elektros-irenginiu-testavimas-ir-matavimai), RCD veikimo testo rezultatus, skydelio schemą ir elektros grandinių aprašymą. Ši [dokumentacija](/blog/elektros-tinklo-prieziura-ir-dokumentacija) yra privaloma ir reikalinga tiek ESO prijungimui, tiek nekilnojamojo turto sandoriams.
+Instaliacijos aktą, izoliacijos varžų [matavimo protokolus](/blog/elektros-irenginiu-testavimas-ir-matavimai), RCD testo rezultatus, skydelio schemą ir grandinių aprašymą. Ši [dokumentacija](/blog/elektros-tinklo-prieziura-ir-dokumentacija) privaloma ESO prijungimui ir nekilnojamojo turto sandoriams.
 
 ### Kuo skiriasi NYM ir VVG kabeliai?
 
-**NYM-J** kabelis turi papildomą apsauginę izoliacijos sluoksnį ir yra skirtas vidinei instaliacijai sausose patalpose. **VVG** kabelis yra universalesnis — tinka tiek vidinei, tiek lauko instaliacijai, taip pat gali būti klojamas žemėje. Tinkamiausią kabelio tipą parenka elektrikas pagal konkrečias sąlygas ir laidų trasų specifiką.
+**NYM-J** turi papildomą apsauginį sluoksnį ir skirtas vidinei instaliacijai sausose patalpose. **VVG** universalesnis — tinka ir viduje, ir lauke, gali būti klojamas žemėje. Tinkamiausią tipą parenka elektrikas pagal konkrečias sąlygas.
 
-### Ar būtinas elektros projektas prieš pradedant darbus?
+### Ar būtinas elektros projektas?
 
-Naujam namui arba kapitalinam remontui **elektros projektas yra labai rekomenduojamas**, o kai kuriais atvejais — privalomas. Projektas apima elektros taškų išdėstymą, kabelių trasas, skydelio schemą ir galios skaičiavimus. Tai ne tik užtikrina kokybišką darbą, bet ir palengvina [ESO prijungimo](/blog/eso-prijungimas-ir-galios-didinimas) procesą bei apsaugo juridiškai.
+Naujam namui arba kapitaliniam remontui — labai rekomenduojamas, kartais privalomas. Projektas palengvina [ESO prijungimą](/blog/eso-prijungimas-ir-galios-didinimas) ir apsaugo juridiškai.
 
 ## Elstyga — profesionali elektros instaliacija Vilniuje
 
-**Elstyga** komanda turi ilgametę patirtį elektros instaliacijos srityje — nuo individualių namų iki komercinių objektų:
+Turime ilgametę patirtį — nuo individualių namų iki komercinių objektų:
 
-- Atliekame pilną elektros instaliaciją namuose ir butuose
-- Naudojame tik sertifikuotas medžiagas (ABB, Schneider Electric)
-- Parengiame visą privalomą [dokumentaciją](/blog/elektros-tinklo-prieziura-ir-dokumentacija)
-- Atliekame [matavimus ir bandymus](/blog/elektros-irenginiu-testavimas-ir-matavimai) pagal LST HD 60364 standartą
-- Suteikiame garantiją visiems atliktiems darbams
+- Pilna elektros instaliacija namuose ir butuose
+- Sertifikuotos medžiagos
+- Visa privaloma [dokumentacija](/blog/elektros-tinklo-prieziura-ir-dokumentacija)
+- [Matavimai ir bandymai](/blog/elektros-irenginiu-testavimas-ir-matavimai) pagal LST HD 60364
+- Garantija visiems darbams
 
-Susisiekite su mumis dėl **nemokamos konsultacijos** ir individualaus pasiūlymo!
+Susisiekite dėl nemokamos konsultacijos ir individualaus pasiūlymo.
