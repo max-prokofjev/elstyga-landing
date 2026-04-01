@@ -146,6 +146,7 @@ export async function getPostBySlug(slug: string): Promise<BlogPost | null> {
 
   const processedContent = await remark().use(remarkGfm).use(html).process(content)
   let contentHtml = processedContent.toString()
+    .replace(/--/g, '\u2014')
 
   const toc = extractToc(contentHtml)
   contentHtml = addHeadingIds(contentHtml)
