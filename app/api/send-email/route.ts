@@ -9,6 +9,8 @@ import path from 'path';
 require('dotenv').config();
 
 interface EmailData {
+    name?: string;
+    phone?: string;
     email: string;
     message: string;
 }
@@ -23,6 +25,8 @@ export async function POST(req: Request) {
     const templatePath = path.join(process.cwd(), 'app', 'api', 'send-email', 'email-template.html');
     const emailTemplate = fs.readFileSync(templatePath, 'utf8');
     let populatedTemplate = emailTemplate
+        .replace('{{ name }}', data.name || '—')
+        .replace('{{ phone }}', data.phone || '—')
         .replace('{{ email }}', data.email)
         .replace('{{ message }}', data.message);
 

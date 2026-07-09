@@ -6,7 +6,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
   const blogUrls = posts.map((post) => ({
     url: `https://elstyga.lt/blog/${post.slug}`,
-    lastModified: new Date(post.date),
+    lastModified: new Date(post.dateModified || post.date),
     changeFrequency: 'monthly' as const,
     priority: 0.7,
   }))

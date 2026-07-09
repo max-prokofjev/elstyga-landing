@@ -2,7 +2,7 @@
 title: "Kaip išsirinkti elektriką Vilniuje: patikimo specialisto paieškos gidas"
 description: "Kaip išsirinkti elektriką Vilniuje? Atestavimo kategorijos, VEI registracija ir svarbiausi kriterijai renkantis patikimą elektriką."
 date: "2025-02-10"
-dateModified: "2026-03-31"
+dateModified: "2026-07-09"
 tags: ["elektrikas", "Vilnius", "patarimai", "atestuotas elektrikas", "elektriko paslaugos", "ESO rangovas"]
 image: "/images/blog/kaip-issirinkti-elektrika-vilniuje.jpg"
 ---
@@ -43,7 +43,7 @@ Ne kiekvienas elektrikas vienodai geras visose srityse. Elektros darbų spektras
 - **Pramoninė elektra** — gamyklos, sandėliai, komerciniai objektai
 - **Gedimų diagnostika** — [skubus gedimų šalinimas](/blog/elektros-gedimu-salinimas-vilniuje-kada-kvisti-elektrika)
 - **Apšvietimas** — [apšvietimo sprendimai namams ir biurams](/blog/apsvietimo-sprendimai-namams-ir-biurams)
-- **Matavimai** — [elektros įrenginių testavimas](/blog/elektros-irenginiu-testavimas-ir-matavimai)
+- **Matavimai** — [elektros įrenginių testavimas](/blog/elektros-irenginiu-testavimas-ir-matavimai), [patikra perkant būstą](/blog/elektros-patikra-perkant-busta)
 - **Žaibosauga** — [įžeminimo ir žaibosaugos sistemos](/blog/izeminimas-ir-zaibosauga-ka-reikia-zinoti)
 
 Klauskite, kiek metų specialistas dirba būtent toje srityje, kurioje jums reikia pagalbos. 5+ metų patirtis konkrečioje specializacijoje — geras rodiklis.

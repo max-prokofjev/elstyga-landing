@@ -2,7 +2,7 @@
 title: "Elektros varžų matavimai ir bandymai: rūšys, normos, periodiškumas"
 description: "Izoliacijos varžos, įžeminimo kontūro, pereinamųjų kontaktų ir kilpų varžos matavimai. Normos, periodiškumas ir protokolų rengimas Vilniuje."
 date: "2025-08-01"
-dateModified: "2026-03-31"
+dateModified: "2026-07-09"
 tags: ["elektros matavimai", "varžų matavimai", "izoliacijos varža", "elektros bandymai"]
 image: "/images/blog/elektros-irenginiu-testavimas-ir-matavimai.jpg"
 ---
@@ -76,6 +76,8 @@ Gamybinės įmonės privalo periodiškai tikrinti nešiojamų elektros įrankių
 | Nešiojamų įrankių izoliacija | Megaohmetras | ≥ 0,5 MΩ | Kas 6 mėn. |
 
 ## Kada matavimai privalomi?
+
+Atskiras atvejis, kai matavimai labai atsiperka — [elektros instaliacijos patikra perkant būstą](/blog/elektros-patikra-perkant-busta): defektai išaiškėja iki sandorio, o ne po jo.
 
 ### Pagal teisės aktus
 

@@ -2,13 +2,18 @@
 import axios from 'axios';
 import { useState } from "react";
 import Loader from "@/components/ui/loader";
+import { PHONE, PHONE_DISPLAY, EMAIL } from '@/lib/site';
 
 interface FormData {
+    name: string;
+    phone: string;
     email: string;
     message: string;
 }
 
 const initialState = {
+    name: '',
+    phone: '',
     email: '',
     message: ''
 };
@@ -17,6 +22,7 @@ export default function Contacts() {
     const [formData, setFormData] = useState<FormData>(initialState);
     const [isLoading, setIsLoading] = useState(false);
     const [isSent, setIsSent] = useState(false);
+    const [isError, setIsError] = useState(false);
     const [isEmailInvalid, setEmailInvalid] = useState(false);
     const [isMessageInvalid, setMessageInvalid] = useState(false);
 
@@ -38,6 +44,7 @@ export default function Contacts() {
         if (!formData.email || !formData.message) return;
 
         setIsLoading(true);
+        setIsError(false);
         try {
             await axios.post('/api/send-email', formData);
             setFormData(initialState);
@@ -46,11 +53,12 @@ export default function Contacts() {
         } catch (e) {
             console.log('Something went wrong', e);
             setIsLoading(false);
+            setIsError(true);
         }
     };
 
     return (
-        <section id="contacts" className="relative overflow-hidden bg-gray-50">
+        <section id="kontaktai" className="relative overflow-hidden bg-gray-50">
             <div className="max-w-6xl mx-auto px-4 sm:px-6 relative">
                 <div className="pt-12 pb-12 md:pt-20 md:pb-20">
                     {/* Contact box */}
@@ -94,17 +102,45 @@ export default function Contacts() {
                                                 Jūsų elektros rūpesčiams – nemokama konsultacija!
                                             </p>
                                             <div className="flex flex-col space-y-4 text-white">
-                                                <div className="flex items-center">
+                                                <a href={`tel:${PHONE}`} className="flex items-center hover:text-blue-100 transition-colors duration-200">
+                                                    <svg className="w-5 h-5 mr-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"/>
+                                                    </svg>
+                                                    {PHONE_DISPLAY}
+                                                </a>
+                                                <a href={`mailto:${EMAIL}`} className="flex items-center hover:text-blue-100 transition-colors duration-200">
                                                     <svg className="w-5 h-5 mr-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                                         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"/>
                                                     </svg>
-                                                    elstyga@gmail.com
-                                                </div>
+                                                    {EMAIL}
+                                                </a>
                                             </div>
                                         </div>
 
                                         <form onSubmit={handleSubmit} className="w-full lg:w-1/2 space-y-4">
                                             <div className="space-y-4">
+                                                <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+                                                    <input
+                                                        type="text"
+                                                        name="name"
+                                                        value={formData.name}
+                                                        onChange={handleChange}
+                                                        className="w-full bg-white/20 border-2 border-white/30 focus:border-white
+                                                            rounded-lg px-4 py-3 text-white placeholder-white/70
+                                                            backdrop-blur-sm transition-colors duration-200 hover:border-white/50"
+                                                        placeholder="Jūsų vardas..."
+                                                    />
+                                                    <input
+                                                        type="tel"
+                                                        name="phone"
+                                                        value={formData.phone}
+                                                        onChange={handleChange}
+                                                        className="w-full bg-white/20 border-2 border-white/30 focus:border-white
+                                                            rounded-lg px-4 py-3 text-white placeholder-white/70
+                                                            backdrop-blur-sm transition-colors duration-200 hover:border-white/50"
+                                                        placeholder="Jūsų tel. numeris..."
+                                                    />
+                                                </div>
                                                 <input
                                                     type="email"
                                                     name="email"
@@ -132,6 +168,12 @@ export default function Contacts() {
                                                     placeholder="Jūsų žinutė..."
                                                 />
                                             </div>
+                                            {isError && (
+                                                <p className="text-white bg-red-500/40 border border-red-300/50 rounded-lg px-4 py-3 text-sm">
+                                                    Nepavyko išsiųsti žinutės. Bandykite dar kartą arba skambinkite{' '}
+                                                    <a href={`tel:${PHONE}`} className="font-semibold underline">{PHONE_DISPLAY}</a>.
+                                                </p>
+                                            )}
                                             <div className="flex justify-end">
                                                 {isLoading ? (
                                                     <Loader />

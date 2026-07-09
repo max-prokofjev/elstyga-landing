@@ -42,7 +42,7 @@ export default function Services() {
       <Script id="services-structured-data" type="application/ld+json">
         {JSON.stringify(servicesStructuredData)}
       </Script>
-      <section className="relative py-20 bg-gray-50" id="services">
+      <section className="relative py-20 bg-gray-50" id="apie-mus">
         <div className="max-w-6xl mx-auto px-4 sm:px-6 relative">
           <div className="py-12 md:py-20">
 

@@ -13,6 +13,11 @@ export interface TocItem {
   level: number
 }
 
+export interface FaqItem {
+  question: string
+  answer: string
+}
+
 export interface BlogPost {
   slug: string
   title: string
@@ -23,6 +28,9 @@ export interface BlogPost {
   tags: string[]
   content: string
   toc: TocItem[]
+  faq: FaqItem[]
+  // 'frontmatter' FAQs also render as an accordion; 'body' FAQs are already part of the content
+  faqSource: 'frontmatter' | 'body' | 'none'
   readingTime: number
 }
 
@@ -147,9 +155,15 @@ export async function getPostBySlug(slug: string): Promise<BlogPost | null> {
   const processedContent = await remark().use(remarkGfm).use(html).process(content)
   let contentHtml = processedContent.toString()
     .replace(/--/g, '\u2014')
+    // The page renders the frontmatter title as the H1; drop the duplicate from the body
+    .replace(/^\s*<h1[^>]*>[\s\S]*?<\/h1>/, '')
 
   const toc = extractToc(contentHtml)
   contentHtml = addHeadingIds(contentHtml)
+
+  const frontmatterFaq = parseFaq(data.faq)
+  const bodyFaq = frontmatterFaq.length === 0 ? extractFaqFromHtml(contentHtml) : []
+  const faq = frontmatterFaq.length > 0 ? frontmatterFaq : bodyFaq
 
   return {
     slug,
@@ -161,6 +175,40 @@ export async function getPostBySlug(slug: string): Promise<BlogPost | null> {
     tags: data.tags || [],
     content: contentHtml,
     toc,
+    faq,
+    faqSource: frontmatterFaq.length > 0 ? 'frontmatter' : bodyFaq.length > 0 ? 'body' : 'none',
     readingTime: estimateReadingTime(content),
   }
+}
+
+function parseFaq(raw: unknown): FaqItem[] {
+  if (!Array.isArray(raw)) return []
+  return raw
+    .filter((item): item is { question: string; answer: string } =>
+      Boolean(item && typeof item.question === 'string' && typeof item.answer === 'string')
+    )
+    .map(({ question, answer }) => ({ question, answer }))
+}
+
+function stripTags(htmlFragment: string): string {
+  return htmlFragment.replace(/<[^>]*>/g, '').replace(/\s+/g, ' ').trim()
+}
+
+// Posts written before frontmatter FAQ support carry a "Dažniausiai užduodami
+// klausimai" section in the body; extract its Q&A pairs for FAQPage schema.
+function extractFaqFromHtml(htmlContent: string): FaqItem[] {
+  const sectionMatch = htmlContent.match(
+    /<h2[^>]*>[^<]*Dažniausiai užduodami klausimai[^<]*<\/h2>([\s\S]*?)(?=<h2|$)/i
+  )
+  if (!sectionMatch) return []
+
+  const items: FaqItem[] = []
+  const qaRegex = /<h3[^>]*>([\s\S]*?)<\/h3>([\s\S]*?)(?=<h3|$)/gi
+  let match
+  while ((match = qaRegex.exec(sectionMatch[1])) !== null) {
+    const question = stripTags(match[1])
+    const answer = stripTags(match[2])
+    if (question && answer) items.push({ question, answer })
+  }
+  return items
 }

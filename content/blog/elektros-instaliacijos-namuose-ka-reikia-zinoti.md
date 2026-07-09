@@ -2,7 +2,7 @@
 title: "Elektros instaliacija namuose: planavimas ir atnaujinimas"
 description: "Elektros instaliacija namuose – nuo laidų keitimo iki elektros skydelio. Standartai (LST HD 60364) ir praktiniai patarimai."
 date: "2025-01-15"
-dateModified: "2026-03-31"
+dateModified: "2026-07-09"
 tags: ["elektros instaliacija", "namų elektra", "saugumas", "laidų keitimas"]
 image: "/images/blog/elektros-instaliacijos-namuose-ka-reikia-zinoti.jpg"
 ---
@@ -75,12 +75,12 @@ Skerspjūvio parinkimas pagal apkrovą:
 
 ### 4. Kiek rozetės reikia kiekviename kambaryje
 
-Viena dažniausių klaidų — per mažai numatytų rozetės taškų. Tada atsiranda ilgintuvai, kurie kelia gaisro riziką. Rekomenduojamas minimumas:
+Viena dažniausių klaidų — per mažai numatytų rozetės taškų. Tada atsiranda ilgintuvai, kurie kelia gaisro riziką. Išsamius aukščius ir planavimo principus aprašėme [rozečių ir jungiklių išdėstymo gide](/blog/rozeciu-ir-jungikliu-isdestymas). Rekomenduojamas minimumas:
 
 - **Svetainė** — 8–12 rozetės, 2–3 jungikliai, TV/interneto lizdai
-- **Virtuvė** — 6–10 rozetės (atskiros linijos galingiems prietaisams)
+- **[Virtuvė](/blog/elektros-instaliacija-virtuveje)** — 6–10 rozetės (atskiros linijos galingiems prietaisams)
 - **Miegamasis** — 6–8 rozetės, 2 jungikliai
-- **Vonios kambarys** — 2–3 rozetės (IP44), atskiras RCD
+- **[Vonios kambarys](/blog/elektros-instaliacija-vonios-kambaryje)** — 2–3 rozetės (IP44), atskiras RCD
 - **Koridorius** — 2–4 rozetės, dvipusis jungimas
 - **Garažas/rūsys** — 4–6 rozetės, atskira grandinė
 

@@ -2,7 +2,7 @@
 title: "Elektros skydelio keitimas: požymiai ir procesas"
 description: "Elektros skydelio keitimas ir modernizavimas — požymiai, MCB ir RCBO parinkimas, DIN modulių skaičius ir montavimo eiga. Patarimai iš praktikos."
 date: "2025-05-15"
-dateModified: "2026-03-31"
+dateModified: "2026-07-09"
 tags: ["elektros skydelis", "skydelio modernizavimas", "automatinis jungiklis", "RCD", "RCBO", "saugumas"]
 image: "/images/blog/elektros-skydelio-keitimas-kada-ir-kodel.jpg"
 ---
@@ -64,6 +64,8 @@ Skydelio keitimas dažniausiai reikalingas:
 - **Busbar** — patogi ir saugi automatų jungtis DIN bėgelyje
 
 ### MCB charakteristikos — ką reiškia B, C, D raidės
+
+Išsamų aparatūros parinkimo gidą rasite straipsnyje [„Automatiniai jungikliai ir nuotėkio relės"](/blog/automatiniai-jungikliai-ir-nuotekio-reles).
 
 | Raidė | Suveikimo daugiklis | Kur naudoti |
 |---|---|---|

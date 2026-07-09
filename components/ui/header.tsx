@@ -1,6 +1,7 @@
 import Link from 'next/link'
 import Image from 'next/image'
 import MobileMenu from './mobile-menu'
+import { PHONE, PHONE_DISPLAY, EMAIL } from '@/lib/site'
 
 export default function Header() {
     return (
@@ -26,17 +27,17 @@ export default function Header() {
                     <nav className="hidden md:flex md:grow" role="navigation" aria-label="Main navigation">
                         <ul className="flex grow justify-end flex-wrap items-center gap-8">
                             <li>
-                                <Link href="/#services" className="text-slate-600 hover:text-blue-500 font-medium transition-colors duration-300">
+                                <Link href="/#apie-mus" className="text-slate-600 hover:text-blue-500 font-medium transition-colors duration-300">
                                     Apie Mus
                                 </Link>
                             </li>
                             <li>
-                                <Link href="/#zigzag" className="text-slate-600 hover:text-blue-500 font-medium transition-colors duration-300">
+                                <Link href="/#paslaugos" className="text-slate-600 hover:text-blue-500 font-medium transition-colors duration-300">
                                     Paslaugos
                                 </Link>
                             </li>
                             <li>
-                                <Link href="/#contacts" className="text-slate-600 hover:text-blue-500 font-medium transition-colors duration-300">
+                                <Link href="/#kontaktai" className="text-slate-600 hover:text-blue-500 font-medium transition-colors duration-300">
                                     Kontaktai
                                 </Link>
                             </li>
@@ -48,16 +49,24 @@ export default function Header() {
                         </ul>
                     </nav>
 
-                    {/* Contact button - icon on mobile, full on desktop */}
-                    <div className="flex items-center ml-auto md:ml-8">
+                    {/* Contact buttons - icons on mobile, full on desktop */}
+                    <div className="flex items-center gap-2 ml-auto md:ml-8">
                         <Link
-                            href="mailto:elstyga@gmail.com"
-                            className="inline-flex items-center justify-center w-10 h-10 md:w-auto md:h-auto md:px-4 md:py-2 text-sm font-semibold text-white bg-gradient-to-r from-blue-500 to-blue-600 rounded-full md:rounded-lg hover:from-blue-400 hover:to-blue-500 transition-all duration-300 shadow-lg hover:shadow-blue-500/25"
-                            aria-label="contact-email">
-                            <svg className="w-5 h-5 md:w-4 md:h-4 md:mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                            href={`mailto:${EMAIL}`}
+                            className="inline-flex items-center justify-center w-10 h-10 md:w-auto md:h-auto md:px-3 md:py-2 text-sm font-medium text-slate-600 border border-slate-200 rounded-full md:rounded-lg hover:text-blue-500 hover:border-blue-300 transition-all duration-300"
+                            aria-label="Rašyti el. laišką">
+                            <svg className="w-5 h-5 md:w-4 md:h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"/>
                             </svg>
-                            <span className="hidden md:inline">elstyga@gmail.com</span>
+                        </Link>
+                        <Link
+                            href={`tel:${PHONE}`}
+                            className="inline-flex items-center justify-center w-10 h-10 md:w-auto md:h-auto md:px-4 md:py-2 text-sm font-semibold text-white bg-gradient-to-r from-blue-500 to-blue-600 rounded-full md:rounded-lg hover:from-blue-400 hover:to-blue-500 transition-all duration-300 shadow-lg hover:shadow-blue-500/25"
+                            aria-label="Skambinti telefonu">
+                            <svg className="w-5 h-5 md:w-4 md:h-4 md:mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"/>
+                            </svg>
+                            <span className="hidden md:inline">{PHONE_DISPLAY}</span>
                         </Link>
                     </div>
 

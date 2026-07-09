@@ -1,14 +1,29 @@
-import Link from 'next/link'
-import Image from 'next/image'
 import { getAllPosts } from '@/lib/blog'
+import BlogList from '@/components/blog-list'
 
 export const metadata = {
   title: 'Blogas',
   description: 'Elstyga tinklaraštis — elektros darbų patarimai, naujienos ir naudinga informacija.',
+  alternates: {
+    canonical: 'https://elstyga.lt/blog',
+  },
 }
 
 export default function BlogPage() {
   const posts = getAllPosts()
+
+  // Filter chips: tags that appear in at least 3 posts, most frequent first
+  const tagCounts = new Map<string, number>()
+  for (const post of posts) {
+    for (const tag of post.tags) {
+      tagCounts.set(tag, (tagCounts.get(tag) || 0) + 1)
+    }
+  }
+  const filterTags = Array.from(tagCounts.entries())
+    .filter(([, count]) => count >= 3)
+    .sort((a, b) => b[1] - a[1])
+    .map(([tag]) => tag)
+    .slice(0, 10)
 
   return (
     <section className="relative bg-white pt-32 pb-20">
@@ -21,77 +36,7 @@ export default function BlogPage() {
           </p>
         </div>
 
-        {/* Blog posts grid */}
-        {posts.length === 0 ? (
-          <div className="text-center text-slate-400 py-12">
-            <p>Straipsnių kol kas nėra.</p>
-          </div>
-        ) : (
-          <div className="max-w-sm mx-auto grid gap-8 md:grid-cols-2 lg:grid-cols-3 md:max-w-2xl lg:max-w-none">
-            {posts.map((post) => (
-              <article
-                key={post.slug}
-                className="group bg-white rounded-2xl border border-slate-200 shadow-md hover:shadow-xl transition-all duration-300 overflow-hidden"
-              >
-                <Link href={`/blog/${post.slug}`} className="block">
-                  {post.image && (
-                    <Image
-                      src={post.image}
-                      alt={post.title}
-                      width={1200}
-                      height={800}
-                      className="w-full h-48 object-cover"
-                    />
-                  )}
-                  <div className="p-6">
-                  {/* Tags */}
-                  <div className="flex flex-wrap gap-2 mb-3">
-                    {post.tags.slice(0, 2).map((tag) => (
-                      <span
-                        key={tag}
-                        className="text-xs font-semibold text-blue-600 bg-blue-100 rounded-full px-2.5 py-0.5"
-                      >
-                        {tag}
-                      </span>
-                    ))}
-                  </div>
-
-                  {/* Title */}
-                  <h2 className="h4 text-slate-800 group-hover:text-blue-500 transition-colors duration-200 mb-2">
-                    {post.title}
-                  </h2>
-
-                  {/* Description */}
-                  <p className="text-slate-500 mb-4 line-clamp-3">
-                    {post.description}
-                  </p>
-
-                  {/* Date + reading time + read more */}
-                  <div className="flex items-center justify-between text-sm">
-                    <div className="flex items-center gap-2 text-slate-400">
-                      <time dateTime={post.date}>
-                        {new Date(post.date).toLocaleDateString('lt-LT', {
-                          year: 'numeric',
-                          month: 'long',
-                          day: 'numeric',
-                        })}
-                      </time>
-                      <span aria-hidden="true">·</span>
-                      <span>{post.readingTime} min.</span>
-                    </div>
-                    <span className="text-blue-500 font-medium group-hover:translate-x-1 transition-transform duration-200 inline-flex items-center">
-                      Skaityti
-                      <svg className="w-4 h-4 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9 5l7 7-7 7" />
-                      </svg>
-                    </span>
-                  </div>
-                  </div>
-                </Link>
-              </article>
-            ))}
-          </div>
-        )}
+        <BlogList posts={posts} filterTags={filterTags} />
       </div>
     </section>
   )

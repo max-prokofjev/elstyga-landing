@@ -2,7 +2,7 @@
 title: "Senos elektros instaliacijos keitimas: aliuminio laidai ir modernizavimas"
 description: "Senos aliuminio instaliacijos keitimas į varinę: pavojai, renovacijos eiga, kabelių tipai, skydelio modernizavimas ir kaina. Elektriko patarimai."
 date: "2026-03-31"
-dateModified: "2026-03-31"
+dateModified: "2026-07-09"
 tags: ["elektros instaliacija", "aliuminio laidai", "instaliacijos keitimas", "renovacija", "saugumas"]
 image: "/images/blog/senos-instaliacijos-keitimas-aliuminio-laidai.jpg"
 ---
@@ -73,12 +73,12 @@ Keičiant instaliaciją, visada pereinama prie TN-S sistemos -- kiekviename kabe
 
 ## Pilnas keitimas ar dalinis -- nuo ko pradėti
 
-Idealiu atveju -- keičiama visa instaliacija iš karto. Bet suprantame, kad biudžetas ne visada leidžia. Dalinis keitimas taip pat galimas, jei yra bendra strategija.
+Idealiu atveju -- keičiama visa instaliacija iš karto (visą procesą etapas po etapo aprašėme [buto instaliacijos atnaujinimo gide](/blog/elektros-instaliacija-bute-renovacija)). Bet suprantame, kad biudžetas ne visada leidžia. Dalinis keitimas taip pat galimas, jei yra bendra strategija.
 
 ### Prioritetinės zonos (keiskite pirmiausiai):
 
-1. **Vonios kambarys** -- drėgmė + sena instaliacija = didžiausia rizika
-2. **Virtuvė** -- galingi prietaisai, didelė apkrova
+1. **[Vonios kambarys](/blog/elektros-instaliacija-vonios-kambaryje)** -- drėgmė + sena instaliacija = didžiausia rizika
+2. **[Virtuvė](/blog/elektros-instaliacija-virtuveje)** -- galingi prietaisai, didelė apkrova
 3. **Elektros skydelis** -- [skydelio modernizavimas](/blog/elektros-skydelio-keitimas-kada-ir-kodel) su RCD/RCBO
 4. **Miegamieji** -- saugumas miegant
 

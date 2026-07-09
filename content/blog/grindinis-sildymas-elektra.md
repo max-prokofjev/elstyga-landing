@@ -2,7 +2,7 @@
 title: "Grindinis šildymas elektra: tipai, montavimas ir patarimai"
 description: "Elektrinis grindinis šildymas — kabeliai, matai, IR plėvelė, montavimas, termostatai ir elektros reikalavimai. Praktiniai patarimai iš elektriko."
 date: "2026-03-31"
-dateModified: "2026-03-31"
+dateModified: "2026-07-09"
 tags: ["grindinis šildymas", "šildomos grindys", "elektra", "šildymo kabelis", "šildymo matas"]
 image: "/images/blog/grindinis-sildymas-elektra.jpg"
 ---
@@ -26,7 +26,7 @@ Rinkoje yra trys pagrindiniai tipai. Štai palyginimas iš praktikos:
 | **Galios reguliavimas** | Lankstus (keičiamas žingsnis) | Fiksuotas (gamyklinis W/m²) | Fiksuotas |
 | **Tarnavimo laikas** | 25--50 metų | 25--50 metų | 10--15 metų |
 
-**Šildymo kabelis** -- universaliausias variantas. Klojamas zygzagu, žingsnis tarp linijų reguliuojamas -- taip tiksliai parenkate galią konkrečiai patalpai. Geriausiai tinka vonios kambariams ir virtuvėms po plytelėmis.
+**Šildymo kabelis** -- universaliausias variantas. Klojamas zygzagu, žingsnis tarp linijų reguliuojamas -- taip tiksliai parenkate galią konkrečiai patalpai. Geriausiai tinka vonios kambariams ir virtuvėms po plytelėmis (nepamirškite [vonios elektros zonų reikalavimų](/blog/elektros-instaliacija-vonios-kambaryje)).
 
 **Šildymo matas** -- tas pats kabelis, tik pritvirtintas prie tinklelio. Išvyniojate ant grindų ir klijuojate plyteles tiesiai ant viršaus. Idealus renovacijai, kai nenorite kelti grindų lygio. Trūkumas -- negalite keisti galios tankio.
 

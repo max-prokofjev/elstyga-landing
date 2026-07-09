@@ -2,7 +2,7 @@
 title: "Elektros sauga namuose ir darbe: patarimai 2026 m."
 description: "Elektros saugos patarimai namams ir verslui. Srovės nuotėkio relės, gaisro prevencija, pirmoji pagalba po elektros smūgio ir IP apsaugos klasės."
 date: "2025-03-05"
-dateModified: "2026-03-31"
+dateModified: "2026-07-09"
 tags: ["saugumas", "patarimai", "elektros sauga", "gaisro prevencija", "srovės nuotėkio relė"]
 image: "/images/blog/elektros-saugos-patarimai-2026.jpg"
 ---
@@ -56,7 +56,7 @@ Viena tipinė 16A grandinė atlaikys iki 3680 W. Virdulys (2000 W) + mikrobangė
 
 ## Srovės nuotėkio relės (RCD): kodėl tai gyvybiškai svarbu
 
-**Srovės nuotėkio relė (RCD)** — tai vienintelis patikimas būdas apsisaugoti nuo mirtino elektros smūgio. Ji stebi, ar visa srovė, patekusi į grandinę, grįžta atgal. Jei dalis srovės nutekėjo (pvz., per žmogaus kūną), RCD per 30 milisekundžių atjungia grandinę.
+**Srovės nuotėkio relė (RCD)** — tai vienintelis patikimas būdas apsisaugoti nuo mirtino elektros smūgio (kaip parinkti relę ir automatus — [apsaugos aparatūros gide](/blog/automatiniai-jungikliai-ir-nuotekio-reles)). Ji stebi, ar visa srovė, patekusi į grandinę, grįžta atgal. Jei dalis srovės nutekėjo (pvz., per žmogaus kūną), RCD per 30 milisekundžių atjungia grandinę.
 
 Pagal LST HD 60364-4-41 standartą, RCD privaloma vonios kambariuose, lauko rozetėms ir kitoms rizikingoms zonoms. Bet mūsų rekomendacija — montuoti RCD visoms rozetinėms grandinėms, ne tik ten, kur privaloma.
 
