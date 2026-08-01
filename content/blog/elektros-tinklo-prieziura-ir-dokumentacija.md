@@ -136,7 +136,7 @@ Jei jūsų trifazio prijungimo galia viršija 30 kW — taip, tai privalomas rei
 
 ### Kiek kainuoja elektros ūkio priežiūros sutartis?
 
-Konkrečios kainos priklauso nuo objekto dydžio, elektros įrenginių kiekio ir aptarnavimo dažnumo. Nedidelei įmonei su vienu skydeliu tai kainuoja žymiai mažiau nei etatinis darbuotojas. Susisiekite su „Elstyga" dėl nemokamos konsultacijos — apžiūrėsime jūsų objektą ir pateiksime konkretų pasiūlymą be jokių įsipareigojimų.
+Konkrečios kainos priklauso nuo objekto dydžio, elektros įrenginių kiekio ir aptarnavimo dažnumo. Nedidelei įmonei su vienu skydeliu tai kainuoja žymiai mažiau nei etatinis darbuotojas. Susisiekite su „Elstyga" dėl konsultacijos — apžiūrėsime jūsų objektą ir pateiksime konkretų pasiūlymą be jokių įsipareigojimų.
 
 ### Ar privačiam namui reikia techninės dokumentacijos?
 
@@ -162,4 +162,4 @@ Ką gausite dirbdami su „Elstyga":
 - **Operatyvus [gedimų šalinimas](/blog/elektros-gedimu-salinimas-vilniuje-kada-kvisti-elektrika)** — greitas reagavimas, kai kažkas nustoja veikti
 - **[ESO](/blog/eso-prijungimas-ir-galios-didinimas) koordinavimas** — padedame su prijungimo, galios didinimo ir kitais klausimais, kad jums nereikėtų bendrauti su biurokratija
 
-**Norite sužinoti, ar jūsų elektros ūkis tvarkingas?** Siūlome pradėti nuo nemokamos konsultacijos. Įvertinsime jūsų objekto situaciją, pasakysime, ko trūksta, ir pateiksime aiškų planą su konkrečia kaina. Jokių įsipareigojimų — tiesiog susisiekite su mumis.
+**Norite sužinoti, ar jūsų elektros ūkis tvarkingas?** Siūlome pradėti nuo konsultacijos. Įvertinsime jūsų objekto situaciją, pasakysime, ko trūksta, ir pateiksime aiškų planą su konkrečia kaina. Jokių įsipareigojimų — tiesiog susisiekite su mumis.

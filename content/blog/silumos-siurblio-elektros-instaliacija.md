@@ -200,4 +200,4 @@ Esame pajungę dešimtis šilumos siurblių Vilniuje ir Vilniaus regione. Žinom
 - **Koordinavimas su HVAC** -- dirbame kartu su jūsų šilumos siurblio montuotoju
 - **[Matavimai ir dokumentacija](/blog/elektros-irenginiu-testavimas-ir-matavimai)** -- izoliacijos, RCD ir kilpos varžos testai, instaliacijos aktas
 
-Planuojate šilumos siurblį? **Pradėkite nuo elektros** -- susisiekite dėl nemokamos apžiūros ir individualaus pasiūlymo.
+Planuojate šilumos siurblį? **Pradėkite nuo elektros** -- susisiekite dėl apžiūros ir individualaus pasiūlymo.

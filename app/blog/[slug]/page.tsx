@@ -249,7 +249,7 @@ export default async function BlogPostPage({ params }: BlogPostPageProps) {
           <div className="mt-16 p-8 bg-blue-50 rounded-2xl border border-blue-100 text-center">
             <h3 className="h4 text-slate-800 mb-2">Reikia elektros paslaugų?</h3>
             <p className="text-slate-500 mb-6">
-              Susisiekite su mumis dėl nemokamos konsultacijos
+              Susisiekite su mumis ir aptarsime jūsų projektą
             </p>
             <div className="flex flex-col sm:flex-row justify-center gap-3">
               <a

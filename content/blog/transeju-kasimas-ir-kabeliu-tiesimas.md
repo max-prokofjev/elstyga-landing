@@ -198,7 +198,7 @@ Trumpoms buitinėms trasoms (iki 50 m) — **YKY** varinis kabelis su PVC izolia
 
 ### Kiek kainuoja tranšėjos kasimas ir kabelio tiesimas?
 
-Kaina labai priklauso nuo konkrečios situacijos: trasos ilgio, grunto tipo, gylio, ar reikia HDD gręžimo, ar yra prieiga technikai. Atvira tranšėja paprastame grunte — pigiausias variantas. HDD gręžimas po kelio danga — brangiausias. Geriausias būdas sužinoti kainą — susisiekti su mumis dėl nemokamos konsultacijos. Atvažiuojame, įvertiname objektą ir pateikiame tikslų pasiūlymą be jokių paslėptų mokesčių.
+Kaina labai priklauso nuo konkrečios situacijos: trasos ilgio, grunto tipo, gylio, ar reikia HDD gręžimo, ar yra prieiga technikai. Atvira tranšėja paprastame grunte — pigiausias variantas. HDD gręžimas po kelio danga — brangiausias. Geriausias būdas sužinoti kainą — susisiekti su mumis dėl konsultacijos. Atvažiuojame, įvertiname objektą ir pateikiame tikslų pasiūlymą be jokių paslėptų mokesčių.
 
 ### Ar reikia leidimo kasti tranšėją savo sklype?
 
@@ -217,4 +217,4 @@ Ką gausite dirbdami su mumis:
 - **Teritorijos sutvarkymas** — po darbų sutvarkome, sulyginame ir atsėjame veją. Nepaliekame griovių ir purvo krūvų.
 - **Dokumentacija** — parengiame visą techninę dokumentaciją: trasų schemas, matavimų protokolus, vykdomuosius brėžinius
 
-Reikia iškasti tranšėją ar nutiestas požeminį kabelį? **Susisiekite dėl nemokamos konsultacijos** — atvažiuosime, įvertinsime jūsų situaciją ir pasiūlysime optimalų sprendimą su konkrečia kaina.
+Reikia iškasti tranšėją ar nutiestas požeminį kabelį? **Susisiekite dėl konsultacijos** — atvažiuosime, įvertinsime jūsų situaciją ir pasiūlysime optimalų sprendimą su konkrečia kaina.

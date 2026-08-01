@@ -126,4 +126,4 @@ Projektuojame ir montuojame atsarginio maitinimo sistemas privatiems namams:
 - [Skydelio modernizavimas](/blog/elektros-skydelio-keitimas-kada-ir-kodel) -- paruošimas naujai įrangai
 - Pilna [dokumentacija](/blog/elektros-tinklo-prieziura-ir-dokumentacija) ir garantija
 
-Norite atsarginio maitinimo sprendimo? Susisiekite dėl nemokamos konsultacijos -- įvertinsime poreikius ir pasiūlysime optimalų variantą.
+Norite atsarginio maitinimo sprendimo? Susisiekite dėl konsultacijos -- įvertinsime poreikius ir pasiūlysime optimalų variantą.

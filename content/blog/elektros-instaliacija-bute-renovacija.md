@@ -78,4 +78,4 @@ Instaliacijos keitimo kaina priklauso nuo buto ploto, taškų (rozečių ir jung
 
 Renkantis rangovą svarbiausia ne kaina, o kvalifikacija: [kaip išsirinkti patikimą elektriką Vilniuje](/blog/kaip-issirinkti-elektrika-vilniuje).
 
-Planuojate buto remontą Vilniuje? Susisiekite — nemokamai įvertinsime jūsų instaliacijos būklę ir pasakysime, ką keisti būtina, o kas dar palauks.
+Planuojate buto remontą Vilniuje? Susisiekite — įvertinsime jūsų instaliacijos būklę ir pasakysime, ką keisti būtina, o kas dar palauks.

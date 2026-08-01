@@ -210,4 +210,4 @@ Ką konkrečiai galime padaryti:
 - **Varžos matavimai ir protokolai** — periodiniai patikrinimai su oficialiais dokumentais, kurie reikalingi ir draudimui, ir ESO
 - **Pamatų įžeminimas** — naujos statybos metu, kai galima sutaupyti ir gauti patikimą sprendimą vienu žingsniu
 
-Reikia įrengti ar patikrinti įžeminimo kontūrą? O gal tiesiog nerandate atsakymo į savo klausimą? Susisiekite dėl nemokamos konsultacijos — įvertinsime situaciją, paaiškinsime ką turite ir ko trūksta, ir pasiūlysime optimalų sprendimą be nereikalingų išlaidų.
+Reikia įrengti ar patikrinti įžeminimo kontūrą? O gal tiesiog nerandate atsakymo į savo klausimą? Susisiekite dėl konsultacijos — įvertinsime situaciją, paaiškinsime ką turite ir ko trūksta, ir pasiūlysime optimalų sprendimą be nereikalingų išlaidų.

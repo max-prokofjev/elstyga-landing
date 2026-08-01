@@ -205,4 +205,4 @@ Jei skaitydami šį straipsnį atpažinote bent vieną problemą savo namuose �
 - [Elektros gedimų šalinimas](/blog/elektros-gedimu-salinimas-vilniuje-kada-kvisti-elektrika) — operatyviai
 - [Techninės dokumentacijos parengimas](/blog/elektros-tinklo-prieziura-ir-dokumentacija) — protokolai, schemos, aktai
 
-Susisiekite su mumis dėl nemokamos konsultacijos — padėsime įvertinti jūsų elektros sistemos būklę ir patarsime, ką taisyti pirmiausia.
+Susisiekite su mumis dėl konsultacijos — padėsime įvertinti jūsų elektros sistemos būklę ir patarsime, ką taisyti pirmiausia.

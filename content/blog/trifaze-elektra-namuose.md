@@ -178,4 +178,4 @@ Esame atlikę dešimtis perėjimų nuo vienfazio prie trifazio Vilniuje ir Vilni
 - **[Saulės elektrinės](/blog/saules-elektrine-namuose) paruošimas** -- skydelio ir tinklo parengimas inverterio pajungimui
 - **Dokumentacija ir matavimai** -- instaliacijos aktas, matavimų protokolai ESO
 
-Planuojate perėjimą prie trifazio? **Susisiekite su mumis** -- pradėsime nuo nemokamos konsultacijos ir pasakysime, kokia tiksliai apimtis jūsų atveju.
+Planuojate perėjimą prie trifazio? **Susisiekite su mumis** -- pradėsime nuo konsultacijos ir pasakysime, kokia tiksliai apimtis jūsų atveju.

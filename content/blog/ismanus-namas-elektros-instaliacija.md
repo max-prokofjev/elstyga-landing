@@ -211,4 +211,4 @@ Projektuojame ir montuojame išmaniųjų namų elektros sistemas -- nuo pirminė
 - **[Matavimai ir dokumentacija](/blog/elektros-irenginiu-testavimas-ir-matavimai)** -- visa privaloma dokumentacija ir instaliacijos aktas
 - **Aptarnavimas** -- sistemos palaikymas ir plėtimas ateityje
 
-Planuojate statyti ar renovuoti? **Kreipkitės kuo anksčiau** -- kuo anksčiau įtrauksime elektriką, tuo pigiau ir kokybiškiau bus rezultatas. Nemokama konsultacija padės suprasti, kas realu jūsų biudžetui ir kokios galimybės jūsų namui.
+Planuojate statyti ar renovuoti? **Kreipkitės kuo anksčiau** -- kuo anksčiau įtrauksime elektriką, tuo pigiau ir kokybiškiau bus rezultatas. Konsultacija padės suprasti, kas realu jūsų biudžetui ir kokios galimybės jūsų namui.

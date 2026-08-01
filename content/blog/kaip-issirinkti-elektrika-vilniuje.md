@@ -130,4 +130,4 @@ Mūsų komanda — atestuoti elektrikai su ilgamete patirtimi. Esame ESO rangova
 - **[Dokumentacija](/blog/elektros-tinklo-prieziura-ir-dokumentacija)** — projektai, aktai, schemos
 - **[Matavimai](/blog/elektros-irenginiu-testavimas-ir-matavimai)** — izoliacijos, įžeminimo, kilpų varžos
 
-Susisiekite dėl nemokamos konsultacijos ir sąmatos.
+Susisiekite dėl konsultacijos ir sąmatos.

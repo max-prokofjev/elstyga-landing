@@ -160,7 +160,7 @@ Ne visada -- priklauso nuo kvietimo sąlygų. Bet turėti bent supaprastintą sc
 
 Padedame klientams pasiruošti APVA paramai ir atliekame visą elektros dalį:
 
-- **Nemokama konsultacija** -- įvertiname instaliaciją ir pasakome, ką paruošti prieš paraišką
+- **Konsultacija** -- įvertiname instaliaciją ir pasakome, ką paruošti prieš paraišką
 - **[Skydelio paruošimas](/blog/elektros-skydelio-keitimas-kada-ir-kodel)** -- vietos sukūrimas, automatų ir apsaugų montavimas
 - **[ESO prijungimo darbai](/blog/eso-prijungimas-ir-galios-didinimas)** -- paraiškos, galios didinimas, prosumerio prijungimas
 - **[Matavimų protokolai](/blog/elektros-irenginiu-testavimas-ir-matavimai)** ir [dokumentacija](/blog/elektros-tinklo-prieziura-ir-dokumentacija) -- viskas, ko reikia APVA atsiskaitymui

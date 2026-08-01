@@ -163,4 +163,4 @@ Montuojame vaizdo stebėjimo sistemas privatiems namams ir verslo objektams:
 - **[Matavimai ir dokumentacija](/blog/elektros-irenginiu-testavimas-ir-matavimai)** -- visa privaloma dokumentacija
 - **Aptarnavimas** -- priežiūra, plėtimas ir konsultacijos
 
-Planuojate vaizdo stebėjimą? Susisiekite dėl nemokamos konsultacijos -- padėsime parinkti sprendimą pagal jūsų poreikius ir biudžetą.
+Planuojate vaizdo stebėjimą? Susisiekite dėl konsultacijos -- padėsime parinkti sprendimą pagal jūsų poreikius ir biudžetą.

@@ -174,4 +174,4 @@ Esame atlikę pirties elektros instaliacijas individualiuose namuose ir komercin
 - **[ESO galios didinimas](/blog/eso-prijungimas-ir-galios-didinimas)** -- jei reikia trifazio ar papildomos galios
 - **[Matavimai ir dokumentacija](/blog/elektros-irenginiu-testavimas-ir-matavimai)** -- izoliacijos varžos, RCD testai, instaliacijos aktas
 
-Planuojate pirtį? **Pradėkite nuo elektros** -- susisiekite dėl nemokamos konsultacijos ir įvertinsime, ką reikia paruošti jūsų atveju.
+Planuojate pirtį? **Pradėkite nuo elektros** -- susisiekite dėl konsultacijos ir įvertinsime, ką reikia paruošti jūsų atveju.

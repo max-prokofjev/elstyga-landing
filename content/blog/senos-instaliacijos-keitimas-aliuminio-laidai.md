@@ -127,7 +127,7 @@ Tiksliai pasakyti „kiek kainuoja" be apžiūros -- neįmanoma. Bet galime apib
 - **Papildomi darbai** -- [ESO galios didinimas](/blog/eso-prijungimas-ir-galios-didinimas), lauko instaliacija, [žaibosauga](/blog/izeminimas-ir-zaibosauga-ka-reikia-zinoti)
 - **Apdailos atstatymas** -- ar reikia tinkuoti ir dažyti po darbų
 
-Rekomenduojame pradėti nuo nemokamos apžiūros -- tada pateikiame tikslų įkainį su darbų ir medžiagų sąrašu.
+Rekomenduojame pradėti nuo apžiūros -- tada pateikiame tikslų įkainį su darbų ir medžiagų sąrašu.
 
 ## Draudimas ir teisiniai aspektai
 
@@ -172,4 +172,4 @@ Kasdien dirbame su senų namų ir butų elektros instaliacijomis:
 - [Dokumentacija](/blog/elektros-tinklo-prieziura-ir-dokumentacija) ir instaliacijos aktai
 - Konsultacijos dėl [elektros saugos](/blog/elektros-saugos-patarimai-2026) ir etapinio renovacijos plano
 
-Norite sužinoti, kokia jūsų instaliacijos būklė? Kreipkitės dėl nemokamos apžiūros ir įvertinimo.
+Norite sužinoti, kokia jūsų instaliacijos būklė? Kreipkitės dėl apžiūros ir įvertinimo.

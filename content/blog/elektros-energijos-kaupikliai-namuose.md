@@ -210,7 +210,7 @@ Tikrai ne. Baterijos sistema apima aukštos įtampos DC grandinę, hibridinį in
 
 Montuojame namų baterijų sistemas nuo projekto iki paleidimo:
 
-- **Nemokama konsultacija** -- įvertiname jūsų vartojimą, esamą instaliaciją ir parenkame optimalų sprendimą
+- **Konsultacija** -- įvertiname jūsų vartojimą, esamą instaliaciją ir parenkame optimalų sprendimą
 - Hibridinių inverterių ir baterijų montavimas
 - [Skydelio paruošimas](/blog/elektros-skydelio-keitimas-kada-ir-kodel) ir atsarginės grandinės sukūrimas
 - Esamos saulės elektrinės papildymas baterija (AC-coupled)

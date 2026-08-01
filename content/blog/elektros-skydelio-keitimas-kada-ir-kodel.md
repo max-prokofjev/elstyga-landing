@@ -157,4 +157,4 @@ Kasdien atliekame elektros skydelių keitimą ir modernizavimą:
 - Garantija visiems darbams
 - Konsultacijos dėl [elektros saugos](/blog/elektros-saugos-patarimai-2026) ir ateities plėtros
 
-Norite modernizuoti skydelį? Kreipkitės dėl nemokamos apžiūros.
+Norite modernizuoti skydelį? Kreipkitės dėl apžiūros.

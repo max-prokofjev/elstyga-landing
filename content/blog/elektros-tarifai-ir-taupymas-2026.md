@@ -176,4 +176,4 @@ Jei norite realiai sumažinti elektros sąskaitą -- ne 5%, o 30--70% -- kreipki
 - **[Elektromobilio krovimo stotelės](/blog/elektromobilio-krovimo-stotele-namuose)** -- su naktiniu krovimo tvarkaraščiu ir dinaminiu apkrovos valdymu
 - **[Elektros saugos patikra](/blog/elektros-saugos-patarimai-2026)** -- kad taupymas neeitų saugos sąskaita
 
-Susisiekite su mumis dėl nemokamos konsultacijos -- peržiūrėsime jūsų situaciją ir pasakysime, nuo ko pradėti ir kiek realiai galite sutaupyti.
+Susisiekite su mumis dėl konsultacijos -- peržiūrėsime jūsų situaciją ir pasakysime, nuo ko pradėti ir kiek realiai galite sutaupyti.

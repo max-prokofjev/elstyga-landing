@@ -99,7 +99,7 @@ export default function Contacts() {
                                         <div className="mb-8 lg:mb-0 lg:mr-16 lg:w-1/2 text-center lg:text-left">
                                             <h3 className="h3 text-white mb-4">Susisiekite dabar!</h3>
                                             <p className="text-blue-100 text-lg mb-6">
-                                                Jūsų elektros rūpesčiams – nemokama konsultacija!
+                                                Jūsų elektros rūpesčiams – profesionalus sprendimas!
                                             </p>
                                             <div className="flex flex-col space-y-4 text-white">
                                                 <a href={`tel:${PHONE}`} className="flex items-center hover:text-blue-100 transition-colors duration-200">

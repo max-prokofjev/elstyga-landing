@@ -164,4 +164,4 @@ Turime ilgametę patirtį — nuo individualių namų iki komercinių objektų:
 - [Matavimai ir bandymai](/blog/elektros-irenginiu-testavimas-ir-matavimai) pagal LST HD 60364
 - Garantija visiems darbams
 
-Susisiekite dėl nemokamos konsultacijos ir individualaus pasiūlymo.
+Susisiekite dėl konsultacijos ir individualaus pasiūlymo.

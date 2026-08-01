@@ -180,4 +180,4 @@ Montuojame vartų automatikos sistemas ir domofonus privatiems namams ir verslo 
 - **Apšvietimo integracija** -- automatinis kiemo [apšvietimas](/blog/apsvietimo-sprendimai-namams-ir-biurams) su vartų sistema
 - **Programavimas ir aptarnavimas** -- sistemos konfigūracija, garantinis aptarnavimas
 
-Planuojate vartų automatiką arba domofoną? **Susisiekite dėl nemokamos konsultacijos** -- atvažiuosime, įvertinsime jūsų objektą ir pasiūlysime sprendimą su konkrečia kaina.
+Planuojate vartų automatiką arba domofoną? **Susisiekite dėl konsultacijos** -- atvažiuosime, įvertinsime jūsų objektą ir pasiūlysime sprendimą su konkrečia kaina.

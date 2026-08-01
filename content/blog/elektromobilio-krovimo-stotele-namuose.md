@@ -137,7 +137,7 @@ Prieš perkant stotelę, reikia suprasti, ką turite dabar:
 
 **Praktinis pavyzdys**: turite 10 kW įvadinę galią. Viryklė ir boileris kartu suryja ~6 kW. Pridėjus 7,4 kW stotelę — jau 13,4 kW, ir jūs viršijate įvadą. Čia padeda dinaminis apkrovos valdymas — stotelė automatiškai prisitaiko prie esamo vartojimo. Arba reikia galvoti apie [galios didinimą](/blog/eso-prijungimas-ir-galios-didinimas).
 
-Šį vertinimą atliekame kiekvienam klientui — tai pirmas žingsnis, kurį darome nemokamai.
+Šį vertinimą atliekame kiekvienam klientui — tai pirmas žingsnis rengiant pasiūlymą.
 
 ### 2. ESO galios didinimas (jei reikia)
 
@@ -232,7 +232,7 @@ Techniškai — taip. Praktiškai — tai tinka tik kaip laikinas sprendimas. Ro
 
 ### Kiek kainuoja visas montavimas?
 
-Tai priklauso nuo kelių dalykų: stotelės tipo, kabelio ilgio, skydelio būklės ir ar reikia [ESO galios didinimo](/blog/eso-prijungimas-ir-galios-didinimas). Paprasčiausias variantas — kai skydelis šalia, galia pakankama ir kabelio tiesimas trumpas — kainuoja mažiausiai. Sudėtingesni atvejai, kai reikia kasti tranšėją ar keisti skydelį, kainuoja daugiau. Geriausia — susisiekite su mumis dėl nemokamos konsultacijos, ir per dieną gausite tikslų pasiūlymą su visa apimtimi. Su APVA subsidija dalis kaštų grįžta atgal.
+Tai priklauso nuo kelių dalykų: stotelės tipo, kabelio ilgio, skydelio būklės ir ar reikia [ESO galios didinimo](/blog/eso-prijungimas-ir-galios-didinimas). Paprasčiausias variantas — kai skydelis šalia, galia pakankama ir kabelio tiesimas trumpas — kainuoja mažiausiai. Sudėtingesni atvejai, kai reikia kasti tranšėją ar keisti skydelį, kainuoja daugiau. Geriausia — susisiekite su mumis dėl konsultacijos, ir per dieną gausite tikslų pasiūlymą su visa apimtimi. Su APVA subsidija dalis kaštų grįžta atgal.
 
 ### Ar reikia keisti elektros skydelį?
 
@@ -254,7 +254,7 @@ Daugumai — taip, su atsarga. Per 8 valandų naktinį krovimą gaunate ~380 km.
 
 Mes montuojame krovimo stoteles kiekvieną savaitę — privačiuose namuose, daugiabučiuose, komercinėse patalpose. Žinome, kas veikia, ir žinome tipines problemas. Mūsų komanda atlieka visą procesą:
 
-- **Nemokama konsultacija** — įvertiname jūsų situaciją, galią, stotelės vietą
+- **Konsultacija** — įvertiname jūsų situaciją, galią, stotelės vietą
 - **Padedame pasirinkti stotelę** — pagal jūsų automobilį, esamą galią ir biudžetą
 - **Montavimas su garantija** — profesionalus darbas, visa dokumentacija
 - [Skydelio paruošimas](/blog/elektros-skydelio-keitimas-kada-ir-kodel) ar modernizavimas, jei reikia
@@ -263,4 +263,4 @@ Mes montuojame krovimo stoteles kiekvieną savaitę — privačiuose namuose, da
 
 Nuo pirmo skambučio iki veikiančios stotelės — vienas kontaktas, be bereikalingo vargantis.
 
-**Planuojate krovimo stotelę?** [Susisiekite su mumis](/blog/kaip-issirinkti-elektrika-vilniuje) — nemokama konsultacija ir konkretus pasiūlymas per dieną.
+**Planuojate krovimo stotelę?** [Susisiekite su mumis](/blog/kaip-issirinkti-elektrika-vilniuje) — konsultacija ir konkretus pasiūlymas per dieną.

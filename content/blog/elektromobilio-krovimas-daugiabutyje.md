@@ -151,10 +151,10 @@ Individuali stotelė -- **2 000--4 900 EUR** prieš subsidiją, **1 000--2 450 E
 
 Montuojame krovimo stoteles daugiabučiuose reguliariai -- tiek individualias, tiek bendrai infrastruktūrai. Žinome visą procesą ir visas kliūtis:
 
-- **Nemokama apžiūra** -- įvertiname pastato tinklą, kabelio maršrutą, stovėjimo vietą
+- **Apžiūra** -- įvertiname pastato tinklą, kabelio maršrutą, stovėjimo vietą
 - **Pagalba su bendrija** -- paruošiame techninį aprašymą susirinkimui
 - **ESO procesas** -- esame atestuotas rangovas, tvarkome [prijungimą ir galią](/blog/eso-prijungimas-ir-galios-didinimas) patys
 - **Pilnas montavimas** -- nuo [skydelio](/blog/elektros-skydelio-keitimas-kada-ir-kodel) iki stotelės, su matavimais ir dokumentais
 - **APVA subsidija** -- paruošiame dokumentus kompensacijai gauti
 
-Norite krovimo stotelę daugiabučiame? [Susisiekite su mumis](/blog/kaip-issirinkti-elektrika-vilniuje) -- nemokama konsultacija ir konkretus pasiūlymas per kelias dienas.
+Norite krovimo stotelę daugiabučiame? [Susisiekite su mumis](/blog/kaip-issirinkti-elektrika-vilniuje) -- konsultacija ir konkretus pasiūlymas per kelias dienas.

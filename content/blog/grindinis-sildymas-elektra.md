@@ -166,4 +166,4 @@ Montuojame elektrinių šildomų grindų elektros dalį -- viską, kas susiję s
 - **Skydelio modernizavimas** -- jei trūksta vietos arba nėra [RCD apsaugos](/blog/elektros-saugos-patarimai-2026)
 - **Koordinavimas su grindų klojėju** -- kad šildymo kabelis būtų pajungtas saugiai ir teisingai
 
-Planuojate šiltąsias grindis? **Pradėkite nuo elektros** -- susisiekite dėl nemokamos konsultacijos ir įvertinimo, kiek zonų galite prijungti prie esamo skydelio.
+Planuojate šiltąsias grindis? **Pradėkite nuo elektros** -- susisiekite dėl konsultacijos ir įvertinimo, kiek zonų galite prijungti prie esamo skydelio.

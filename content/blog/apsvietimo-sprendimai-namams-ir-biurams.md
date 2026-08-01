@@ -215,7 +215,7 @@ Jei planuojate biuro apšvietimą -- LST EN 12464-1 yra privalomas, ne rekomenda
 
 ### Kiek kainuoja namų apšvietimo atnaujinimas LED technologija?
 
-Kaina labai priklauso nuo apimties. Jei tiesiog keičiate senas lemputes į LED -- tai vienas biudžetas. Jei norite pilno apšvietimo perplanavimo su naujais šviestuvais, dimeriniais jungikliais ir galbūt [elektros instaliacijos atnaujinimu](/blog/elektros-instaliacijos-namuose-ka-reikia-zinoti) -- tai kitas. Bet net ir didesnė investicija paprastai atsiperka per **1--2 metus** vien dėl mažesnių elektros sąskaitų. Geriausia -- susisiekite su mumis dėl nemokamos konsultacijos, ir mes įvertinsime konkrečiai jūsų situaciją.
+Kaina labai priklauso nuo apimties. Jei tiesiog keičiate senas lemputes į LED -- tai vienas biudžetas. Jei norite pilno apšvietimo perplanavimo su naujais šviestuvais, dimeriniais jungikliais ir galbūt [elektros instaliacijos atnaujinimu](/blog/elektros-instaliacijos-namuose-ka-reikia-zinoti) -- tai kitas. Bet net ir didesnė investicija paprastai atsiperka per **1--2 metus** vien dėl mažesnių elektros sąskaitų. Geriausia -- susisiekite su mumis dėl konsultacijos, ir mes įvertinsime konkrečiai jūsų situaciją.
 
 ### Kokią spalvos temperatūrą rinktis miegamajam ir biurui?
 
@@ -249,4 +249,4 @@ Mes ne tiesiog montuojame šviestuvus -- mes projektuojame apšvietimo sistemas.
 
 Tinkamas apšvietimas prasideda nuo pokalbio, ne nuo katalogo. Kiekviena erdvė yra skirtinga, ir sprendimas, kuris puikiai veikia vienuose namuose, gali visiškai netikti kitiems.
 
-**Susisiekite su Elstyga** -- nemokamos konsultacijos metu įvertinsime jūsų situaciją, aptarsime galimybes ir pasiūlysime sprendimą, kuris tikrai veiks. Nesvarbu, ar tai vieno kambario apšvietimo atnaujinimas, ar viso biuro sistemos projektavimas -- padėsime nuo pradžių iki galo.
+**Susisiekite su Elstyga** -- konsultacijos metu įvertinsime jūsų situaciją, aptarsime galimybes ir pasiūlysime sprendimą, kuris tikrai veiks. Nesvarbu, ar tai vieno kambario apšvietimo atnaujinimas, ar viso biuro sistemos projektavimas -- padėsime nuo pradžių iki galo.
