@@ -73,6 +73,28 @@ export default function Header() {
                     {/* Mobile menu button */}
                     <MobileMenu />
                 </div>
+
+                {/* Recruitment banner */}
+                <Link
+                    href={`tel:${PHONE}`}
+                    className="group mx-auto flex w-fit max-w-full items-center justify-center gap-2 rounded-b-xl bg-orange-500 px-2 sm:px-5 py-1.5 text-xs sm:text-sm text-slate-900 shadow-lg shadow-slate-900/15 transition-colors duration-300 hover:bg-orange-400 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-orange-300 focus-visible:ring-offset-2 focus-visible:ring-offset-transparent"
+                    aria-label={`Ieškome elektriko darbui. Susisiekite telefonu ${PHONE_DISPLAY}`}
+                >
+                    <svg
+                        className="hidden min-[360px]:block h-4 w-4 shrink-0 transition-transform duration-300 group-hover:rotate-6"
+                        fill="none"
+                        stroke="currentColor"
+                        viewBox="0 0 24 24"
+                        aria-hidden="true"
+                    >
+                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M13 10V3L4 14h7v7l9-11h-7z" />
+                    </svg>
+                    <span className="font-semibold whitespace-nowrap">Ieškome elektriko!</span>
+                    <span className="hidden sm:inline text-slate-800">Prisijunkite prie mūsų komandos.</span>
+                    <span className="font-bold whitespace-nowrap underline decoration-slate-900/30 underline-offset-2 group-hover:decoration-slate-900">
+                        {PHONE_DISPLAY}
+                    </span>
+                </Link>
             </div>
         </header>
     )

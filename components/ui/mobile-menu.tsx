@@ -57,7 +57,7 @@ export default function MobileMenu() {
       <nav
         id="mobile-nav"
         ref={mobileNav}
-        className="fixed top-20 left-0 right-0 z-20 px-4 sm:px-6 overflow-hidden transition-all duration-300 ease-in-out"
+        className="fixed top-28 left-0 right-0 z-20 px-4 sm:px-6 overflow-hidden transition-all duration-300 ease-in-out"
         style={mobileNavOpen ? { maxHeight: mobileNav.current?.scrollHeight, opacity: 1 } : { maxHeight: 0, opacity: 0.8 }}
       >
         <div className="max-w-6xl mx-auto">
