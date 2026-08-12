@@ -117,56 +117,88 @@ export default function Contacts() {
                                             </div>
                                         </div>
 
-                                        <form onSubmit={handleSubmit} className="w-full lg:w-1/2 space-y-4">
+                                        <form onSubmit={handleSubmit} className="w-full lg:w-1/2 space-y-4" noValidate>
                                             <div className="space-y-4">
                                                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
-                                                    <input
-                                                        type="text"
-                                                        name="name"
-                                                        value={formData.name}
-                                                        onChange={handleChange}
-                                                        className="w-full bg-white/20 border-2 border-white/30 focus:border-white
-                                                            rounded-lg px-4 py-3 text-white placeholder-white/70
-                                                            backdrop-blur-sm transition-colors duration-200 hover:border-white/50"
-                                                        placeholder="Jūsų vardas..."
-                                                    />
-                                                    <input
-                                                        type="tel"
-                                                        name="phone"
-                                                        value={formData.phone}
-                                                        onChange={handleChange}
-                                                        className="w-full bg-white/20 border-2 border-white/30 focus:border-white
-                                                            rounded-lg px-4 py-3 text-white placeholder-white/70
-                                                            backdrop-blur-sm transition-colors duration-200 hover:border-white/50"
-                                                        placeholder="Jūsų tel. numeris..."
-                                                    />
+                                                    <div className="flex flex-col gap-1.5">
+                                                        <label htmlFor="contact-name" className="text-sm font-medium text-white">Vardas</label>
+                                                        <input
+                                                            id="contact-name"
+                                                            type="text"
+                                                            name="name"
+                                                            value={formData.name}
+                                                            onChange={handleChange}
+                                                            className="w-full bg-white text-slate-900 placeholder-slate-400
+                                                                rounded-lg px-4 py-3 border border-transparent
+                                                                transition duration-200
+                                                                focus:outline-none focus:ring-2 focus:ring-orange-300"
+                                                            placeholder="Jūsų vardas"
+                                                        />
+                                                    </div>
+                                                    <div className="flex flex-col gap-1.5">
+                                                        <label htmlFor="contact-phone" className="text-sm font-medium text-white">Telefonas</label>
+                                                        <input
+                                                            id="contact-phone"
+                                                            type="tel"
+                                                            name="phone"
+                                                            value={formData.phone}
+                                                            onChange={handleChange}
+                                                            className="w-full bg-white text-slate-900 placeholder-slate-400
+                                                                rounded-lg px-4 py-3 border border-transparent
+                                                                transition duration-200
+                                                                focus:outline-none focus:ring-2 focus:ring-orange-300"
+                                                            placeholder="Jūsų tel. numeris"
+                                                        />
+                                                    </div>
                                                 </div>
-                                                <input
-                                                    type="email"
-                                                    name="email"
-                                                    value={formData.email}
-                                                    onChange={handleChange}
-                                                    className={`
-                                                        w-full bg-white/20 border-2 border-white/30 focus:border-white
-                                                        rounded-lg px-4 py-3 text-white placeholder-white/70
-                                                        backdrop-blur-sm transition-colors duration-200
-                                                        ${isEmailInvalid ? 'border-red-300' : 'hover:border-white/50'}
-                                                    `}
-                                                    placeholder="Jūsų el. paštas..."
-                                                />
-                                                <textarea
-                                                    name="message"
-                                                    value={formData.message}
-                                                    onChange={handleChange}
-                                                    rows={4}
-                                                    className={`
-                                                        w-full bg-white/20 border-2 border-white/30 focus:border-white
-                                                        rounded-lg px-4 py-3 text-white placeholder-white/70
-                                                        backdrop-blur-sm transition-colors duration-200
-                                                        ${isMessageInvalid ? 'border-red-300' : 'hover:border-white/50'}
-                                                    `}
-                                                    placeholder="Jūsų žinutė..."
-                                                />
+                                                <div className="flex flex-col gap-1.5">
+                                                    <label htmlFor="contact-email" className="text-sm font-medium text-white">
+                                                        El. paštas <span className="text-orange-300">*</span>
+                                                    </label>
+                                                    <input
+                                                        id="contact-email"
+                                                        type="email"
+                                                        name="email"
+                                                        value={formData.email}
+                                                        onChange={handleChange}
+                                                        aria-required="true"
+                                                        aria-invalid={isEmailInvalid}
+                                                        className={`
+                                                            w-full bg-white text-slate-900 placeholder-slate-400
+                                                            rounded-lg px-4 py-3 border transition duration-200
+                                                            focus:outline-none focus:ring-2 focus:ring-orange-300
+                                                            ${isEmailInvalid ? 'border-red-400 ring-2 ring-red-300' : 'border-transparent'}
+                                                        `}
+                                                        placeholder="Jūsų el. paštas"
+                                                    />
+                                                    {isEmailInvalid && (
+                                                        <span className="text-sm text-red-200">Įveskite el. pašto adresą.</span>
+                                                    )}
+                                                </div>
+                                                <div className="flex flex-col gap-1.5">
+                                                    <label htmlFor="contact-message" className="text-sm font-medium text-white">
+                                                        Žinutė <span className="text-orange-300">*</span>
+                                                    </label>
+                                                    <textarea
+                                                        id="contact-message"
+                                                        name="message"
+                                                        value={formData.message}
+                                                        onChange={handleChange}
+                                                        rows={4}
+                                                        aria-required="true"
+                                                        aria-invalid={isMessageInvalid}
+                                                        className={`
+                                                            w-full bg-white text-slate-900 placeholder-slate-400
+                                                            rounded-lg px-4 py-3 border transition duration-200
+                                                            focus:outline-none focus:ring-2 focus:ring-orange-300
+                                                            ${isMessageInvalid ? 'border-red-400 ring-2 ring-red-300' : 'border-transparent'}
+                                                        `}
+                                                        placeholder="Trumpai aprašykite, ko reikia"
+                                                    />
+                                                    {isMessageInvalid && (
+                                                        <span className="text-sm text-red-200">Parašykite žinutę.</span>
+                                                    )}
+                                                </div>
                                             </div>
                                             {isError && (
                                                 <p className="text-white bg-red-500/40 border border-red-300/50 rounded-lg px-4 py-3 text-sm">
