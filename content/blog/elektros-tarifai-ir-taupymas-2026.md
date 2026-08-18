@@ -2,7 +2,7 @@
 title: "Elektros tarifai ir taupymas: praktinis gidas 2026"
 description: "Elektros tarifai Lietuvoje 2026 m. — vienos ir dviejų zonų planai, naktinis tarifas, LED apšvietimas, energijos monitoringas ir praktiniai taupymo būdai."
 date: "2026-03-31"
-dateModified: "2026-03-31"
+dateModified: "2026-08-18"
 tags: ["elektros tarifai", "elektros taupymas", "naktinis tarifas", "LED apšvietimas", "energijos vartojimas"]
 image: "/images/blog/elektros-tarifai-ir-taupymas-2026.jpg"
 ---
@@ -35,6 +35,17 @@ Praktiškai tai panašu į mobiliojo ryšio rinką: tinklas vienas, bet operator
 | **Kam apsimoka** | Jei vartojate tolygiai per parą | Jei didelė dalis vartojimo naktį |
 
 **Svarbus niuansas:** dviejų zonų plane dieninis tarifas yra **brangesnis** nei vienos zonos tarifas. Tai reiškia, kad jei naktį nevartojate daug elektros -- dviejų zonų planas jums **kainuos daugiau**, ne mažiau.
+
+### Naktinis tarifas: kelinta valanda įsijungia
+
+Dažniausias klausimas -- **kelinta valanda prasideda naktinis tarifas?** Standartinės ESO naktinės (pigiojo tarifo) valandos priklauso nuo sezono:
+
+- **Žiemą** (spalis--kovas): **22:00--06:00**
+- **Vasarą** (balandis--rugsėjis, kai galioja vasaros laikas): **23:00--07:00**
+
+Be to, daugelyje dviejų zonų planų **visos savaitgalio paros** (šeštadienis ir sekmadienis) skaičiuojamos kaip naktinis tarifas -- tai reiškia, kad skalbimą, indaplovę ar elektromobilio krovimą apsimoka planuoti savaitgaliui.
+
+Svarbu: **tikslų grafiką visada patikrinkite savo tiekėjo sutartyje.** Skirtingi tiekėjai (ESO, Ignitis, Elektrum ir kiti) gali taikyti šiek tiek besiskiriančias valandas ar papildomas zonas, o kai kurie siūlo net trijų ar keturių zonų planus su dar tikslesniu valandų suskirstymu.
 
 ### Kada naktinis tarifas tikrai apsimoka
 
@@ -143,6 +154,10 @@ Ne visi elektros darbai yra „remontas". Kai kurie yra investicija, kuri moka a
 Kartu šie sprendimai gali sumažinti elektros sąskaitą **50--70%**.
 
 ## Dažniausiai užduodami klausimai
+
+### Kelinta valanda įsijungia naktinis tarifas?
+
+Standartinės ESO naktinės valandos priklauso nuo sezono: **žiemą (spalis--kovas) -- nuo 22:00 iki 06:00**, **vasarą (balandis--rugsėjis) -- nuo 23:00 iki 07:00**. Daugelyje dviejų zonų planų visas savaitgalis taip pat skaičiuojamas pagal naktinį (pigųjį) tarifą. Kadangi tiekėjai (ESO, Ignitis, Elektrum ir kiti) gali taikyti šiek tiek skirtingas valandas, tikslų grafiką patikrinkite savo sutartyje arba tiekėjo savitarnoje.
 
 ### Kaip pasirinkti elektros tiekėją?
 
