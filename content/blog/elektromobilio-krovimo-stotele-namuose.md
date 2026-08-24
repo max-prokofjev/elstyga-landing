@@ -252,11 +252,11 @@ Daugumai — taip, su atsarga. Per 8 valandų naktinį krovimą gaunate ~380 km.
 
 ## Elstyga — krovimo stotelių montavimas Vilniuje
 
-Mes montuojame krovimo stoteles kiekvieną savaitę — privačiuose namuose, daugiabučiuose, komercinėse patalpose. Žinome, kas veikia, ir žinome tipines problemas. Mūsų komanda atlieka visą procesą:
+Mes atliekame krovimo stotelių **elektros montavimo darbus** kiekvieną savaitę — privačiuose namuose, daugiabučiuose, komercinėse patalpose. Pačios stotelės neprekiaujame — ją įsigyjate pas tiekėją, o mes ją profesionaliai sumontuojame ir pajungiame. Mūsų komanda atlieka visą elektros procesą:
 
 - **Konsultacija** — įvertiname jūsų situaciją, galią, stotelės vietą
-- **Padedame pasirinkti stotelę** — pagal jūsų automobilį, esamą galią ir biudžetą
-- **Montavimas su garantija** — profesionalus darbas, visa dokumentacija
+- **Patariame dėl elektros suderinamumo** — kokia stotelė tinka jūsų esamai galiai ir tinklui
+- **Montavimas su garantija** — stotelės pajungimas, apsaugos ir visa dokumentacija
 - [Skydelio paruošimas](/blog/elektros-skydelio-keitimas-kada-ir-kodel) ar modernizavimas, jei reikia
 - **ESO darbai** — esame ESO rangovai, tad galios didinimą atliekame patys
 - **Pagalba su APVA subsidija** — paruošiame dokumentus, kad paraiška praeitų sklandžiai

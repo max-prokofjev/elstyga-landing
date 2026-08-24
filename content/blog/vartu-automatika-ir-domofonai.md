@@ -168,16 +168,15 @@ Standartinis montavimas -- **1--3 dienos**. Viena diena -- tranšėja ir kabelia
 
 Variklį pritvirtinti mechaniškai -- galite. Bet elektros dalį -- maitinimo pajungimą, [saugos elementus](/blog/elektros-saugos-patarimai-2026), skydelio grandinės apsaugą -- turi atlikti [kvalifikuotas elektrikas](/blog/kaip-issirinkti-elektrika-vilniuje). Netinkamai pajungtas variklis -- tai ne tik garantijos praradimas, bet ir gaisro bei elektros smūgio rizika.
 
-## Elstyga -- vartų automatika ir domofonų montavimas Vilniuje
+## Elstyga -- vartų automatikos ir domofonų elektros darbai Vilniuje
 
-Montuojame vartų automatikos sistemas ir domofonus privatiems namams ir verslo objektams:
+Mes neprekiaujame vartų varikliais ir domofonais ir jų nemontuojame mechaniškai -- tam yra vartų automatikos tiekėjai. Bet mes paruošiame **elektros ir kabelių infrastruktūrą**, nuo kurios priklauso, ar sistema apskritai veiks:
 
-- **Konsultacija ir planavimas** -- padedame parinkti variklį, domofoną ir valdymo būdą
+- **Objekto apžiūra ir planavimas** -- kabelių trasos, maitinimo taškai, valdymo laidų poreikis
 - **Kabelių infrastruktūra** -- [tranšėjos kasimas](/blog/transeju-kasimas-ir-kabeliu-tiesimas), požeminis kabelių tiesimas, apsauginiai vamzdžiai
-- **Variklio montavimas** -- stumdomieji, varstomieji, pramoniniai vartai
-- **Domofonas ir video skambutis** -- audio, video, IP sistemos su integracija į [išmanų namą](/blog/ismanus-namas-elektros-instaliacija)
-- **Saugos elementai** -- fotocelės, saugos briaunos, signalinės lempos
-- **Apšvietimo integracija** -- automatinis kiemo [apšvietimas](/blog/apsvietimo-sprendimai-namams-ir-biurams) su vartų sistema
-- **Programavimas ir aptarnavimas** -- sistemos konfigūracija, garantinis aptarnavimas
+- **Maitinimas ir skydelio paruošimas** -- atskira grandinė varikliui, [saugos elementai](/blog/elektros-saugos-patarimai-2026) ir apsaugos skydelyje
+- **Apšvietimo integracija** -- automatinis kiemo [apšvietimas](/blog/apsvietimo-sprendimai-namams-ir-biurams) prie vartų
+- **[Matavimai ir dokumentacija](/blog/elektros-irenginiu-testavimas-ir-matavimai)** -- privaloma elektros dokumentacija
+- **Koordinavimas** -- dirbame kartu su vartų ir domofonų montuotoju, kuris tvirtina variklį ir programuoja sistemą
 
-Planuojate vartų automatiką arba domofoną? **Susisiekite dėl konsultacijos** -- atvažiuosime, įvertinsime jūsų objektą ir pasiūlysime sprendimą su konkrečia kaina.
+Planuojate vartų automatiką arba domofoną? **Susisiekite** -- pasirūpinsime elektros ir kabelių dalimi, kad montuotojui liktų tik pastatyti ir suderinti įrangą.

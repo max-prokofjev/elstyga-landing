@@ -202,12 +202,12 @@ Laidinė KNX sistema -- **taip, pilnai**. Visi jungikliai, scenų valdymas ir au
 
 ## Elstyga -- išmanaus namo elektros instaliacija Vilniuje
 
-Projektuojame ir montuojame išmaniųjų namų elektros sistemas -- nuo pirminės konsultacijos iki pilnai veikiančio sprendimo:
+Projektuojame ir įrengiame išmaniųjų namų **elektros instaliaciją** -- nuo pirminės konsultacijos iki pilnai veikiančio sprendimo. Buitinės technikos ir galutinių išmaniųjų prietaisų neprekiaujame -- juos parenkate patys ar su integratoriumi, o mes paruošiame ir sujungiame visą elektros dalį:
 
-- **Konsultacija ir planavimas** -- padedame pasirinkti tinkamą sistemą pagal jūsų poreikius ir biudžetą
+- **Konsultacija ir planavimas** -- padedame parinkti tinkamą instaliacijos ir valdymo sprendimą pagal jūsų poreikius ir biudžetą
 - **Elektros projektas** -- su visomis kabelių trasomis, dėžučių vietomis ir skydelio schema
 - **Instaliacija** -- BUS kabeliai, maitinimo linijos, [apšvietimas](/blog/apsvietimo-sprendimai-namams-ir-biurams), apsaugos kabeliai
-- **Automatikos konfigūracija** -- scenos, grafikai, jutiklių logika
+- **Automatikos pajungimas ir konfigūracija** -- modulių pajungimas, scenos, grafikai, jutiklių logika
 - **[Matavimai ir dokumentacija](/blog/elektros-irenginiu-testavimas-ir-matavimai)** -- visa privaloma dokumentacija ir instaliacijos aktas
 - **Aptarnavimas** -- sistemos palaikymas ir plėtimas ateityje
 

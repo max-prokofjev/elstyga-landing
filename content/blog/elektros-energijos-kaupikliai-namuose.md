@@ -206,15 +206,15 @@ Taip. Baterija gali veikti savarankiškai -- kraunasi iš tinklo pigiu naktės t
 
 Tikrai ne. Baterijos sistema apima aukštos įtampos DC grandinę, hibridinį inverterį, tinklo sąveikos programavimą ir atsarginės maitinimo grandinės sukūrimą. Viena klaida gali sukelti gaisrą arba elektros smūgį. Tai kvalifikuoto elektriko darbas -- kaip ir bet kuri kita rimta [elektros instaliacija](/blog/elektros-instaliacijos-namuose-ka-reikia-zinoti).
 
-## Elstyga -- energijos kaupiklių montavimas Vilniuje
+## Elstyga -- energijos kaupiklių elektros darbai Vilniuje
 
-Montuojame namų baterijų sistemas nuo projekto iki paleidimo:
+Mes neprekiaujame baterijomis ir inverteriais -- juos tiekia kaupiklių ir saulės elektrinių įmonės. Bet mes atliekame **elektros dalį**, be kurios kaupiklis lieka tik dėžė ant sienos:
 
-- **Konsultacija** -- įvertiname jūsų vartojimą, esamą instaliaciją ir parenkame optimalų sprendimą
-- Hibridinių inverterių ir baterijų montavimas
-- [Skydelio paruošimas](/blog/elektros-skydelio-keitimas-kada-ir-kodel) ir atsarginės grandinės sukūrimas
-- Esamos saulės elektrinės papildymas baterija (AC-coupled)
-- [ESO galios didinimas](/blog/eso-prijungimas-ir-galios-didinimas) ir prijungimo darbai
-- Pilna [dokumentacija](/blog/elektros-tinklo-prieziura-ir-dokumentacija) ir garantija
+- **Konsultacija dėl elektros dalies** -- įvertiname esamą instaliaciją, skydelį ir galią pagal jūsų tiekėjo parinktą sistemą
+- **Hibridinio inverterio ir baterijos pajungimas** -- prijungimas prie namo tinklo pagal gamintojo reikalavimus
+- **[Skydelio paruošimas](/blog/elektros-skydelio-keitimas-kada-ir-kodel)** ir atsarginės grandinės sukūrimas
+- **Esamos saulės elektrinės papildymo (AC-coupled) elektros darbai**
+- **[ESO galios didinimas](/blog/eso-prijungimas-ir-galios-didinimas)** ir prijungimo darbai
+- **Pilna [dokumentacija](/blog/elektros-tinklo-prieziura-ir-dokumentacija)** ir matavimai
 
-Planuojate energijos kaupiklį? Susisiekite -- pasakysime, koks sprendimas jūsų namui optimalus.
+Planuojate energijos kaupiklį? Susisiekite -- įvertinsime jūsų instaliaciją ir pasirūpinsime elektros dalimi.

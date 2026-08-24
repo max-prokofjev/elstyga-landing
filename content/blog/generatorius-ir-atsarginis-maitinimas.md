@@ -116,14 +116,14 @@ Taip, bet reikia hibridinio inverterio. Paprastas on-grid inverteris dingus elek
 
 Nebūtinai, bet dažnai -- taip. ATS montuojamas skydelyje arba šalia jo. Jei skydelis senas ar neatitinka [saugos reikalavimų](/blog/elektros-saugos-patarimai-2026) -- pirmiausia reikia modernizuoti.
 
-## Elstyga -- atsarginio maitinimo sprendimai Vilniuje
+## Elstyga -- atsarginio maitinimo elektros darbai Vilniuje
 
-Projektuojame ir montuojame atsarginio maitinimo sistemas privatiems namams:
+Mes neprekiaujame generatoriais ir baterijomis -- juos parenkate ir įsigyjate pas įrangos tiekėją. Bet mes atliekame **elektros dalį**, kuri generatorių saugiai sujungia su jūsų namu:
 
 - **ATS jungiklių montavimas** -- automatinis perjungimas prie generatoriaus
 - **Generatoriaus prijungimas** -- kabeliai, skydelio paruošimas, [įžeminimas](/blog/izeminimas-ir-zaibosauga-ka-reikia-zinoti)
-- [Baterijų sistemų montavimas](/blog/elektros-energijos-kaupikliai-namuose) -- hibridiniai inverteriai ir kaupikliai
-- [Skydelio modernizavimas](/blog/elektros-skydelio-keitimas-kada-ir-kodel) -- paruošimas naujai įrangai
-- Pilna [dokumentacija](/blog/elektros-tinklo-prieziura-ir-dokumentacija) ir garantija
+- **Kaupiklių ir hibridinių inverterių [elektros pajungimas](/blog/elektros-energijos-kaupikliai-namuose)**
+- **[Skydelio modernizavimas](/blog/elektros-skydelio-keitimas-kada-ir-kodel)** -- paruošimas naujai įrangai
+- **Pilna [dokumentacija](/blog/elektros-tinklo-prieziura-ir-dokumentacija)** ir matavimai
 
-Norite atsarginio maitinimo sprendimo? Susisiekite dėl konsultacijos -- įvertinsime poreikius ir pasiūlysime optimalų variantą.
+Norite atsarginio maitinimo sprendimo? Susisiekite dėl konsultacijos -- įvertinsime poreikius ir pasirūpinsime elektros dalimi.

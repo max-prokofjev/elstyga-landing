@@ -119,7 +119,7 @@ Laidinė -- patikimesnė ir atsparesnė sabotažui. Belaidė -- pigesnė montuot
 
 ### Kiek kainuoja signalizacijos sistema?
 
-Bazinė belaidė sistema (centralė, 4--6 jutikliai, sirena, klaviatūra, GSM modulis) -- **300--600 EUR** su montavimu. Profesionali laidinė sistema (8--12 zonų) -- **800--1500 EUR** su montavimu. Geriausia -- [susisiekti su mumis](/blog/kaip-issirinkti-elektrika-vilniuje) konkrečiam pasiūlymui.
+Orientaciniai skaičiai rinkoje: bazinė belaidė sistema (centralė, 4--6 jutikliai, sirena, klaviatūra, GSM modulis) su įranga ir montavimu -- **300--600 EUR**. Profesionali laidinė sistema (8--12 zonų) -- **800--1500 EUR**. Elektros ir kabelių dalies kainą galime įvertinti mes; pačią sistemą tiekia ir konfigūruoja apsaugos specialistas.
 
 ### Ar galiu pats stebėti signalizaciją be stebėjimo tarnybos?
 
@@ -129,16 +129,15 @@ Taip -- tai **savistaba (self-monitoring)**. GSM modulis siunčia SMS tiesiogiai
 
 Naudokite „pet immune" PIR jutiklius su gyvūnais, nemontuokite jutiklių šalia radiatorių ar didelių langų, reguliariai tikrinkite kabelių jungtis, keiskite akumuliatorių kas 3--4 metus ir užtikrinkite, kad langai bei durys gerai užsidaro. Profesionaliai sumontuota ir sukonfigūruota sistema klaidingus aliarmus sumažina iki minimumo.
 
-## Elstyga -- signalizacijos ir apsaugos sistemų montavimas Vilniuje
+## Elstyga -- signalizacijos sistemų elektros ir kabelių darbai Vilniuje
 
-Montuojame signalizacijos sistemas nuo projekto iki veikiančios apsaugos:
+Mes neprekiaujame ir nekonfigūruojame pačių apsaugos centralių -- tam yra signalizacijos sistemų specialistai ir stebėjimo tarnybos. Bet mes paruošiame **elektros ir kabelių infrastruktūrą**, be kurios jokia signalizacija nedirbs patikimai:
 
-- **Konsultacija ir apžiūra** -- įvertiname jūsų namo saugos poreikius vietoje
-- **Laidinės ir belaidės sistemos** -- parenkame sprendimą pagal situaciją ir biudžetą
-- **Integracija su [elektros instaliacija](/blog/elektros-instaliacijos-namuose-ka-reikia-zinoti)** -- atsarginis maitinimas, kabeliavimas, [saugos reikalavimai](/blog/elektros-saugos-patarimai-2026)
-- **[Vaizdo stebėjimo sistemos](/blog/vaizdo-stebejimo-sistemu-montavimas)** -- kamerų montavimas ir integracija su signalizacija
-- **[Išmanaus namo](/blog/ismanus-namas-elektros-instaliacija) integracija** -- apšvietimo, žaliuzių ir spynų automatizavimas
-- **Stebėjimo tarnybos prijungimas** -- paruošiame sistemą centralizuotai apsaugai
-- **Garantija ir aptarnavimas** -- reguliari priežiūra ir greitas [gedimų šalinimas](/blog/elektros-gedimu-salinimas-vilniuje-kada-kvisti-elektrika)
+- **Objekto apžiūra** -- kabelių trasos, maitinimo taškai ir [saugos reikalavimai](/blog/elektros-saugos-patarimai-2026)
+- **Kabeliavimas** -- signalinių ir maitinimo kabelių tiesimas per sienas, lubas ir [tranšėjas](/blog/transeju-kasimas-ir-kabeliu-tiesimas)
+- **Maitinimas ir atsarginė grandinė** -- stabilus 230V maitinimas centralei, [skydelio](/blog/elektros-skydelio-keitimas-kada-ir-kodel) paruošimas ir apsaugos
+- **Integracija su [elektros instaliacija](/blog/elektros-instaliacijos-namuose-ka-reikia-zinoti)** -- kabeliavimo suderinimas su namo tinklu
+- **[Matavimai ir dokumentacija](/blog/elektros-irenginiu-testavimas-ir-matavimai)** -- privaloma elektros dokumentacija
+- **Koordinavimas** -- dirbame kartu su jūsų apsaugos sistemų montuotoju ir esant gedimui greitai [pašaliname elektros dalies problemas](/blog/elektros-gedimu-salinimas-vilniuje-kada-kvisti-elektrika)
 
-Planuojate apsaugoti savo namus? Susisiekite -- atvažiuosime, įvertinsime ir pasiūlysime sprendimą, kuris tikrai veiks.
+Planuojate apsaugoti savo namus? Susisiekite -- pasirūpinsime elektros ir kabelių dalimi, kad specialistui liktų tik sumontuoti ir sukonfigūruoti sistemą.

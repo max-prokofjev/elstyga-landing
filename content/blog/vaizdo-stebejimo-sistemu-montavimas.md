@@ -150,17 +150,19 @@ Priklauso nuo HDD talpos. Su 4 TB disku ir 8 kameromis -- apie **14 dienų**. Su
 
 ### Kiek kainuoja montavimas?
 
-Kaina priklauso nuo kamerų skaičiaus ir kabelių trasų sudėtingumo. 4 kamerų sistema namui su montavimu -- nuo **800--1500 EUR**. 8--16 kamerų verslo sistema -- nuo **2000 EUR**. Tikslią kainą galime pasakyti tik įvertinę objektą.
+Visos sistemos kaina priklauso nuo kamerų skaičiaus, įrangos ir kabelių trasų sudėtingumo -- orientaciniai skaičiai rinkoje: 4 kamerų sistema namui -- nuo **800--1500 EUR**, 8--16 kamerų verslo sistema -- nuo **2000 EUR**. Elektros ir kabelių dalies kainą galime pasakyti įvertinę objektą; pačios įrangos kainą pateikia jos tiekėjas.
 
-## Elstyga -- vaizdo stebėjimo sistemų montavimas Vilniuje
+## Elstyga -- vaizdo stebėjimo sistemų elektros ir kabelių darbai Vilniuje
 
-Montuojame vaizdo stebėjimo sistemas privatiems namams ir verslo objektams:
+Mes nemontuojame ir neprekiaujame pačiomis kameromis ar įrašymo įranga -- tam yra apsaugos sistemų specialistai. Bet mes darome tai, nuo ko labiausiai priklauso, ar sistema veiks patikimai: **elektros ir kabelių infrastruktūrą**.
 
-- **Objekto apžiūra ir konsultacija** -- kamerų pozicijos, kabelių trasos, maitinimo poreikiai
-- **Kabelių infrastruktūra** -- CAT6 tiesimas per [sienas, vamzdžius ir tranšėjas](/blog/transeju-kasimas-ir-kabeliu-tiesimas)
-- **Montavimas ir konfigūracija** -- kameros, NVR, PoE switch, UPS
-- **Integracija** -- su [signalizacija, išmaniu namu](/blog/ismanus-namas-elektros-instaliacija) ir prieigos kontrole
-- **[Matavimai ir dokumentacija](/blog/elektros-irenginiu-testavimas-ir-matavimai)** -- visa privaloma dokumentacija
-- **Aptarnavimas** -- priežiūra, plėtimas ir konsultacijos
+Ką konkrečiai atliekame:
 
-Planuojate vaizdo stebėjimą? Susisiekite dėl konsultacijos -- padėsime parinkti sprendimą pagal jūsų poreikius ir biudžetą.
+- **Objekto apžiūra** -- kabelių trasos ir maitinimo poreikiai pagal numatytas kamerų pozicijas
+- **Kabelių infrastruktūra** -- CAT6 ir maitinimo kabelių tiesimas per [sienas, vamzdžius ir tranšėjas](/blog/transeju-kasimas-ir-kabeliu-tiesimas)
+- **Maitinimo linijos** -- atskiros grandinės ir rozetės NVR, PoE switch ir UPS įrangai
+- **Skydelio paruošimas ir apsaugos** -- automatai, [viršįtampių apsauga ir įžeminimas](/blog/izeminimas-ir-zaibosauga-ka-reikia-zinoti)
+- **[Matavimai ir dokumentacija](/blog/elektros-irenginiu-testavimas-ir-matavimai)** -- privaloma elektros dokumentacija
+- **Koordinavimas** -- dirbame kartu su jūsų apsaugos sistemų montuotoju, kuris parenka ir konfigūruoja kameras
+
+Planuojate vaizdo stebėjimą? Susisiekite -- pasirūpinsime elektros ir kabelių dalimi, kad sistemai liktų tik ją pajungti.

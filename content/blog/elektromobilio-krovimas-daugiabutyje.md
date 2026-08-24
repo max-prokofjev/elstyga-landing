@@ -149,7 +149,7 @@ Individuali stotelė -- **2 000--4 900 EUR** prieš subsidiją, **1 000--2 450 E
 
 ## Elstyga -- EV krovimo stotelės daugiabučiuose
 
-Montuojame krovimo stoteles daugiabučiuose reguliariai -- tiek individualias, tiek bendrai infrastruktūrai. Žinome visą procesą ir visas kliūtis:
+Atliekame krovimo stotelių elektros montavimo darbus daugiabučiuose reguliariai -- tiek individualioms stotelėms, tiek bendrai infrastruktūrai. Pačios stotelės neprekiaujame -- ją įsigyjate pas tiekėją, o mes pasirūpiname visa elektros dalimi. Žinome visą procesą ir visas kliūtis:
 
 - **Apžiūra** -- įvertiname pastato tinklą, kabelio maršrutą, stovėjimo vietą
 - **Pagalba su bendrija** -- paruošiame techninį aprašymą susirinkimui
