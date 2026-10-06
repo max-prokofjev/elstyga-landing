@@ -1,18 +1,19 @@
 ---
 title: "Elektros instaliacija virtuvėje: linijos, rozetės ir galios planavimas"
-description: "Elektros instaliacija virtuvėje: kiek atskirų linijų reikia, kur planuoti rozetes, kokios galios reikės indukcinei kaitlentei ir orkaitei. Praktinis gidas."
+description: "Virtuvės elektros grandinių, rozečių ir apšvietimo planavimas pagal baldus bei įrangą. Galios įvertinimas ir pasiruošimas elektros darbams."
 date: "2026-06-02"
+dateModified: "2026-10-05"
 tags: ["elektros instaliacija", "virtuvė", "patarimai", "rozetės", "buitinė technika"]
 image: "/images/blog/elektros-instaliacija-virtuveje.jpg"
 faq:
   - question: "Ar indukcinei kaitlentei reikia atskiros elektros linijos?"
-    answer: "Taip. Indukcinė kaitlentė naudoja 3–7 kW galios, todėl jai būtina atskira linija su tinkamo skerspjūvio kabeliu ir atskiru automatiniu jungikliu. Jungti kaitlentę į bendrą rozečių liniją draudžiama — laidai kais ir automatinis jungiklis nuolat išsijunginės."
+    answer: "Kaitlentės maitinimas parenkamas pagal konkretaus modelio instrukciją, fazių skaičių ir instaliaciją. Galingai įrangai numatoma atitinkama grandinė; jungti prie neįvertintos esamos linijos nereikėtų."
   - question: "Kiek rozečių reikia virtuvėje?"
     answer: "Praktikoje virtuvei rekomenduojama 8–12 rozečių: po vieną kiekvienam stacionariam prietaisui (šaldytuvas, indaplovė, orkaitė, gartraukis, mikrobangų krosnelė) ir 3–4 rozetės darbo zonoje virš stalviršio smulkiai technikai."
   - question: "Ar galima virtuvės rozetes jungti prie senos instaliacijos?"
-    answer: "Jei namuose sena aliuminio instaliacija be įžeminimo, virtuvės apkrovos jai per didelės. Minimalus sprendimas — nauja atskira linija nuo skydelio virtuvei; geriausias — visos instaliacijos atnaujinimas."
-  - question: "Kokia apsauga privaloma virtuvės elektros linijoms?"
-    answer: "Virtuvės rozečių linijas turi saugoti 30 mA nuotėkio relė (RCD) arba kombinuotas automatinis jungiklis su nuotėkio apsauga (RCBO), nes virtuvėje elektra naudojama arti vandens."
+    answer: "Pirmiausia reikia patikrinti seną instaliaciją, kontaktus, apsauginius laidininkus ir apkrovą. Pagal rezultatus planuojamos naujos linijos arba platesnis atnaujinimas."
+  - question: "Kaip parenkamos virtuvės elektros linijų apsaugos?"
+    answer: "Grandinių apsaugos parenkamos pagal instaliacijos reikalavimus ir įrangą. Automatiniai jungikliai bei nuotėkio apsauga vertinami kartu su kabeliais ir apsauginiu laidininku."
 ---
 
 # Elektros instaliacija virtuvėje: kaip suplanuoti, kad netektų perdarinėti
@@ -25,16 +26,14 @@ Virtuvė — daugiausiai elektros energijos naudojanti patalpa namuose. Indukcin
 
 Pagrindinė taisyklė: galingi stacionarūs prietaisai gauna atskiras linijas nuo [elektros skydelio](/blog/elektros-skydelio-keitimas-kada-ir-kodel), smulki technika — bendras rozečių grupes.
 
-| Linija | Kabelio skerspjūvis | Automatinis jungiklis |
-|---|---|---|
-| Indukcinė kaitlentė | 6 mm² (arba 4 mm² iki 7,4 kW) | 32 A (arba 25 A) |
-| Orkaitė | 2,5 mm² | 16 A |
-| Indaplovė | 2,5 mm² | 16 A |
-| Šaldytuvas | 2,5 mm² | 16 A |
-| Darbo zonos rozetės | 2,5 mm² | 16 A |
-| Apšvietimas | 1,5 mm² | 10 A |
+| Įranga | Ką nustatyti prieš montavimą |
+|---|---|
+| Kaitlentė ir orkaitė | Modelių galią, fazes ir prijungimo instrukciją |
+| Indaplovė, skalbyklė ar džiovyklė | Apkrovas, grandines ir rozečių vietas |
+| Darbo zonos rozetės | Vienu metu naudojamų prietaisų poreikį |
+| Apšvietimas | Šviestuvus, maitinimo blokus ir valdymą |
 
-Skalbyklei ar džiovyklei, jei jos stovi virtuvėje, taip pat reikia atskirų linijų. Visas rozečių linijas privalo saugoti 30 mA nuotėkio relė — plačiau apie apsaugos automatiką rašėme [automatinių jungiklių parinkimo gide](/blog/automatiniai-jungikliai-ir-nuotekio-reles).
+Kabelių skerspjūviai ir apsaugos apskaičiuojami pagal įrangą bei klojimo sąlygas. Daugiau — [apsaugų parinkimo gide](/blog/automatiniai-jungikliai-ir-nuotekio-reles).
 
 ### Kodėl negalima visko jungti į vieną liniją
 
@@ -46,9 +45,9 @@ Rozetes planuokite kartu su virtuvės baldų projektu — po baldų užsakymo ke
 
 ### Darbo zona virš stalviršio
 
-- **Aukštis:** 100–110 cm nuo grindų (10–15 cm virš stalviršio)
+- **Aukštis:** derinamas pagal galutinį grindų ir stalviršio lygį; dažnas orientyras — 10–15 cm virš stalviršio
 - **Kiekis:** 3–4 rozetės, išdėstytos ten, kur realiai naudosite virdulį, kavos aparatą, trintuvą
-- **Atstumas nuo plautuvės:** ne mažiau 60 cm nuo vandens šaltinio
+- **Vieta prie plautuvės:** parenkama įvertinus vandens poveikį, naudojimą ir įrangos reikalavimus
 
 ### Stacionarūs prietaisai
 
@@ -71,7 +70,7 @@ LED juostoms reikia numatyti vietą maitinimo blokams ir atskirą liniją. Išsa
 Prieš planuojant virtuvę su indukcine kaitlente verta pasitikrinti, kokia leistina galia numatyta jūsų būstui. Butui su 5 kW vienfaze galia indukcinė kaitlentė + orkaitė + virdulys vienu metu — jau riba. Sprendimai:
 
 - **Galios didinimas per ESO** — [kaip vyksta prijungimas ir galios didinimas](/blog/eso-prijungimas-ir-galios-didinimas)
-- **Trifazis įvadas** — indukcinei kaitlentei tai natūralus pasirinkimas, nes galia paskirstoma per tris fazes ([kada verta pereiti prie trifazės](/blog/trifaze-elektra-namuose))
+- **Įvado tinkamumo patikra** — fazių skaičius ir prijungimo būdas nustatomi pagal kaitlentės instrukciją ([trifazio tinklo gidas](/blog/trifaze-elektra-namuose))
 - **Galios valdymo relė** — riboja vienu metu veikiančių prietaisų galią
 
 ## Dažniausios virtuvės instaliacijos klaidos
@@ -84,6 +83,8 @@ Prieš planuojant virtuvę su indukcine kaitlente verta pasitikrinti, kokia leis
 
 ## Kada kviesti specialistą
 
-Virtuvės elektros pertvarkymas — ne „pasidaryk pats" projektas: klaidos kainuoja techniką, o blogiausiu atveju — gaisrą. Atestuotas elektrikas suplanuos linijas pagal jūsų baldų projektą, parinks teisingus kabelių skerspjūvius ir apsaugos automatiką, o darbus užbaigs [varžų matavimais](/blog/elektros-irenginiu-testavimas-ir-matavimai), patvirtinančiais, kad instaliacija saugi.
+Elektrikas įvertina apkrovas pagal jūsų baldų ir įrangos planą, parenka kabelius bei apsaugas ir užbaigia darbus sutarta [patikra bei matavimais](/blog/elektros-irenginiu-testavimas-ir-matavimai).
 
-Planuojate virtuvės remontą Vilniuje? Susisiekite — įvertinsime esamą instaliaciją ir paruošime aiškų planą dar prieš užsakant baldus.
+Prieš konsultaciją turėkite baldų brėžinį, įrangos modelius ir jų prijungimo instrukcijas.
+
+Planuojate virtuvės remontą Vilniuje? [Susisiekite](/#kontaktai) — įvertinsime esamą instaliaciją ir paruošime aiškų planą dar prieš užsakant baldus.

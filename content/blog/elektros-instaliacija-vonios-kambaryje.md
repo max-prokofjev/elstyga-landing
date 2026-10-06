@@ -1,86 +1,57 @@
 ---
-title: "Elektros instaliacija vonios kambaryje: zonos, IP apsauga ir saugos reikalavimai"
-description: "Elektros instaliacija vonioje: 0, 1 ir 2 saugos zonos, IP apsaugos klasės šviestuvams ir rozetėms, nuotėkio relės reikalavimai. Ką privaloma žinoti."
+title: "Elektros instaliacija vonios kambaryje: zonos ir planavimas"
+description: "Kaip planuoti šviestuvus, rozetes ir prietaisų maitinimą vonioje. Saugos zonų, IP apsaugos ir instaliacijos patikros principai."
 date: "2026-06-09"
-tags: ["elektros instaliacija", "vonios kambarys", "elektros sauga", "saugumas", "IP apsauga"]
+dateModified: "2026-10-05"
+tags: ["elektros instaliacija","vonios kambarys","elektros sauga","IP apsauga"]
 image: "/images/blog/elektros-instaliacija-vonios-kambaryje.jpg"
-faq:
-  - question: "Ar vonios kambaryje galima montuoti rozetes?"
-    answer: "Taip, bet tik už 2 zonos ribų — ne arčiau kaip 60 cm nuo vonios ar dušo krašto — ir tik apsaugotas 30 mA nuotėkio rele. Rekomenduojamos rozetės su dangteliu (IP44)."
-  - question: "Kokio IP apsaugos lygio šviestuvų reikia vonioje?"
-    answer: "Virš vonios ar dušo (1 zona) — mažiausiai IPX4, o jei šviestuvas gali būti apliejamas vandens srove — IPX5. 2 zonoje pakanka IPX4, už jos ribų — įprastų šviestuvų."
-  - question: "Ar privaloma nuotėkio relė vonios kambariui?"
-    answer: "Taip. Visas vonios kambario elektros grandines — apšvietimą, rozetes, šildomas grindis, rankšluosčių džiovintuvą — privalo saugoti ne didesnės kaip 30 mA nuotėkio srovės relė (RCD)."
-  - question: "Ar galima skalbyklę statyti vonios kambaryje?"
-    answer: "Galima, jei ji stovi už 2 zonos ribų, jungiama į įžemintą rozetę su 30 mA nuotėkio apsauga ir atskira linija. Mažoje vonioje, kur atstumų išlaikyti neįmanoma, skalbyklę saugiau kelti į virtuvę ar sandėliuką."
 ---
 
-# Elektra vonios kambaryje: kur galima rozetė, o kur — tik IP65 šviestuvas
+# Elektros instaliacija vonios kambaryje: zonos ir planavimas
 
-Vonios kambarys — pavojingiausia elektrai patalpa namuose. Drėgmė, garai ir šlapias kūnas elektros smūgio riziką padidina daugybę kartų: srovė, kuri sausoje patalpoje liktų nepastebėta, šlapioje gali būti mirtina. Todėl vonios elektrai galioja griežčiausi reikalavimai iš visų gyvenamųjų patalpų.
+Vonios kambaryje elektros taškus reikia derinti su vonios, dušo ir kitų prietaisų vietomis. Drėgmė bei vandens poveikis lemia papildomus įrangos ir apsaugos reikalavimus.
 
-Geros žinios: taisyklės aiškios ir logiškos. Supratus zonų principą, nesunku suplanuoti ir saugią, ir patogią vonios elektrą.
+Prieš montavimą elektrikas turi įvertinti konkrečios patalpos planą. Bendras patarimas „rozetė už 60 cm“ neapima visų dušo konstrukcijų ir zonų nustatymo sąlygų.
 
-## Saugos zonos: 0, 1 ir 2
+## Saugos zonos: ką jos reiškia?
 
-Vonios kambarys skirstomas į zonas pagal atstumą iki vandens šaltinio. Kuo zona arčiau vandens, tuo griežtesni reikalavimai įrangai.
+Zonos nustatomos aplink vonią ar dušą. Jos apibrėžia, kokia įranga ir kokiomis sąlygomis gali būti įrengta.
 
-| Zona | Kur ji yra | Kas leidžiama |
-|---|---|---|
-| **0 zona** | Vonios ar dušo padėklo vidus | Tik 12 V SELV įranga, IPX7 |
-| **1 zona** | Virš vonios/dušo iki 2,25 m aukščio | Šviestuvai IPX4/IPX5, 12–25 V SELV, vandens šildytuvai |
-| **2 zona** | 60 cm spinduliu nuo 1 zonos krašto | Šviestuvai IPX4, elektrinis rankšluosčių džiovintuvas |
-| **Už zonų** | Toliau nei 60 cm nuo vonios krašto | Rozetės su RCD apsauga, įprasta įranga |
+| Zona | Bendras principas |
+|---|---|
+| 0 | Vonios ar dušo padėklo vidus; taikomi griežčiausi reikalavimai |
+| 1 | Erdvė virš vonios ar dušo, nustatoma pagal patalpos ir dušo geometriją |
+| 2 | Papildoma zona, kai ji taikoma konkrečiam sprendiniui |
+| Už zonų | Vis tiek vertinami aplinkos ir grandinių apsaugos reikalavimai |
 
-Praktinės išvados iš šios lentelės:
+Dušui be padėklo ribos gali skirtis nuo vonios pavyzdžio. Įrangos vietas reikia tikrinti pagal taikomą standarto redakciją ir montavimo instrukcijas. Bendrą principą pristato [Schneider Electric vonios instaliacijos gidas](https://www.electrical-installation.org/enwiki/Bathroom_electrical_installation).
 
-- **Rozetė** — tik už 2 zonos ribų, t. y. ne arčiau kaip 60 cm nuo vonios ar dušo krašto
-- **Šviestuvas virš dušo** — tik IPX4 ir aukštesnės apsaugos
-- **Jungiklis** — geriausia už vonios kambario durų; viduje leidžiamas tik virvelinis arba už 2 zonos ribų
+## IP klasė neapibūdina viso tinkamumo
 
-## IP apsaugos klasės paprastai
+IP kodas nurodo korpuso apsaugą nuo kietųjų dalelių ir vandens. Tačiau vien aukšta IP klasė nereiškia, kad šviestuvas ar rozetė leidžiami bet kurioje zonoje.
 
-IP kodas (pvz., IP44) nurodo apsaugą nuo kietųjų dalelių (pirmas skaitmuo) ir vandens (antras skaitmuo). Voniai svarbiausias antrasis:
+Vertinami ir maitinimo būdas, įrangos paskirtis, montavimo vieta bei gamintojo reikalavimai. Rozetės dangtelis nepakeičia visos apsaugos sistemos.
 
-- **IPX4** — apsauga nuo purslų iš visų pusių: standartas 1 ir 2 zonoms
-- **IPX5** — apsauga nuo vandens srovės: dušo zona, jei šviestuvas tiesiogiai apliejamas
-- **IPX7** — atlaiko panardinimą: 0 zona (vonios vidus)
+## RCD, PE ir potencialų suvienodinimas
 
-Perkant šviestuvą voniai, IP klasė nurodyta ant pakuotės. „Gražus, bet IP20" — tinka tik už zonų ribų.
+Nuotėkio apsauga, apsauginis laidininkas ir potencialų suvienodinimas vertinami kaip bendro sprendinio dalys. [RCD](/blog/automatiniai-jungikliai-ir-nuotekio-reles) nepakeičia PE laidininko.
 
-## Privaloma apsauga: nuotėkio relė ir įžeminimas
+Senoje dviejų laidų instaliacijoje elektrikas turi nustatyti, kokie atnaujinimai reikalingi. Metalinių dalių sujungimas atliekamas pagal įvertintą sprendinį; savarankiškai jungti laidų prie vamzdžių negalima.
 
-### 30 mA nuotėkio relė (RCD)
+## Ką pažymėti plane prieš remontą?
 
-Visos vonios kambario grandinės privalo būti saugomos nuotėkio rele, kurios suveikimo srovė ne didesnė kaip 30 mA. Ji atjungia elektrą per šimtąsias sekundės dalis, jei srovė pradeda tekėti ten, kur neturi — pavyzdžiui, per žmogaus kūną. Kaip veikia ir kaip parinkti — [automatinių jungiklių ir nuotėkio relių gide](/blog/automatiniai-jungikliai-ir-nuotekio-reles).
+- Vonios, dušo ir praustuvo vietas bei dušo konstrukciją.
+- Skalbyklės, džiovintuvo ir kitų prietaisų modelius.
+- Šviestuvų, jungiklių ir pageidaujamų rozečių vietas.
+- Ventiliatoriaus ir [grindų šildymo](/blog/grindinis-sildymas-elektra) poreikius.
+- Esamą skydelį ir turimus instaliacijos dokumentus.
 
-### Įžeminimas ir potencialų suvienodinimas
+Grandinių skaičius, kabeliai ir apsaugos nustatomi pagal apkrovas bei įrangą.
 
-Vonioje būtinas patikimas [įžeminimas](/blog/izeminimas-ir-zaibosauga-ka-reikia-zinoti). Senuose daugiabučiuose, kur instaliacija dviejų laidų be įžeminimo, vonios elektros saugumo užtikrinti neįmanoma — tai vienas svariausių argumentų [atnaujinti seną instaliaciją](/blog/senos-instaliacijos-keitimas-aliuminio-laidai).
+## Darbų užbaigimas
 
-Papildomai įrengiama potencialų suvienodinimo jungtis: metalinės vonios, vamzdynai ir dušo konstrukcijos sujungiamos su įžeminimu, kad tarp jų negalėtų atsirasti pavojingas įtampos skirtumas.
+Instaliacija tikrinama pagal sutartą [bandymų ir matavimų apimtį](/blog/elektros-irenginiu-testavimas-ir-matavimai). Išsaugokite schemas bei protokolus, ypač jei kabeliai bus paslėpti po apdaila.
 
-## Tipinės vonios elektros grandinės
+## Elstyga — elektros instaliacijos atnaujinimas
 
-Vidutinei voniai paprastai reikia 3–5 atskirų grandinių:
-
-1. **Apšvietimas** — lubinis + veidrodžio šviestuvas
-2. **Rozetės** — plaukų džiovintuvui, skustuvui (už 2 zonos)
-3. **Šildomos grindys** — atskira linija su termostatu ([grindinio šildymo gidas](/blog/grindinis-sildymas-elektra))
-4. **Rankšluosčių džiovintuvas** — elektrinis jungiamas per atskirą liniją
-5. **Skalbyklė** — atskira 16 A linija, jei skalbyklė stovi vonioje
-6. **Ventiliacija** — ventiliatorius, dažnai jungiamas kartu su apšvietimu arba per higrostatą
-
-## Dažniausios klaidos vonios elektroje
-
-- Rozetė per arti dušo, „nes kitur nebuvo vietos"
-- IP20 šviestuvai 1 zonoje — po metų drėgmė sugadina kontaktus
-- Šildomos grindys pajungtos be atskiros nuotėkio relės
-- Jungiklis vonios viduje prie pat durų šlapioje zonoje
-- Potencialų suvienodinimas neįrengtas, nors vonia metalinė
-
-## Patikėkite vonios elektrą specialistui
-
-Vonios kambario elektra — ta sritis, kur klaidos kaina didžiausia. Atestuotas elektrikas teisingai nustatys zonų ribas jūsų konkrečioje vonioje, parinks įrangą pagal IP klases ir užbaigs darbus [izoliacijos varžų matavimais](/blog/elektros-irenginiu-testavimas-ir-matavimai).
-
-Planuojate vonios remontą Vilniuje? Susisiekite — padėsime suplanuoti saugią ir patogią vonios elektrą dar projektavimo stadijoje.
+[Susisiekite](/#kontaktai) su vonios planu prieš apdailą — aptarsime kabelių tiesimą, reikalingus atnaujinimus ir matavimus.

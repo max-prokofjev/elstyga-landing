@@ -1,18 +1,19 @@
 ---
 title: "Rozečių ir jungiklių išdėstymas: aukščiai, kiekiai ir planavimo gidas"
-description: "Rozečių ir jungiklių išdėstymas namuose: standartiniai montavimo aukščiai, kiek rozečių reikia kiekvienoje patalpoje ir kaip planuoti pagal baldus."
+description: "Rozečių ir jungiklių vietų planavimas pagal baldus ir prietaisus. Praktiniai aukščių orientyrai, naudojimo zonos ir pasiruošimas elektros darbams."
 date: "2026-06-30"
+dateModified: "2026-10-05"
 tags: ["elektros instaliacija", "rozetės", "jungikliai", "patarimai", "planavimas"]
 image: "/images/blog/rozeciu-ir-jungikliu-isdestymas.jpg"
 faq:
   - question: "Kokiame aukštyje montuojamos rozetės ir jungikliai?"
-    answer: "Šiuolaikinis standartas: rozetės 30 cm nuo grindų, jungikliai 90–110 cm — kad būtų pasiekiami nuleista ranka. Virtuvės darbo zonoje rozetės keliamos į 100–110 cm, virš stalviršio."
+    answer: "Dažnas orientyras — apie 30 cm rozetėms ir 90–110 cm jungikliams. Tai nėra universalus privalomas standartas: aukščiai derinami pagal baldus, prieinamumą ir patalpos reikalavimus."
   - question: "Kiek rozečių reikia kambaryje?"
     answer: "Svetainėje praktiškai reikia 6–10 rozečių (TV zona viena pati suvartoja 4–5), miegamajame 4–6, namų darbo vietoje 4–6. Geriau suplanuoti keliomis daugiau — ilgikliai ant grindų ir yra požymis, kad rozečių pritrūko."
   - question: "Kada planuoti rozečių vietas remonto metu?"
     answer: "Prieš prasidedant elektros darbams ir jau turint baldų išdėstymo planą. Kai žinoma, kur stovės lova, sofa ir TV, rozetės atsiduria ten, kur jų reikia, o ne už spintos."
   - question: "Ar verta montuoti rozetes su USB įkrovimu?"
-    answer: "Taip, vietose, kur nuolat kraunami telefonai — prie lovos, darbo stalo, virtuvės darbo zonoje. Rinkitės modelius su USB-C PD išvadu, jie nepasens dar ilgai."
+    answer: "Tai gali būti patogu nuolatinėse įkrovimo vietose. Patikrinkite USB-C palaikomą galią, įrenginių suderinamumą ir galimybę vėliau pakeisti įkrovimo modulį."
 ---
 
 # Rozečių ir jungiklių išdėstymas: planas, dėl kurio nesigailėsite
@@ -21,15 +22,15 @@ Rozečių trūkumas — labiausiai kasdien jaučiama remonto klaida. Ilgikliai a
 
 Šiame gide — praktiniai aukščiai, kiekiai ir planavimo principai kiekvienai patalpai.
 
-## Universalūs montavimo aukščiai
+## Praktiniai montavimo aukščių orientyrai
 
-Griežtų privalomų aukščių gyvenamosioms patalpoms nėra — yra praktikos standartai:
+Toliau pateikti aukščiai yra planavimo orientyrai. Tikslūs sprendiniai derinami pagal baldus, prieinamumą ir konkrečios patalpos reikalavimus.
 
 | Elementas | Aukštis nuo grindų | Pastabos |
 |---|---|---|
-| Rozetės (bendros) | 30 cm | „Euro standartas" |
+| Rozetės (bendros) | 30 cm | Dažnas orientyras; derinama pagal poreikį |
 | Jungikliai | 90–110 cm | Pasiekiami nuleista ranka |
-| Virtuvės darbo zona | 100–110 cm | 10–15 cm virš stalviršio |
+| Virtuvės darbo zona | pagal baldus | Dažnas orientyras — 10–15 cm virš stalviršio |
 | Rozetės virš spintelių | pagal baldus | Gartraukiui, LED juostoms |
 | TV rozečių blokas | 120–130 cm | Slepiasi už ekrano |
 | Kondicionieriaus rozetė | ~200 cm | Prie vidinio bloko |
@@ -62,7 +63,7 @@ Namų biurui reikia daugiau, nei atrodo: kompiuteris, monitorius, šviestuvas, �
 
 - Rozetė prie durų — dulkių siurbliui, batų džiovintuvui
 - Rozetė skydelio zonoje — maršrutizatoriui, [signalizacijos centralei](/blog/signalizacijos-sistemu-irengimas), [vaizdo stebėjimo](/blog/vaizdo-stebejimo-sistemu-montavimas) įrašymo įrenginiui
-- Balkone — bent viena rozetė (o jei svarstote apie [mini saulės elektrinę balkone](/blog/mini-saules-elektrine-balkone) — atskira linija)
+- Balkone — pagal poreikį numatytas maitinimo taškas su aplinkai tinkama įranga ir apsauga
 
 ## Jungiklių planavimo principai
 
@@ -81,6 +82,6 @@ Namų biurui reikia daugiau, nei atrodo: kompiuteris, monitorius, šviestuvas, �
 
 ## Elektros taškų planas — pigiausia remonto dalis
 
-Gerai apgalvotas rozečių planas nekainuoja beveik nieko — tai valanda darbo su planu ir baldų eskizu. Blogo plano taisymas po remonto — štrabavimas per šviežius tapetus.
+Prieš elektros darbus pažymėkite baldus, prietaisus, durų atidarymą ir įkrovimo vietas. Aukščius matuokite nuo numatyto galutinio grindų lygio, o ne nebaigto pagrindo.
 
-Ruošiatės remontui Vilniuje? Susisiekite — kartu sudarysime elektros taškų planą pagal jūsų baldus ir gyvenimo įpročius, o [instaliacijos darbus](/blog/elektros-instaliacijos-namuose-ka-reikia-zinoti) atliksime taip, kad jų užtektų dešimtmečiams.
+Turėkite patvirtintą plano versiją ir išsaugokite instaliacijos trasų nuotraukas prieš apdailą. [Susisiekite](/#kontaktai) su planu — aptarsime elektros taškus ir [instaliacijos darbus](/blog/elektros-instaliacijos-namuose-ka-reikia-zinoti).

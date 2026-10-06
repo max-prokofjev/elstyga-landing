@@ -1,9 +1,9 @@
 ---
 title: "Elektros gedimų šalinimas Vilniuje — diagnostika ir remontas"
-description: "Elektros gedimų šalinimas Vilniuje: gedimo priežastys, diagnostika termovizoriumi, skubus elektrikas. Sužinokite, kada kviesti specialistą."
+description: "Elektros gedimų požymiai ir saugūs pirmieji veiksmai. Kada nutraukti naudojimą, kreiptis į elektriką ir tikrinti instaliaciją."
 date: "2025-04-02"
-dateModified: "2026-03-31"
-tags: ["elektros gedimai", "Vilnius", "elektros diagnostika", "skubus elektrikas", "gedimų šalinimas"]
+dateModified: "2026-10-05"
+tags: ["elektros gedimai","Vilnius","elektros diagnostika","elektros sauga"]
 image: "/images/blog/elektros-gedimu-salinimas-vilniuje-kada-kvisti-elektrika.jpg"
 ---
 
@@ -30,13 +30,13 @@ Kai automatas iššoka be akivaizdžios priežasties, priežastis gali būti vie
 Šviesos mirgėjimas gali reikšti tiek smulkmenų, tiek rimtą problemą:
 
 - **Viename kambaryje** — greičiausiai blogas kontaktas jungiklyje, šviestuve arba sujungime. Paprastai lengvai ištaisoma.
-- **Keliuose kambariuose** — gali būti pažeista pagrindinė linija arba silpnas nulinės kontaktas. Rimčiau.
+- **Keliuose kambariuose** — galima pagrindinės linijos ar nulinio laidininko problema; reikalinga patikra
 - **Visame bute** — problema gali būti įvade, [elektros skydelyje](/blog/elektros-skydelio-keitimas-kada-ir-kodel) arba ESO tinkle. Patikrinkite, ar pas kaimynus viskas gerai.
-- **Įjungus galingą prietaisą** — nepakankamas grandinės skerspjūvis arba reikia [galios didinimo](/blog/eso-prijungimas-ir-galios-didinimas).
+- **Įjungus galingą prietaisą** — elektrikas turi įvertinti apkrovą, kontaktus ir įtampos kritimą
 
 ### Neveikiančios rozetės
 
-Prieš kviečiant elektriką, pabandykite paprastą diagnostiką:
+Jei nėra kvapo, perkaitimo, kibirkščiavimo ar kitų pažeidimo požymių, galite patikrinti saugiai prieinamus dalykus. Įtartinos rozetės nenaudokite ir neardykite:
 
 1. Patikrinkite, ar neišjungė automatas ar RCD [skydelyje](/blog/elektros-skydelio-keitimas-kada-ir-kodel)
 2. Ar rozetė nėra valdoma jungikliu (pasitaiko kai kuriuose butuose)
@@ -52,21 +52,21 @@ Vilniaus daugiabučiuose, statytuose iki 1990 m., reguliariai susiduriame su:
 - **Nėra įžeminimo** — trūksta apsauginio laidininko (PE), nėra [tinkamo įžeminimo](/blog/izeminimas-ir-zaibosauga-ka-reikia-zinoti)
 - **Per maža galia** — sena instaliacija projektuota 2–3 prietaisams, ne šiuolaikiniams poreikiams
 
-Tokia instaliacija turi būti modernizuota — pagal LST IEC 60364 standartą [elektros saugą](/blog/elektros-saugos-patarimai-2026) užtikrinti kitaip nepavyks.
+Atnaujinimo poreikis nustatomas pagal instaliacijos būklę ir apkrovas. Nustačius pavojingą trūkumą, tos dalies naudojimas nutraukiamas iki remonto. Plačiau — [elektros saugos gide](/blog/elektros-saugos-patarimai-2026).
 
 ## Gedimų simptomų lentelė
 
 | Simptomas | Tikėtina priežastis | Ką daryti |
 |---|---|---|
-| Iššoko automatas — vieną kartą | Trumpalaikė perkrova | Patikrinkite prietaisus, įjunkite automatą |
+| Apsauga suveikė vieną kartą | Galima perkrova ar gedimas | Neįjunkite pakartotinai, jei priežastis neaiški ar yra pažeidimo požymių |
 | Automatas iššoka pakartotinai | Trumpasis jungimas arba sugedęs automatas | **Kvieskite elektriką** |
 | Mirga šviesa viename kambaryje | Blogas kontaktas jungiklyje | Vidutinio skubumo — suplanuokite patikrą |
-| Mirga šviesa visame bute | Įvado arba nulinės laido problema | **Kvieskite elektriką** |
+| Mirga šviesa visame bute | Įvado arba nulinio laidininko problema | **Kvieskite elektriką** |
 | Neveikia rozetė | Išjungęs automatas arba nutrūkęs laidas | Patikrinkite skydelį, jei nepadeda — kvieskite |
 | Rozetė šilta liečiant | Perkrova arba blogas kontaktas | **Nedelsiant atjunkite ir kvieskite** |
 | Degėsių kvapas | Lydosi izoliacija, kaitinantis kontaktas | **Išjunkite elektrą ir kvieskite tuoj pat** |
 | Kibirkščiuoja rozetė | Pažeistas kontaktas, drėgmė | **Kvieskite elektriką** |
-| Muša elektra nuo prietaiso | Nuotėkio srovė, pažeista izoliacija | Patikrinkite RCD, kvieskite elektriką |
+| Jaučiamas elektros smūgis nuo prietaiso | Galimas pavojingas gedimas | Nebenaudokite ir nelieskite įrangos; patyrus elektros traumą skambinkite 112 |
 
 ## Profesionali diagnostika
 
@@ -75,7 +75,7 @@ Kai simptomų priežastis neaiški, atliekama profesionali elektros diagnostika:
 1. **Vizualinė apžiūra** — skydelio, rozečių, jungiklių ir matomų laidų
 2. **Izoliacijos varžos matavimas** — nustato, ar laidų izoliacija nepažeista
 3. **Grandinės tęstinumo testas** — patikrina apsauginio laidininko kontaktus
-4. **Termovizija** — infraraudonaisiais spinduliais aptinkami perkaitę kontaktai, nematomi plika akimi
+4. **Papildoma patikra** — metodai parenkami pagal nustatytus požymius ir sutartą diagnostikos apimtį
 5. **RCD ir automatų testavimas** — ar apsauginiai įtaisai suveikia per nustatytą laiką
 
 Daugiau apie [matavimus ir bandymus](/blog/elektros-irenginiu-testavimas-ir-matavimai).
@@ -84,10 +84,10 @@ Daugiau apie [matavimus ir bandymus](/blog/elektros-irenginiu-testavimas-ir-mata
 
 ### Galite patys:
 
-- Pakeisti perdegusią lemputę
-- Patikrinti ir įjungti iššokusį automatą ar RCD
+- Pakeisti perdegusią lemputę pagal šviestuvo instrukciją, saugiai atjungus maitinimą
+- Patikrinti saugiai matomą skydelio žymėjimą ir apsaugos būseną; neįjunginėti pakartotinai nežinant priežasties
 - Pakeisti sugedusį ilgintuvą
-- Paspausti TEST/RESET mygtuką ant RCD
+- RCD TEST mygtuką naudoti pagal gamintojo instrukciją, įvertinus elektros atjungimą
 
 ### Kvieskite elektriką:
 
@@ -113,12 +113,12 @@ Jei situacija atrodo pavojinga — veikite greitai:
 
 ## Kaip sumažinti gedimų riziką
 
-Prevencija visada pigesnė nei remontas:
+Planinė priežiūra padeda pastebėti problemas anksčiau:
 
-- **[Reguliari patikra](/blog/elektros-irenginiu-testavimas-ir-matavimai)** — kartą per 3–5 metus
+- **[Planinė patikra](/blog/elektros-irenginiu-testavimas-ir-matavimai)** — grafiką nustatykite pagal būklę ir objekto reikalavimus
 - **Neperkraukite grandinių** — nenaudokite kelių ilgintuvų vienas į kitą
-- **[Keiskite senus automatus](/blog/elektros-skydelio-keitimas-kada-ir-kodel)** — automatai tarnauja 15–20 metų
-- **Drėgnose patalpose** — IP54 ar aukštesnės apsaugos rozetės
+- **[Skydelio būklė](/blog/elektros-skydelio-keitimas-kada-ir-kodel)** — apsaugų tinkamumą įvertinkite prieš naujas apkrovas
+- **Drėgnose patalpose** — įrangos vietos, apsaugos ir IP klasė parenkamos pagal konkrečias sąlygas
 - **[Dokumentacija](/blog/elektros-tinklo-prieziura-ir-dokumentacija)** — žinokite savo instaliacijos schemą
 - **[Viršįtampių apsauga](/blog/izeminimas-ir-zaibosauga-ka-reikia-zinoti)** — apsaugokite brangią elektroniką nuo žaibo ir tinklo trikdžių
 
@@ -126,7 +126,7 @@ Prevencija visada pigesnė nei remontas:
 
 ### Ar galite atvykti skubiai?
 
-Taip. Teikiame skubaus elektriko paslaugas Vilniuje — skubiais atvejais atvykstame kuo greičiau. Susisiekite ir sutarsime laiką.
+Atvykimo galimybę ir laiką suderiname susisiekus. Jei yra gaisras ar grėsmė žmonėms, pirmiausia skambinkite 112.
 
 ### Kodėl nuolat iššoka automatas, nors prietaisų nedaug?
 
@@ -142,11 +142,6 @@ Pirmiausia patikrinkite, ar problema ne ESO tinkle — paklauskite kaimynų arba
 
 ## Elstyga — elektros gedimų šalinimas Vilniuje
 
-Mūsų komanda specializuojasi elektros gedimų diagnostikoje ir šalinime:
+Galime aptarti elektros instaliacijos būklės įvertinimą, sutartus bandymus ir reikalingą atnaujinimą. Atvykimo laiką bei darbų apimtį suderiname pagal situaciją.
 
-- **Operatyvus atvykimas** — reaguojame į skubius iškvietimus
-- **Profesionali diagnostika** — naudojame termovizorių, izoliacijos varžos matuoklį ir kitą įrangą
-- **Gedimų šalinimas su garantija** — dirbame pagal LST IEC 60364 reikalavimus
-- **Prevencijos rekomendacijos** — padedame išvengti pakartotinių problemų
-
-Susisiekite su mumis — padėsime greitai ir profesionaliai.
+[Susisiekite](/#kontaktai) ir nurodykite, kada atsirado problema, kokie prietaisai veikė ir ar ji paveikė vieną grandinę ar visą objektą. Neatidarykite skydelio ir nelieskite pažeistos įrangos.

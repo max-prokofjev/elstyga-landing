@@ -2,20 +2,21 @@
 title: "Elektros instaliacijos patikra perkant būstą: ką patikrinti prieš sandorį"
 description: "Perkate butą ar namą? Elektros instaliacijos patikra prieš pirkimą: ką apžiūrėti patiems, kada samdyti elektriką ir kokie defektai leidžia derėtis dėl kainos."
 date: "2026-07-07"
+dateModified: "2026-10-05"
 tags: ["patarimai", "būsto pirkimas", "elektros sauga", "elektros instaliacija", "Vilnius"]
 image: "/images/blog/elektros-patikra-perkant-busta.jpg"
 faq:
   - question: "Kiek kainuoja elektros instaliacijos patikra prieš perkant būstą?"
-    answer: "Patikros kaina priklauso nuo būsto ploto ir apimties — apžiūra su matavimais standartiniame bute užtrunka 1–2 valandas. Palyginus su galima instaliacijos keitimo kaina ir derybine verte, tai viena geriausiai atsiperkančių išlaidų perkant būstą."
+    answer: "Kaina ir trukmė priklauso nuo objekto, prieigos, grandinių ir sutartos patikros apimties. Turimi dokumentai bei aiškus patikros tikslas padeda parengti pasiūlymą."
   - question: "Ar galima patikrinti elektros instaliaciją pačiam?"
-    answer: "Bazinę apžiūrą — taip: skydelio amžius, rozečių būklė, laidų tipas, drėgmės pėdsakai. Bet izoliacijos varžos, įžeminimo ir nuotėkio relių veikimo patikrinti be prietaisų neįmanoma — tam reikia elektriko su matavimo įranga."
+    answer: "Galima apžiūrėti saugiai matomus korpusus, žymėjimą ir dokumentus. Neatidarykite skydelio ar rozečių. Kabelių ir apsaugos sistemos patikrai reikalingas specialistas bei matavimo įranga."
   - question: "Kokie elektros defektai turi didžiausią įtaką būsto kainai?"
-    answer: "Aliuminio instaliacija visame būste, įžeminimo nebuvimas ir per mažas leistinos galios limitas — tai defektai, kurių pašalinimas kainuoja tūkstančius eurų ir yra rimtas argumentas derybose."
+    answer: "Didžiausią poveikį gali turėti nustatyti pavojingi trūkumai ir atnaujinimai, reikalingi jūsų naudojimo poreikiams. Vien laidų medžiaga neparodo visos būklės; darbų kainą vertinkite pagal patikrą ir sąmatą."
   - question: "Ar sena elektros instaliacija — priežastis nepirkti buto?"
     answer: "Nebūtinai. Svarbu žinoti realią būklę ir įskaičiuoti atnaujinimo kainą į sandorį. Butas su sena instaliacija už atitinkamai mažesnę kainą gali būti geras pirkinys — blogiausia mokėti naujos instaliacijos kainą už seną."
 ---
 
-# Elektros patikra perkant būstą: valanda darbo, kuri gali sutaupyti tūkstančius
+# Elektros patikra perkant būstą: ką įvertinti prieš sandorį
 
 Perkant būstą visi tikrina langus, stogą ir santechniką. Elektros instaliacija lieka „už kadro" — jos nesimato, o rozetės juk veikia. Problema ta, kad instaliacijos keitimas yra vienas brangiausių remonto darbų, o jos defektai apžiūros metu nesimato būtent tada, kai labiausiai reikia.
 
@@ -25,29 +26,29 @@ Perkant būstą visi tikrina langus, stogą ir santechniką. Elektros instaliaci
 
 ### 1. Elektros skydelis
 
-Skydelis — instaliacijos veidrodis, jį apžiūrėkite pirmiausia:
+Apžiūrėkite saugiai matomą skydelio išorę ir žymėjimą. Apsauginių dangčių neatidarykite:
 
-- **Automatiniai kamščiai ar keraminiai saugikliai** — instaliacijai 40+ metų, greičiausiai jos niekas nekeitė
-- **Nėra nuotėkio relių** — instaliacija neatitinka šiuolaikinių saugos reikalavimų
-- **Pajuodę laidai, apsilydę kontaktai, „šakotuvo" stiliaus prijungimai** — skydelį remontavo ne specialistas
+- **Senos konstrukcijos saugikliai** — priežastis pasitikslinti instaliacijos istoriją
+- **Neaiški nuotėkio apsauga** — jos poreikį ir tinkamumą turi įvertinti elektrikas
+- **Matomas patamsėjimas ar deformacijos** — galimi perkaitimo požymiai; įrangos nelieskite
 - **Nesurašytos linijos** — smulkmena, bet daug pasakanti apie priežiūrą
 
 Kaip turi atrodyti tvarkingas skydelis, aprašėme [skydelio keitimo straipsnyje](/blog/elektros-skydelio-keitimas-kada-ir-kodel).
 
 ### 2. Laidų tipas ir amžius
 
-Paklauskite (ir paprašykite parodyti): ar keista instaliacija, kada, ar yra dokumentai. Name iki ~1990 m. statybos be dokumentuoto keitimo beveik garantuotai rasite [aliuminio laidus](/blog/senos-instaliacijos-keitimas-aliuminio-laidai) — tai savaime ne avarija, bet reiškia, kad pilnas instaliacijos atnaujinimas yra klausimas „kada", ne „ar".
+Paprašykite instaliacijos atnaujinimo dokumentų, schemų ir protokolų. Senesniame būste verta patikrinti [kabelių bei sujungimų būklę](/blog/senos-instaliacijos-keitimas-aliuminio-laidai), o ne spręsti vien pagal statybos metus.
 
 ### 3. Rozetės ir jungikliai
 
-- Pajudinkite kelias rozetes — jos neturi klibėti sienoje
+- Vizualiai įvertinkite rozečių korpusus; nejudinkite ir neardykite įtartinų ar pažeistų elementų
 - Patamsėjusios, apsilydžiusios rozetės — blogo kontakto ir kaitimo pėdsakai
 - Rozetės be įžeminimo kontakto visame bute — nėra apsauginio laidininko
 - Per apžiūrą įjunkite šviesas visose patalpose — mirksėjimas gali rodyti [gedimus](/blog/elektros-gedimu-salinimas-vilniuje-kada-kvisti-elektrika)
 
 ### 4. Galios limitas
 
-Pasitikslinkite leistinąją galią (ji nurodyta ESO sutartyje). Senuose butuose dažnas 3–5 kW limitas — indukcinei kaitlentei, kondicionieriui ar [elektromobilio krovimui](/blog/elektromobilio-krovimas-daugiabutyje) jo neužteks, o [galios didinimas](/blog/eso-prijungimas-ir-galios-didinimas) — papildomas laikas ir išlaidos.
+Pasitikslinkite ESO leistiną naudoti galią ir palyginkite ją su planuojama įranga. [Galios didinimo](/blog/eso-prijungimas-ir-galios-didinimas) poreikis nustatomas įvertinus apkrovas, o ne vien būsto amžių.
 
 ## Ką parodo tik profesionali patikra
 
@@ -59,9 +60,8 @@ Vizualinė apžiūra atsako į pusę klausimų. Kita pusė matoma tik su prietai
 | Įžeminimo varža | Ar įžeminimas realiai veikia, ar tik atrodo |
 | Nuotėkio relių testas | Ar apsauga suveiks per reikiamą laiką |
 | Grandinės pilnoji varža | Ar automatai atjungs trumpąjį jungimą |
-| Termovizija | Kaistantys sujungimai, nematomi akiai |
 
-Visi šie matavimai aprašyti [elektros įrenginių testavimo gide](/blog/elektros-irenginiu-testavimas-ir-matavimai). Bute jie užtrunka 1–2 valandas, o rezultatas — konkretus defektų sąrašas su rimtumo įvertinimu.
+Patikros metodai aptarti [elektros bandymų ir matavimų gide](/blog/elektros-irenginiu-testavimas-ir-matavimai). Apimtį ir atjungimus suderinkite su savininku; ribota prieiga gali riboti išvadas.
 
 ## Kaip panaudoti patikros rezultatus derybose
 
@@ -83,8 +83,8 @@ Perkant individualų namą, prie buto sąrašo prisideda:
 - **Lauko instaliacija** — kiemo apšvietimas, [vartų automatika](/blog/vartu-automatika-ir-domofonai), pastatų prijungimai
 - **Dokumentacija** — [elektros ūkio dokumentai](/blog/elektros-tinklo-prieziura-ir-dokumentacija), deklaracijos, projektai
 
-## Išvada: patikra atsiperka visada
+## Kaip pasiruošti patikrai
 
-Galimi trys scenarijai, ir visi trys jums naudingi: patikra parodo, kad instaliacija tvarkinga (perkate ramiai), randa vidutinių defektų (deratės dėl kainos) arba atskleidžia rimtų problemų (išvengiate blogo pirkinio).
+Suderinkite prieigą ir elektros atjungimo galimybę su pardavėju. Turėkite turimus protokolus, schemas bei planuojamų prietaisų sąrašą.
 
-Perkate būstą Vilniuje ar apylinkėse? Susisiekite — atliksime instaliacijos patikrą su matavimais ir pateiksime aiškią ataskaitą dar iki sandorio.
+Patikra padeda vertinti rizikas, tačiau jos išvados priklauso nuo sutartos apimties ir prieigos. [Susisiekite](/#kontaktai) — aptarsime matavimus ir dokumentus prieš jūsų planuojamą sandorį.
